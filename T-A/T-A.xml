@@ -1,2 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<!DOCTYPE TEI PUBLIC "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd" "../schema/tei_lite.dtd">
+<TEI xml:id="T-A" n="Paris BnF fr. 23112">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+                <respStmt><name>Loren Lee</name><resp><date>2023-10-14</date>scribe</resp></respStmt>
+            </titleStmt>
+            <publicationStmt><p></p></publicationStmt>
+            <sourceDesc><p></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    
+    
+    <text>
+        <body>
+            <div>
+    
+   
+    
+    
+    
+    
+    
+    </div>
+    </body>
+    </text>
+</TEI>
+
