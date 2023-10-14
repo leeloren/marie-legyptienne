@@ -1,6 +1,9 @@
 # Oxygen Project File
 *.xpr
 
+# Mac file
+.DS_Store
+
 # History files
 .Rhistory
 .Rapp.history
