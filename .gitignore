@@ -1,3 +1,6 @@
+# Oxygen Project File
+*.xpr
+
 # History files
 .Rhistory
 .Rapp.history
