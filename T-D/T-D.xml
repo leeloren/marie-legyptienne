@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE TEI PUBLIC "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd" "../schema/tei_lite.dtd">
+<TEI xml:id="T-D" n="Paris BnF fr. 19525">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+                <respStmt><name>Loren Lee</name><resp><date>2023-10-25</date>scribe</resp></respStmt>
+            </titleStmt>
+            <publicationStmt><p></p></publicationStmt>
+            <sourceDesc><p></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    
+    
+    <text>
+        <body>
+            <div>
+                
+                <pb n="??rv"/>                    
+                    <l> Oez seignors une raisun<lb/></l>
+                    <l> ou il na se verite nun,<lb/></l>
+                    <l> tote est faite de verite<lb/></l>
+                    <l> ni a mot de falsete<lb/></l>
+                    <l> bien croi que volentiers lorunt<lb/></l>
+                    <l> cil qui dampnedeu amerunt<lb/></l>
+                    <l> car a cels qui de lui nunt cure<lb/></l>
+                    <l> Sa parole est aspre &amp; dure<lb/></l>
+                    <l> tuit cil qui le vuelet amer<lb/></l>
+                    <l> &amp; por samor mei escouter<lb/></l>
+                    <l> de ma dame sainte marie<lb/></l>
+                    <l> le egipeiene orunt la vie<lb/></l>
+                    <l> ke ceo saceur tuit peceor<lb/></l>
+                    <l> ki forfait sunt a lor seignor<lb/></l>
+                    <l> ke nul peche nest tant grant<lb/></l>
+                    <l> Ne tant orible . ne tant pesant<lb/></l>
+                    <l> dunt deu ne face voir pardun<lb/></l>
+                    <l> par fei &amp; par confessiun<lb/></l>
+                    <l> a cels qui prenent penitance<lb/></l>
+                    <l> Mes gardent soi de mescreance<lb/></l>
+                    <l> Se huem guerpist la merci de<lb/></l>
+                    <l> cel pechie ne sera ia pardone<lb/></l>
+                    <l> peche nest mie creature<lb/></l>
+                    <l> ains est un mehaing de nature<lb/></l>
+                    <l> Une deu ne cria pechie<lb/></l>
+                    <l> &amp; ne porot si a sun cie<lb/></l>
+                    <l> en toz homes a son hostal<lb/></l>
+                    <l> esforce les de faire mal<lb/></l>
+                    <l> Nuls huem nest en ceste vie<lb/></l>
+                    <l> tant soit sages ou nait folie<lb/></l>
+                    <l> Mainte fier pechie firent<lb/></l>
+                    <l> li apostre qui deu servirent.<lb/></l>
+                    <l> por ceo ne me puis merveiller<lb/></l>
+                    <l> del dolent quant loi pechier<lb/></l>
+                    <l> Mes de celui ai grant merveille<lb/></l>
+                    <l> Qui toz iors dort. &amp; ne sesveille<lb/></l>
+                    <l> en ses ors pechier sendort<lb/></l>
+                    <l> desquil seut al cuer la mort<lb/></l>
+                    <l> Qnt il se muert . &amp; il le sent<lb/></l>
+                    <l> dunt dis il ieo me repent<lb/></l>
+                    <l> a tart a pris le repentir<lb/></l>
+                    <l> Quant est venu al morir<lb/></l>
+                    <l> Selunc les dis saint augustin<lb/></l>
+                    <l> Nest mie bone cele fin<lb/></l>
+                    <l> Quant le chetif sent la mort<lb/></l>
+                    <l> Ne puet faire dreit ne tort<lb/></l>
+                    <l> Guerpist la male iniquite<lb/></l>
+                    <l> Nen a mes de poeste<lb/></l>
+                    <l> Se plus i eust de sa vie<lb/></l>
+                    <l> encore fesist la folie<lb/></l>
+                    <l> Quant lalme sen va miserine<lb/></l>
+                    <l> ki lui puet faire medecine<lb/></l>
+                    <l> fors cil deu qui la cria<lb/></l>
+                    <l> ceo que a fait ceo trovera<lb/></l>
+                    <l> Ceste dame dut voil parler<lb/></l>
+                    <l> marie loi apeler<lb/></l>
+                    <l> egipeiane est por ceo dite<lb/></l>
+                    <l> Que ele fu nee en egypte<lb/></l>
+                    <l> honte perdi . &amp;<lb/></l>
+                    <l> Mes malement fu enseignee<lb/></l>
+                    <l> legiere devint en selfance<lb/></l>
+                    <l> honte perdi . &amp; amaance<lb/></l>
+                    <l> tant ert esprise de luxure<lb/></l>
+                    <l> Que daltre chose naveit cure<lb/></l>
+                    <l> Por ceo qle estoit lele . &amp; gente<lb/></l>
+                    <l> Safiout tant en sa iovente<lb/></l>
+                    <l> ke tot faisoit le suen plaisir<lb/></l>
+                    <l> Ne lui menbreut pas de morir<lb/></l>
+                    <l> Ne de parens ne se gardout<lb/></l>
+                    <l> a toz homes sabandonout<lb/></l>
+                    <l> Ne espeir q fust en ceste vie<lb/></l>
+                    <l> Femme de greignor legerie<lb/></l>
+                    <l> Sis pere . &amp; sa mere viveient<lb/></l>
+                    <l> Porpoi de duel ne moreient<lb/></l>
+                    <l> Il la vouleient chastier<lb/></l>
+                    <l> Mes nes presout un dener<lb/></l>
+                    <l> Ne presont chasti de parent<lb/></l>
+                    <l> Plus que fesoit trespas de vent<lb/></l>
+                    <l> Fille ceo lui disoit la mere<lb/></l>
+                    <l> car crei le conseil de ton pere<lb/></l>
+                    <l> Se longement tiens cest mestier<lb/></l>
+                    <l> Nos en arum reprovier<lb/></l>
+                    <l> Por deu te pri fille marie<lb/></l>
+                    <l> Guerpiz ceste legerie<lb/></l>
+                    <l> Quant cest mester aras guerpi<lb/></l>
+                    <l> Nos te doron rice mari<lb/></l>
+                    <l> Nest dreit q tu soies perdue<lb/></l>
+                    <l> Por sofraite de nostre aiue<lb/></l>
+                    <l> Fille tu es de grant parage<lb/></l>
+                    <l> Mult est grant duel . &amp; grant damage<lb/></l>
+                    <l> Ke tu soies issi perie<lb/></l>
+                    <l> Por ca maesse legerie<lb/></l>
+                    <l> Tis peres est issi irez<lb/></l>
+                    <l> James a nul ior niert liez<lb/></l>
+                    <l> &amp; maldit tote saventure<lb/></l>
+                    <l> Quant a fait tale engendreure<lb/></l>
+                    <l> Quant marie loi parler<lb/></l>
+                    <l> Ne la pout solement escoter<lb/></l>
+                    <l> desque ele out passe douze anz<lb/></l>
+                    <l> a toz vent faire lors talenz<lb/></l>
+                    <l> Por parfaire sa volente<lb/></l>
+                    <l> Senfui en altre regne<lb/></l>
+                    <l> Tot son parente deguerpit<lb/></l>
+                    <l> Une puis un dels ne la vit<lb/></l>
+                    <l> esue sen est cumme lere<lb/></l>
+                    <l> Senz seu de pere . ne de mere<lb/></l>
+                    <l> el chemin entra marie<lb/></l>
+                    <l> Une ni demanda conpaignie<lb/></l>
+                    <l> en alisandre est venue<lb/></l>
+                    <l> descouseillee . &amp; mal seue<lb/></l>
+                    <l> chies les meretrix prist ostal<lb/></l>
+                    <l> Iloc a fait son cors venal<lb/></l>
+                    <l> ele esteit blanche cume flor<lb/></l>
+                    <l> des iovencials aveit lamor<lb/></l>
+                    <l> tuit venoient al bordel<lb/></l>
+                    <l> por soue amor li iovencel<lb/></l>
+                    <l> Mais por faire tot sun deduit<lb/></l>
+                    <l> Les out o sei . &amp; ior . &amp; nuit<lb/></l>
+                    <l> a son deduit ert ententive<lb/></l>
+                    <l> de ior . &amp; de nuit la chetive<lb/></l>
+                    <l> car boire . &amp; manger . &amp; luxure<lb/></l>
+                    <l> ceo ert tote la soue cure<lb/></l>
+                    <l> Quant ele levout del souper<lb/></l>
+                    <l> oles gartuns alout iouer<lb/></l>
+                    <l> Si par amont o els bourdir<lb/></l>
+                    <l> Nentendoit gueres al dormir<lb/></l>
+                    <l> Li iovencel tuit li plusor<lb/></l>
+                    <l> erent si espris de samor<lb/></l>
+                    <l> Que devant sun vis enlentrer<lb/></l>
+                    <l> Iloc faisoient mainte meslee<lb/></l>
+                    <l> Por ceo ql erent si ami<lb/></l>
+                    <l> Se fesoient iloc hardi<lb/></l>
+                    <l> de guisarmer . &amp; despees<lb/></l>
+                    <l> Sentredonouent grans colees<lb/></l>
+                    <l> del sanc qui esteit espandu<lb/></l>
+                    <l> en coreit aval la palu<lb/></l>
+                    <l> La chetive qui ceo veeit<lb/></l>
+                    <l> Nule peor ne len perneit<lb/></l>
+                    <l> Se un moreit de ses amis<lb/></l>
+                    <l> ele en aveit quarante vifs<lb/></l>
+                    <l> Quant ele veet les deus ocis<lb/></l>
+                    <l> La plus tart ne faisoit un ris<lb/></l>
+                    <l> La cil qui por lui fust nafre<lb/></l>
+                    <l> Por lui ne fust il regarde<lb/></l>
+                    <l> plus ama o les sains iuer<lb/></l>
+                    <l> Que les malades visiter<lb/></l>
+                    <l> en alisandre esteit marie<lb/></l>
+                    <l> ou ele demenout iceste vie<lb/></l>
+                    <l> Iloc demena ses talenz<lb/></l>
+                    <l> La chetive dis . &amp; set anz<lb/></l>
+                    <l> La vile ert por lui enperie<lb/></l>
+                    <l> alkes en ert mehainmie<lb/></l>
+                    <l> &amp; le pais tot envirun<lb/></l>
+                    <l> esteit en grant perdiciun<lb/></l>
+                    <l> De sa bealte . &amp; de sa figure<lb/></l>
+                    <l> Si cum est en lescripture<lb/></l>
+                    <l> voil un poi dire se semblant<lb/></l>
+                    <l> einz que ieo trespas avant<lb/></l>
+                    <l> en cel tens ne en cel regne<lb/></l>
+                    <l> Ne vit une home plus bele femme<lb/></l>
+                    <l> Ne cuntesse ne raine.<lb/></l>
+                    <l> Nous onkes tele meschine<lb/></l>
+                    <l> roundes avoit les oreilles<lb/></l>
+                    <l> Mais blanches erent a merveilles<lb/></l>
+                    <l> les sorciz neirs. &amp; avenanz<lb/></l>
+                    <l> les sorciz neirs .&amp; sorianz<lb/></l>
+                    <l> la bouche brieve .&amp; par mesure<lb/></l>
+                    <l> &amp; pie la regardeure.<lb/></l>
+                    <l> la face tendre.&amp; coloree<lb/></l>
+                    <l> cumme rose qui senpres est nee<lb/></l>
+                    <l> ja el nes ne el mentun<lb/></l>
+                    <l> Ni veist lun mesfacun<lb/></l>
+                    <l> par sun le col blanc cu ermine<lb/></l>
+                    <l> li undout la bloie crine<lb/></l>
+                    <l> chascun des traianz a la dune<lb/></l>
+                    <l> Nert mie greignor dune pume<lb/></l>
+                    <l> Soz la gorge en la poitrine<lb/></l>
+                    <l> ere blanche cume flor despine<lb/></l>
+                    <l> blans bras aveit .&amp; beles mains<lb/></l>
+                    <l> &amp; les deis lunes.gresles.&amp; pleins<lb/></l>
+                    <l> Nert trop grande ne trop petite<lb/></l>
+                    <l> ja sa facun niert deserite<lb/></l>
+                    <l> ja la bealte de ceste dune<lb/></l>
+                    <l> Niert escrite por nul home<lb/></l>
+                    <l> tant ert corteise de parler<lb/></l>
+                    <l> rien ni aveit que amender<lb/></l>
+                    <l> a plaindre fait tel creature<lb/></l>
+                    <l> Quant del creator naveit cure<lb/></l>
+                    <l> ele recevoir or. &amp; argent<lb/></l>
+                    <l> Si achatout bons garnemenz<lb/></l>
+                    <l> bons dras aveit &amp; avenanz<lb/></l>
+                    <l> por miex plesir a ses amanz<lb/></l>
+                    <l> ele nout cure de dras de leine<lb/></l>
+                    <l> al peor ior de la semeine<lb/></l>
+                    <l> Vesteit bons bliaus dosturin<lb/></l>
+                    <l> &amp; afubla mantel hermin<lb/></l>
+                    <l> Soulers bien pains de cordouen<lb/></l>
+                    <l> chaucout a toz les iors del an<lb/></l>
+                    <l> li citeen de la cite<lb/></l>
+                    <l> lamouent tuit por sa bealte<lb/></l>
+                    <l> li anciem home . &amp; li sage<lb/></l>
+                    <l> disoient tuit deus quel damage<lb/></l>
+                    <l> Mar fu unques la dolente<lb/></l>
+                    <l> tant fait a plaindre sa iovente<lb/></l>
+                    <l> Mar fu unques la soue vie<lb/></l>
+                    <l> Quant si est pleine de folie<lb/></l>
+                    <l> tuit disoient par la cite<lb/></l>
+                    <l> Que ele ert de mult halt parente<lb/></l>
+                    <l> car a toz rosponeit raisun<lb/></l>
+                    <l> &amp; tant ert bele de facun<lb/></l>
+                    <l> ke le fiz dun enpereor<lb/></l>
+                    <l> la peust prendre par honor<lb/></l>
+                    <l> Ceo fu en mei el meis deste<lb/></l>
+                    <l> quele ert al mur de la cite<lb/></l>
+                    <l> esgardout aval le port<lb/></l>
+                    <l> ou soloit faire son deport<lb/></l>
+                    <l> ariver vit une galee<lb/></l>
+                    <l> Qui de libie ert eschipee<lb/></l>
+                    <l> tote pleine ert de pereins<lb/></l>
+                    <l> de vielz honnes . &amp; de meschins<lb/></l>
+                    <l> en ierusalem en alouent<lb/></l>
+                    <l> par bon corage se hastouent<lb/></l>
+                    <l> por estre atens a une feste<lb/></l>
+                    <l> ki de la croiz i devoit estre<lb/></l>
+                    <l> cil qui estoient plus legier<lb/></l>
+                    <l> Sen alerent fors el gravier<lb/></l>
+                    <l> Main a main salouent iuant<lb/></l>
+                    <l> Par le rivage li enfant<lb/></l>
+                    <l> Mais quant les apercut marie<lb/></l>
+                    <l> Ne pout muer quele ne rie<lb/></l>
+                    <l> e.mpres sei vit un home ester<lb/></l>
+                    <l> cunmenca lui a demander<lb/></l>
+                    <l> Sire dist ele car me diz<lb/></l>
+                    <l> Por icel deu par qui tu viz<lb/></l>
+                    <l> Quel part sen irunt cil barun<lb/></l>
+                    <l> ki la sen issent di cel dromun<lb/></l>
+                    <l> &amp; se poroie o els aler<lb/></l>
+                    <l> car nai mes soing de ci ester<lb/></l>
+                    <l> aler menuoil di ceste cite<lb/></l>
+                    <l> ceo mest vis trop iai este<lb/></l>
+                    <l> ceo lui respundi li preuz huem<lb/></l>
+                    <l> Il irunt en ierusalem<lb/></l>
+                    <l> Se lor aviez que doner<lb/></l>
+                    <l> dune poriez o els aler<lb/></l>
+                    <l> par deu sire dist la dolente<lb/></l>
+                    <l> Jeo ai mult bele la iovente<lb/></l>
+                    <l> Mon cors lor metrai abandun<lb/></l>
+                    <l> Ne lor puis faire altre dun<lb/></l>
+                    <l> Ne lor dorai altre loier<lb/></l>
+                    <l> car ieo ne nai cun sol dener<lb/></l>
+                    <l> Quant li prous huem ot la folie<lb/></l>
+                    <l> Ne pout muer kil ne rie<lb/></l>
+                    <l> Quant a oi le covenant<lb/></l>
+                    <l> Guerpist la si senva riant<lb/></l>
+                    <l> &amp; la dolente sentorna<lb/></l>
+                    <l> Unc a lostel ne repaira<lb/></l>
+                    <l> aval sen vait grant aleure<lb/></l>
+                    <l> Si cumme la menout saventure<lb/></l>
+                    <l> Unc ne fina iesque al vessel<lb/></l>
+                    <l> ou esteient li iovencel<lb/></l>
+                    <l> Mes a cels parla tot premier<lb/></l>
+                    <l> Qui se iovouent el grauier<lb/></l>
+                    <l> o els parla alkes briefinent<lb/></l>
+                    <l> tel senz cum out lor despent<lb/></l>
+                    <l> Seignors dist ele pelerin<lb/></l>
+                    <l> deu vos maite en bone fin<lb/></l>
+                    <l> &amp; vos doinst cele volente<lb/></l>
+                    <l> Que vos me facez charite<lb/></l>
+                    <l> Jeo sui une povre femme<lb/></l>
+                    <l> &amp; sui nee daltre regne<lb/></l>
+                    <l> del regne de egypte sui nee<lb/></l>
+                    <l> en cest pais sui esgaree<lb/></l>
+                    <l> jeo ni ai ami ne parent<lb/></l>
+                    <l> Simen esta mult malement<lb/></l>
+                    <l> o mei nei argent ne or<lb/></l>
+                    <l> tot poez veer mon tresor<lb/></l>
+                    <l> Jeo ni altre manantie<lb/></l>
+                    <l> Mes mult pris nostre compaignie<lb/></l>
+                    <l> Se en la nef o vos esteie<lb/></l>
+                    <l> Volentiers vos servireie<lb/></l>
+                    <l> &amp; men voudroie o vos aler<lb/></l>
+                    <l> Se men voliez porter<lb/></l>
+                    <l> ja por porter une chetive<lb/></l>
+                    <l> Ne vendrez plus tart a rive<lb/></l>
+                    <l> Respunent tuit li iovencel<lb/></l>
+                    <l> Venez o nos mult nos est bel<lb/></l>
+                    <l> Sus en la nef la funt munter<lb/></l>
+                    <l> &amp; puis se funt desaancrer<lb/></l>
+                    <l> de la rive funt voler<lb/></l>
+                    <l> o les reins prenent anager<lb/></l>
+                    <l> Ne finerent li bacheler<lb/></l>
+                    <l> Desque il furent en halte mer<lb/></l>
+                    <l> en halte mer drecent lors veiles<lb/></l>
+                    <l> tote nuit corent as esteiles<lb/></l>
+                    <l> Mais del dormir ni out neent<lb/></l>
+                    <l> car marie lor desfent<lb/></l>
+                    <l> premier les preut a tastoner<lb/></l>
+                    <l> &amp; enapres a acoler<lb/></l>
+                    <l> Puis les conmence a baisier<lb/></l>
+                    <l> &amp; en toz senz a losengier<lb/></l>
+                    <l> Nen iout un tant desdeignous<lb/></l>
+                    <l> fust iovencel ou Fust espous<lb/></l>
+                    <l> Q en peust prendre respit<lb/></l>
+                    <l> Kil ne pechast o lui la nuit<lb/></l>
+                    <l> tant fu cointe de sun mestier<lb/></l>
+                    <l> ke toz les fist o sei pechier<lb/></l>
+                    <l> toz les peurrus confortout<lb/></l>
+                    <l> &amp; a iuer les enviout<lb/></l>
+                    <l> tant fu cointe de son mester<lb/></l>
+                    <l> Que toz les fist o sei pechier<lb/></l>
+                    <l> Qnt ele veet les haltes undes<lb/></l>
+                    <l> Qui neires sunt . &amp; pardundes<lb/></l>
+                    <l> &amp; ele veet les granz orez<lb/></l>
+                    <l> Qui amenouent les tenpestez<lb/></l>
+                    <l> Le cors de lui esteit tot liez<lb/></l>
+                    <l> De rien ne cremoit ses pechiez<lb/></l>
+                    <l> &amp; tant laveit deable esprise<lb/></l>
+                    <l> tote nuit ert en sa chemise<lb/></l>
+                    <l> en sa chemise ert tote nuit<lb/></l>
+                    <l> Nient solement en un lit<lb/></l>
+                    <l> Mais alout la nuit par toz les liz<lb/></l>
+                    <l> cil la recoillent e granz deliz<lb/></l>
+                    <l> Merveille ert dune femme sole<lb/></l>
+                    <l> Qui pooit sofrir tant grant fole<lb/></l>
+                    <l> Mais diceo nesteit nul ni<lb/></l>
+                    <l> Ke li diables ne fust en li<lb/></l>
+                    <l> Ki mult volentiers la noiast<lb/></l>
+                    <l> Se nostre sire lui lessast<lb/></l>
+                    <l> Mais il la gari bien de mort<lb/></l>
+                    <l> &amp; si la fist venir a dreit port<lb/></l>
+                    <l> Qnt marie fu arivee<lb/></l>
+                    <l> dolente fu . &amp; esgaree<lb/></l>
+                    <l> Sospire .&amp; pense sur la rive<lb/></l>
+                    <l> Ne set que faire la chetive<lb/></l>
+                    <l> ele ni conut home ne femme<lb/></l>
+                    <l> Mult lui semble estrange regne<lb/></l>
+                    <l> a la parfin se porpensa<lb/></l>
+                    <l> Que a la cite sen ira<lb/></l>
+                    <l> &amp; fera iloc sun mester<lb/></l>
+                    <l> Na corage de lui changer<lb/></l>
+                    <l> en ierusalom est entree<lb/></l>
+                    <l> ore oez de la maleuree<lb/></l>
+                    <l> Onc ni taria de pechier<lb/></l>
+                    <l> ainz conmenca a enpirer<lb/></l>
+                    <l> oez cum grant perdicium<lb/></l>
+                    <l> ainz q venist la encensium<lb/></l>
+                    <l> de la sainte croiz aoree<lb/></l>
+                    <l> ki deveit estre honoree<lb/></l>
+                    <l> out issi enpirie le leu<lb/></l>
+                    <l> Miex fust ql icorust feu<lb/></l>
+                    <l> Li iovencel de la cite<lb/></l>
+                    <l> erent espris de sa bealte<lb/></l>
+                    <l> Ne demora que mult petit<lb/></l>
+                    <l> Que le ior de la feste vint<lb/></l>
+                    <l> Vint le ior del encensiun<lb/></l>
+                    <l> etes vous la processiun<lb/></l>
+                    <l> des pelerins doutre la mer<lb/></l>
+                    <l> Qui vunt al temple por orer<lb/></l>
+                    <l> al temple vunt par bon corage<lb/></l>
+                    <l> cumme prodome .&amp; cume sage<lb/></l>
+                    <l> &amp; quant les aperout marie<lb/></l>
+                    <l> Mist sei dedenz lor conpaignie<lb/></l>
+                    <l> Mist sei dedenz la processiun<lb/></l>
+                    <l> Nient par bone entenciun<lb/></l>
+                    <l> Li pelerin qui la veeient<lb/></l>
+                    <l> Sa volente pas ne saveient<lb/></l>
+                    <l> car sil seussent sa vie<lb/></l>
+                    <l> Ja nalast en lor copaignie<lb/></l>
+                    <l> Suz les degrez en sunt muntez<lb/></l>
+                    <l> dedens le temple en sunt entrez<lb/></l>
+                    <l> dedens entra la compaignie<lb/></l>
+                    <l> Mais une ni pout entrer marie<lb/></l>
+                    <l> Quant ele voleit avant aler<lb/></l>
+                    <l> ariere lestoveit torner<lb/></l>
+                    <l> dedens la presse se meteit<lb/></l>
+                    <l> Mais nule riens ne lui valeit<lb/></l>
+                    <l> ceo lui ert vis sun escient<lb/></l>
+                    <l> Que ele veet une gent<lb/></l>
+                    <l> Qui resemblovent chevaliers<lb/></l>
+                    <l> Mais mult aveient les vis fiers<lb/></l>
+                    <l> Chascun teneit vers lui sespee<lb/></l>
+                    <l> &amp; la manecouent del entree<lb/></l>
+                    <l> &amp; qnt ele voleit aler avant<lb/></l>
+                    <l> del espee cremeit le brant<lb/></l>
+                    <l> Qnt veit nient est del entree<lb/></l>
+                    <l> en un angle sen est alee<lb/></l>
+                    <l> dunc se conmence a porpenser<lb/></l>
+                    <l> ke deit q ele ni puet entrer<lb/></l>
+                    <l> a la parfin veit .&amp; entent<lb/></l>
+                    <l> Que son peche lui deffent<lb/></l>
+                    <l> del cuer conmence a souspirer<lb/></l>
+                    <l> &amp; des oilz forment a plorer<lb/></l>
+                    <l> o ambes mains derupt sa crigne<lb/></l>
+                    <l> Granz cous fiert en sa poitrine<lb/></l>
+                    <l> Set que deu est vers lui mari<lb/></l>
+                    <l> Ne lui osa crier merci<lb/></l>
+                    <l> Ha dist ele pechriz<lb/></l>
+                    <l> cum mar fustez meretriz<lb/></l>
+                    <l> sum mar fiz les ordeez<lb/></l>
+                    <l> Por que deu est vers mei irez<lb/></l>
+                    <l> Mal conseil ai toz tens eu<lb/></l>
+                    <l> Quant mun creator ai perdu<lb/></l>
+                    <l> Tant sui pleine de vile ordure<lb/></l>
+                    <l> de macite .&amp; de luxure<lb/></l>
+                    <l> ke el temple ne puis entrer<lb/></l>
+                    <l> Ne dapnedeu nos apeler<lb/></l>
+                    <l> Que fera la chaitive<lb/></l>
+                    <l> ceo poise lui que ele est vive<lb/></l>
+                    <l> del cuer li issent li sospir<lb/></l>
+                    <l> Mains prise vivre que morir<lb/></l>
+                    <l> regarda vers destre partie<lb/></l>
+                    <l> Vit limagine sainte marie<lb/></l>
+                    <l> en la masiere figuree<lb/></l>
+                    <l> Mult piement la reclamee<lb/></l>
+                    <l> Dame dist ele douce mere<lb/></l>
+                    <l> Ki en tun cors portas tun pere.<lb/></l>
+                    <l> Saint gabriel en fu mesage<lb/></l>
+                    <l> tu lui respndis cumme sage<lb/></l>
+                    <l> Quant il te dist aue marie<lb/></l>
+                    <l> e la grace deu repleine<lb/></l>
+                    <l> en tei prendra humanite<lb/></l>
+                    <l> le fiz le roi de maieste<lb/></l>
+                    <l> Quant le te dist tu lotrias<lb/></l>
+                    <l> &amp; soue ancele te uouchas<lb/></l>
+                    <l> por oet ies ore el ciel reine<lb/></l>
+                    <l> a tei sole quier medecine<lb/></l>
+                    <l> a mies plaies qui sunt mortals<lb/></l>
+                    <l> Ne quier altres medetinals<lb/></l>
+                    <l> dame se otou fiz mapaies<lb/></l>
+                    <l> bien serunt sanees mes plaies<lb/></l>
+                    <l> ci guerpis ere le deable<lb/></l>
+                    <l> &amp; sun conseil car tot est fable<lb/></l>
+                    <l> ci guerpis ieo la soue uie<lb/></l>
+                    <l> &amp; trestote sa compaignie<lb/></l>
+                    <l> tei depri ieo sainte marie<lb/></l>
+                    <l> Que iames ne soie reprise<lb/></l>
+                    <l> o le tuen fiz met ma creance<lb/></l>
+                    <l> tei met en plege &amp; en fiance<lb/></l>
+                    <l> ke toz tens mes le seruirai<lb/></l>
+                    <l> &amp; de lui ne departirai.<lb/></l>
+                    <l> tote guerpis ieeste uie<lb/></l>
+                    <l> &amp; ma maese legerie<lb/></l>
+                    <l> Ja mert mais ior nen aie pesance.<lb/></l>
+                    <l> Mult iert aspre ma penitance<lb/></l>
+                    <l> bele dame ieo crei bien<lb/></l>
+                    <l> Que sozciel na icele rien<lb/></l>
+                    <l> ki tant soit fort a uenger<lb/></l>
+                    <l> Se tun fiz en uels prier<lb/></l>
+                    <l> Sempres ne seit fait por tei<lb/></l>
+                    <l> aies ui merci de mei<lb/></l>
+                    <l> encore ai ieo en creance<lb/></l>
+                    <l> Que tis fiz prist naissance<lb/></l>
+                    <l> &amp; il mist en tei uirginite<lb/></l>
+                    <l> apres imist sa deite<lb/></l>
+                    <l> Grant merueille fu del pere<lb/></l>
+                    <l> Q de sa fille fist sa mere<lb/></l>
+                    <l> Il prist en tei humanite<lb/></l>
+                    <l> onc ne perdis ta uirginite<lb/></l>
+                    <l> Il fu tis fiz . &amp; tun pere<lb/></l>
+                    <l> tu fus sa fille . &amp; sa mere<lb/></l>
+                    <l> mult fu ceo merueilleuse chose<lb/></l>
+                    <l> Quant del espine issi la rose<lb/></l>
+                    <l> &amp; de la rose issi le fruit<lb/></l>
+                    <l> par quei deable fu destruit<lb/></l>
+                    <l> Vn nun auun. ceo est marie<lb/></l>
+                    <l> mais diuerse est nostre uie<lb/></l>
+                    <l> tu amas tot teus chastee.<lb/></l>
+                    <l> &amp; ieo luxure . &amp;.chastee.ordee<lb/></l>
+                    <l> deable eus a enemi<lb/></l>
+                    <l> &amp; ieo tot teus lai serui<lb/></l>
+                    <l> Vnc de la toue humilite<lb/></l>
+                    <l> Ne fu femme eu nul regne<lb/></l>
+                    <l> Ieo fui poure. &amp; orguellouse<lb/></l>
+                    <l> &amp; de mon cors luxuriouse<lb/></l>
+                    <l> Nostre sire tei ama<lb/></l>
+                    <l> &amp; mei chaitiue refusa<lb/></l>
+                    <l> refusa mei.&amp; ama tei<lb/></l>
+                    <l> dame aiez ui merci de mei<lb/></l>
+                    <l> dame tu portas le tresor<lb/></l>
+                    <l> ki mult plus uaut q fin or<lb/></l>
+                    <l> de tei prist char le fiz le rei<lb/></l>
+                    <l> ke saint iohan mostra al dei<lb/></l>
+                    <l> dist lui ql ert langre de<lb/></l>
+                    <l> par qui le munde sera salue<lb/></l>
+                    <l> mais qnt loi li enemis<lb/></l>
+                    <l> ki nos geta de parais<lb/></l>
+                    <l> kil deueit le munde saluer<lb/></l>
+                    <l> Sempres le quida enganer<lb/></l>
+                    <l> cumme il fist le premier home<lb/></l>
+                    <l> kil detut ia par la pome<lb/></l>
+                    <l> par treis fiees lessaia<lb/></l>
+                    <l> li felun . riens ne lui munta<lb/></l>
+                    <l> Quant le uit arme si fort<lb/></l>
+                    <l> par traisun lui dona la mort<lb/></l>
+                    <l> mult fu la mort beneuree<lb/></l>
+                    <l> par qui la uie fu restoree<lb/></l>
+                    <l> Se le fiz deu ne fult ocis<lb/></l>
+                    <l> Ja home nentrast en paradis<lb/></l>
+                    <l> par lamort prist il les uertuz<lb/></l>
+                    <l> par quel deable fu ueneuz<lb/></l>
+                    <l> Il ocist le deable en cel ior<lb/></l>
+                    <l> del tot le traist a des honor<lb/></l>
+                    <l> denfer bruisa la sereure<lb/></l>
+                    <l> &amp; osta tote la closture<lb/></l>
+                    <l> fors en geta la compaignie<lb/></l>
+                    <l> Que le deable aueir rauie<lb/></l>
+                    <l> puis uint al sepulcre a son cors<lb/></l>
+                    <l> par grant uertu sen issi fors<lb/></l>
+                    <l> moustra lor la nouele lui<lb/></l>
+                    <l> puis les baisa chascun par sei.<lb/></l>
+                    <l> conmanda lor sa douce mere<lb/></l>
+                    <l> puis munta el ciel a sun pere<lb/></l>
+                    <l> del ciel lor tramist tel confort<lb/></l>
+                    <l> ke unkes puis ne lor crut mort<lb/></l>
+                    <l> Saint esperit lor tramist<lb/></l>
+                    <l> Qui toz langages ler aprist<lb/></l>
+                    <l> Ore siet a la destre sun pere<lb/></l>
+                    <l> tu es o lui sa douce mere<lb/></l>
+                    <l> Quant il uendra al iugement<lb/></l>
+                    <l> &amp; al secunt auenement<lb/></l>
+                    <l> tu seras en sa cumpaignie<lb/></l>
+                    <l> cumme la soue douce amie<lb/></l>
+                    <l> Il iugera. &amp; mors. &amp; uifs<lb/></l>
+                    <l> Li iuiste irunt en parais<lb/></l>
+                    <l> Li mal irunt el feu durable<lb/></l>
+                    <l> La les penera le deable<lb/></l>
+                    <l> Virge reine corunee<lb/></l>
+                    <l> ki tant fus beneuree<lb/></l>
+                    <l> Que celui portas en tun uentre<lb/></l>
+                    <l> Que tot le mund ne pout coprendre<lb/></l>
+                    <l> Si cumme ieo crei ceo q ie di<lb/></l>
+                    <l> Si aies ui de mei merci.<lb/></l>
+                    <l> Qnt ele out faite sen oreisun<lb/></l>
+                    <l> &amp; deu lui out fait pardun<lb/></l>
+                    <l> de soreisun leua marie<lb/></l>
+                    <l> en son nouel seignor safie<lb/></l>
+                    <l> en lui met tote sa fiance<lb/></l>
+                    <l> el temple entre senz dotance<lb/></l>
+                    <l> el temple entra senz destorber<lb/></l>
+                    <l> Si uait oir le deu mestier<lb/></l>
+                    <l> &amp; retut le cors nostre seignor<lb/></l>
+                    <l> o merueillouse peor<lb/></l>
+                    <l> tot conoist le sueu mestier<lb/></l>
+                    <l> e tez la uos hors del mostier.<lb/></l>
+                    <l> de son pechie est alegee<lb/></l>
+                    <l> al ymage est repairee<lb/></l>
+                    <l> en lui est tote sa fiance<lb/></l>
+                    <l> conseil quiert de sa penaance<lb/></l>
+                    <l> cunfaitement ele la fera<lb/></l>
+                    <l> &amp; en quele terre ele sen ira<lb/></l>
+                    <l> Vint une uoiz q ele entent<lb/></l>
+                    <l> Qui lui a dit apertement<lb/></l>
+                    <l> Vateu al mostier saint iohan<lb/></l>
+                    <l> &amp; puis paseras le flun iordan<lb/></l>
+                    <l> el mostier prendras medecine<lb/></l>
+                    <l> &amp; puis ten iras en la guastine<lb/></l>
+                    <l> Iloc ton cors peneras<lb/></l>
+                    <l> toz les iors mes q tu uiuras<lb/></l>
+                    <l> &amp; quant ele out oie la uoiz<lb/></l>
+                    <l> Seigna sei de la sainte croiz<lb/></l>
+                    <l> es la uous entree el chemin<lb/></l>
+                    <l> deuant lui uint un pelerin<lb/></l>
+                    <l> ki deners lui dona<lb/></l>
+                    <l> treis periz pains en achata<lb/></l>
+                    <l> ceo fu tote sa soustenance<lb/></l>
+                    <l> tant cum ele fu en penitence<lb/></l>
+                    <l> al flun iordan en uint marie<lb/></l>
+                    <l> La nuit i prist herbergerie<lb/></l>
+                    <l> pres del moster saint iohan<lb/></l>
+                    <l> Suz la riue del flun iordan<lb/></l>
+                    <l> Se herberia en lieu antif<lb/></l>
+                    <l> Vn de ses pains mania demi<lb/></l>
+                    <l> but del eue sainte fiee<lb/></l>
+                    <l> Qnt out beu mult par fu lee<lb/></l>
+                    <l> Sun chief laua de la pure unde<lb/></l>
+                    <l> de toz ses pechiez deuint munde.<lb/></l>
+                    <l> ele se senti alques lassee<lb/></l>
+                    <l> car ele out faite gnt iornee<lb/></l>
+                    <l> de terre durre fist sun lit<lb/></l>
+                    <l> Iloc se iut tote la nuit<lb/></l>
+                    <l> dorun mais ceo fu petit<lb/></l>
+                    <l> car le dur lit lui tolit<lb/></l>
+                    <l> par matin leua. al mostier<lb/></l>
+                    <l> en uait oir le deu mestier<lb/></l>
+                    <l> La recut corpus domini<lb/></l>
+                    <l> dunc fu liee unc ne fu si<lb/></l>
+                    <l> puis quele fu acumeniee<lb/></l>
+                    <l> poez sauoir q mult fu liee<lb/></l>
+                    <l> &amp; puis entra en un chalan<lb/></l>
+                    <l> outre passa le flun iordan<lb/></l>
+                    <l> Quant ele fu outre passee<lb/></l>
+                    <l> en la forest seu est entree<lb/></l>
+                    <l> marie uait par la gastine<lb/></l>
+                    <l> Souent deprie la reine<lb/></l>
+                    <l> Que ele aueit mise en ostage<lb/></l>
+                    <l> Le ior anceis deuant sa ymage<lb/></l>
+                    <l> par sa merci ne la guerpisse<lb/></l>
+                    <l> &amp; del deable la garisse<lb/></l>
+                    <l> Iloc a tote sa fiance<lb/></l>
+                    <l> ore conmence sa penitance<lb/></l>
+                    <l> ele na talent de repentir<lb/></l>
+                    <l> ainz se laira de faim morir<lb/></l>
+                    <l> ele na que deus pains. &amp; demi<lb/></l>
+                    <l> ore ait iesus de lui merci<lb/></l>
+                    <l> de cels ne uiura ele mie<lb/></l>
+                    <l> Se deu ne lui fait altre aie<lb/></l>
+                    <l> Par la gaistine uait grant aleure<lb/></l>
+                    <l> de dampnedeu est tote seure<lb/></l>
+                    <l> &amp; quant ele out faite sa iornee<lb/></l>
+                    <l> desos un arbre seit couchee<lb/></l>
+                    <l> Vn petit mania de son pain<lb/></l>
+                    <l> puis sendormi desq al demain<lb/></l>
+                    <l> al demain leua par matin<lb/></l>
+                    <l> Vers orient tint son chemin<lb/></l>
+                    <l> tant erra par ior.&amp; par nuit<lb/></l>
+                    <l> o faim. &amp; o sei. &amp; o dur lit<lb/></l>
+                    <l> &amp; tant fu en cel boscage<lb/></l>
+                    <l> tote deuint iloc saluage<lb/></l>
+                    <l> mais ele ne soublia mie<lb/></l>
+                    <l> de deprier sainte marie<lb/></l>
+                    <l> souent lui membre del ymage<lb/></l>
+                    <l> Que ele aueit mis en ostage<lb/></l>
+                    <l> Ses soulers furent tuit uses<lb/></l>
+                    <l> &amp; si drapel tuit descires<lb/></l>
+                    <l> Quant si drapel furent rumpu<lb/></l>
+                    <l> le cors de lui remist tot nu<lb/></l>
+                    <l> la char de lui mua color<lb/></l>
+                    <l> Qui ainz ert blanche cume flor<lb/></l>
+                    <l> Que o liuern. ke o leste<lb/></l>
+                    <l> tuit li nercirent li coste<lb/></l>
+                    <l> color mua sa bloie crigne<lb/></l>
+                    <l> blanche deuint cume ermigne<lb/></l>
+                    <l> la face out desus bruslee<lb/></l>
+                    <l> del soleil. &amp; de la gelee<lb/></l>
+                    <l> la bouche li fu atenuie<lb/></l>
+                    <l> &amp; enuirun la char nercie<lb/></l>
+                    <l> tant par esteit noir sun mentun.<lb/></l>
+                    <l> cum ceo fust le chief dun tisun.<lb/></l>
+                    <l> &amp; nerci erent si oil<lb/></l>
+                    <l> Ni aueit ore point doguil<lb/></l>
+                    <l> Se uous ueisses sa oreille<lb/></l>
+                    <l> mult uous semblast gnt mer___ueille<lb/></l>
+                    <l> car mesgre esteit. &amp; detreuee<lb/></l>
+                    <l> &amp; de blanc peil auirunee<lb/></l>
+                    <l> Naueit plus char en sun traiant<lb/></l>
+                    <l> Nemais cum il a en un gant<lb/></l>
+                    <l> les bras. les mains. &amp; les deiz<lb/></l>
+                    <l> aueit plus neirs q uule peiz<lb/></l>
+                    <l> les umgles aueit ele genz<lb/></l>
+                    <l> ele les taillout o les denz<lb/></l>
+                    <l> le uentre lui ert tot dechaet<lb/></l>
+                    <l> car poure despense i meteit<lb/></l>
+                    <l> les piez li erent decreuez<lb/></l>
+                    <l> en plusors lieus erent nafrez<lb/></l>
+                    <l> car ele ne se gardout de espine<lb/></l>
+                    <l> Quant ele alout par la gastine<lb/></l>
+                    <l> mais ceo li ert uis son encient<lb/></l>
+                    <l> &amp; ele ni failli de mient<lb/></l>
+                    <l> ke un peche de lui chaeit<lb/></l>
+                    <l> Quant une espine la poingneit<lb/></l>
+                    <l> por ceo esteit ele lee<lb/></l>
+                    <l> Quant ele sosfri une hascher<lb/></l>
+                    <l> Nert pas merueille sele ert nercie<lb/></l>
+                    <l> car ele demenout aspre uie<lb/></l>
+                    <l> plus de quarante ans ala nue<lb/></l>
+                    <l> Nert merueille sele ert mossue<lb/></l>
+                    <l> poure despense aueit o lui<lb/></l>
+                    <l> ore ait iesus de lui merci<lb/></l>
+                    <l> deus pains aueit ne gueres granz<lb/></l>
+                    <l> de cels uesqui plusors anz<lb/></l>
+                    <l> el premier en deuindrent dur<lb/></l>
+                    <l> cumme ceo fussent pieres de mur<lb/></l>
+                    <l> chascun ior en usout marie<lb/></l>
+                    <l> mais ' ceo ert petite partie<lb/></l>
+                    <l> &amp; quant ele out son pain use<lb/></l>
+                    <l> Si esracout lerbe del pre<lb/></l>
+                    <l> cume altre beste la maniout<lb/></l>
+                    <l> &amp; de rien ne se desconfortout<lb/></l>
+                    <l> a denz beueit del ruissel<lb/></l>
+                    <l> ele naueit altre naissel<lb/></l>
+                    <l> Ne fait a plaindre le pechie<lb/></l>
+                    <l> dunt le cors fu si chastie<lb/></l>
+                    <l> derbes uiueit. &amp; de racines<lb/></l>
+                    <l> dis.&amp; set anz. en la gastine<lb/></l>
+                    <l> puis fu trente anz une ne mania<lb/></l>
+                    <l> Se li angres deu ne lui porta<lb/></l>
+                    <l> deable lui uint depremier<lb/></l>
+                    <l> Souent la soloit essaier<lb/></l>
+                    <l> tot ceo lui faisoit remembrer<lb/></l>
+                    <l> Que ele soloit iadis amer<lb/></l>
+                    <l> les bous mangiers. &amp; les lieus<lb/></l>
+                    <l> oV ele sout faire ses gieus<lb/></l>
+                    <l> ore fu issi oblie beneuree<lb/></l>
+                    <l> Que de tot ceo fu obliee<lb/></l>
+                    <l> &amp; en tote la soue uie<lb/></l>
+                    <l> Ne lui souint puis de la folie<lb/></l>
+                    <l> &amp; unc puis en tot le boscage<lb/></l>
+                    <l> Ne uit beste saluage<lb/></l>
+                    <l> Ne altre uiue creature<lb/></l>
+                    <l> par la forest uait tote seure<lb/></l>
+                    <l> en plusors lieus prent son ostal<lb/></l>
+                    <l> Sa uie esteit esperital<lb/></l>
+                    <l> Ore lairun ia de marie<lb/></l>
+                    <l> Si parlerun dune abeie<lb/></l>
+                    <l> Qui ert al chief de la forest<lb/></l>
+                    <l> Si cume trait uers le west<lb/></l>
+                    <l> Vnc deu ne fist nule gent<lb/></l>
+                    <l> Qui plus beneureement<lb/></l>
+                    <l> Seruisent al acator<lb/></l>
+                    <l> Que faisoient icil seignor<lb/></l>
+                    <l> Nus naueit soing de mal faire<lb/></l>
+                    <l> chascun aueit uestu sa haire<lb/></l>
+                    <l> tant erint en grant discipline<lb/></l>
+                    <l> Naueient soing destamine<lb/></l>
+                    <l> as haires erent . &amp; nuz piez<lb/></l>
+                    <l> por espeneir lors pechiez<lb/></l>
+                    <l> Ne ia de ior .ne de mut<lb/></l>
+                    <l> Ne fussent trouez en lit<lb/></l>
+                    <l> car tote ior erent al mang.mostier<lb/></l>
+                    <l> fors sol a oure de manger<lb/></l>
+                    <l> Il uiueient mult pourement<lb/></l>
+                    <l> ceo ert de pain dorge. &amp; de pulment<lb/></l>
+                    <l> &amp; toz les uendresdiz del an<lb/></l>
+                    <l> Viuoient de noiz .&amp; de glan<lb/></l>
+                    <l> &amp; eue beneient. nemie seine<lb/></l>
+                    <l> car ele nert pas de funteine<lb/></l>
+                    <l> entre els nesteit pas simonie<lb/></l>
+                    <l> Ne couoitise ne enuie<lb/></l>
+                    <l> Naueient soing dargent ne dor<lb/></l>
+                    <l> en deu aueient lor tresor<lb/></l>
+                    <l> Nul naueit properite<lb/></l>
+                    <l> tuit erent dune uolente<lb/></l>
+                    <l> Nest home qui ia lor bonte uos die<lb/></l>
+                    <l> tant esteient de sainte uie<lb/></l>
+                    <l> Quant uint a la quaranteine<lb/></l>
+                    <l> el premier ior faisoient ceine<lb/></l>
+                    <l> li abes les acumenout<lb/></l>
+                    <l> corpus domini lor donout<lb/></l>
+                    <l> Quant les aueit acumeniez<lb/></l>
+                    <l> par ordre lor laneit les piez<lb/></l>
+                    <l> &amp; puis aloient eu oreisun<lb/></l>
+                    <l> &amp; il lor faisoit bel sermun<lb/></l>
+                    <l> conmandout lor entrebaisier<lb/></l>
+                    <l> puis lor ouri les us del mostier<lb/></l>
+                    <l> en la forest les enuoiout<lb/></l>
+                    <l> a dampnedeu les conmandout<lb/></l>
+                    <l> Issi tuit se departeient<lb/></l>
+                    <l> Fors sol dous qui remaneient<lb/></l>
+                    <l> Nemie por poour de larun<lb/></l>
+                    <l> Ql cremoient de lor maisun<lb/></l>
+                    <l> mais por faire le deu mestier<lb/></l>
+                    <l> remanoient cil al mostier<lb/></l>
+                    <l> car nest par bien de sainte iglise.<lb/></l>
+                    <l> Que le mestier deu i defise<lb/></l>
+                    <l> li altre sen issent tuit<lb/></l>
+                    <l> el desert uiuent de fruit<lb/></l>
+                    <l> en deu aueient lor amor<lb/></l>
+                    <l> de herbe uiueient li plusor<lb/></l>
+                    <l> Quant lui uoit laltre el desert<lb/></l>
+                    <l> Fuit seu diloc ou il ains ert<lb/></l>
+                    <l> Issi sen alout par emble<lb/></l>
+                    <l> Ne fust ia par lui salue<lb/></l>
+                    <l> Iloc ou la nuit le pernoit<lb/></l>
+                    <l> Sus lerbe seche se giseit<lb/></l>
+                    <l> par matin se lenout al demain<lb/></l>
+                    <l> Seignout sei de sa destre main<lb/></l>
+                    <l> Il ne saueit ou il alout<lb/></l>
+                    <l> a dampnedeu se cunmandout<lb/></l>
+                    <l> ceste meisme entenciun<lb/></l>
+                    <l> a ueient tuit si cunpaignun<lb/></l>
+                    <l> des oilz plorent tendrement<lb/></l>
+                    <l> Souient lor del iugement<lb/></l>
+                    <l> oV tuit li angre trenblerunt<lb/></l>
+                    <l> de la poour quil aurunt<lb/></l>
+                    <l> La ou il uerunt le fiz de<lb/></l>
+                    <l> el sege de sa maieste<lb/></l>
+                    <l> &amp; deuant lui le feu durable<lb/></l>
+                    <l> oV il cruciera le deable<lb/></l>
+                    <l> &amp; tote la maese gent<lb/></l>
+                    <l> cruciera il ensement<lb/></l>
+                    <l> el puiz denfer descendrunt<lb/></l>
+                    <l> Si que iames nen istrunt<lb/></l>
+                    <l> por ceo esteient cil moigne<lb/></l>
+                    <l> en la forest en tele peine<lb/></l>
+                    <l> por eschaper del grans peril<lb/></l>
+                    <l> estoient il en tel issil<lb/></l>
+                    <l> Quant pasee ert la quaranteine<lb/></l>
+                    <l> &amp; ueneit le ior de la ceine<lb/></l>
+                    <l> repairouent tuit en maisun<lb/></l>
+                    <l> por escouter le deu sermun<lb/></l>
+                    <l> li abes esteit mult liez<lb/></l>
+                    <l> Quant toz les ueit repairiez<lb/></l>
+                    <l> Li pastres iert liez de sun bercil<lb/></l>
+                    <l> Quil ert eschape de peril<lb/></l>
+                    <l> el mostier les faisoit entrer<lb/></l>
+                    <l> apres faisoit les us fermer<lb/></l>
+                    <l> le premier ior uint de quaresme<lb/></l>
+                    <l> ke chascun de els ala sun esme<lb/></l>
+                    <l> li abes fist ceo quil soleit<lb/></l>
+                    <l> Ses oeilles mist fors del teit<lb/></l>
+                    <l> primes les fist entrebaisier<lb/></l>
+                    <l> &amp; puis lor ouri les us del mostier<lb/></l>
+                    <l> en la forest les enuoia<lb/></l>
+                    <l> a dampnedeu les commanda<lb/></l>
+                    <l> Vn sen uait destre partie<lb/></l>
+                    <l> ki mult esteit de sainte uie<lb/></l>
+                    <l> cil ert apele zozimas<lb/></l>
+                    <l> mult uestu de poures dras<lb/></l>
+                    <l> miex amout il sa pouerte<lb/></l>
+                    <l> Que nul cuens fait son conte<lb/></l>
+                    <l> en la forest parfundement<lb/></l>
+                    <l> Se mist o poure garnement<lb/></l>
+                    <l> hermites i qui da trouer<lb/></l>
+                    <l> de deu uoleit o els parler<lb/></l>
+                    <l> mais quant out fait uint tornees.<lb/></l>
+                    <l> Qui mult erent desmesurees<lb/></l>
+                    <l> &amp; uit que nul nen pout trouer<lb/></l>
+                    <l> Na corage dauant aler<lb/></l>
+                    <l> endroit midi conmence se oure<lb/></l>
+                    <l> deprie deu . &amp; sil aoure<lb/></l>
+                    <l> Quant out se oreison fenie<lb/></l>
+                    <l> puis garde uers destre partie<lb/></l>
+                    <l> esgarda uers orient<lb/></l>
+                    <l> Vn umbre uit sun encient<lb/></l>
+                    <l> Qui esteit de home. ou de femme<lb/></l>
+                    <l> mes ceo esteit la egiptiene<lb/></l>
+                    <l> deu laueit iloc amenee<lb/></l>
+                    <l> Ne uoloit mes q fust celee<lb/></l>
+                    <l> descourir uoloir le tresor<lb/></l>
+                    <l> ke miex ualut q nul or<lb/></l>
+                    <l> li sains huem fu mult pensifs.<lb/></l>
+                    <l> Quant ueit lumbre torna sun uis.<lb/></l>
+                    <l> Quant quida q ceo fust enchantemet<lb/></l>
+                    <l> reclama deu omnipotent<lb/></l>
+                    <l> kil le desfendist de felun<lb/></l>
+                    <l> &amp; de male temptaciun<lb/></l>
+                    <l> Quant ont sa oreisun finie<lb/></l>
+                    <l> La Figure uit de marie<lb/></l>
+                    <l> de marie uit la Figure<lb/></l>
+                    <l> a pertement senz couerture<lb/></l>
+                    <l> enuirun lui esteit sa crigne<lb/></l>
+                    <l> tant blanche cume Flor despine<lb/></l>
+                    <l> &amp; li cheuoil de son chief<lb/></l>
+                    <l> li aualoient desq as pies<lb/></l>
+                    <l> ele naueit altre uestement<lb/></l>
+                    <l> Quant cel li sosleuoit le uent<lb/></l>
+                    <l> desos pareit la char bruslee<lb/></l>
+                    <l> del soleil. &amp; de la gelee<lb/></l>
+                    <l> Quant la dame le uoit uenir<lb/></l>
+                    <l> Isnelement prent a fuir<lb/></l>
+                    <l> li saint hom la uait enchalsant<lb/></l>
+                    <l> &amp; mult la uait aproismant<lb/></l>
+                    <l> Nespargne pas a sa ueillesce<lb/></l>
+                    <l> Mult lui est poi quant il se blesce<lb/></l>
+                    <l> par la forest uait iupant<lb/></l>
+                    <l> &amp; mult souent apelant<lb/></l>
+                    <l> dame fait il parole o mei<lb/></l>
+                    <l> Se tu en deu as nule fei<lb/></l>
+                    <l> Ieo te coniur par deu le grant<lb/></l>
+                    <l> Que tu mais nauges auant<lb/></l>
+                    <l> Quant la dame oi de deu parler<lb/></l>
+                    <l> de pitie conmence a plorer<lb/></l>
+                    <l> deu dist ele rei creator<lb/></l>
+                    <l> tei loe ieo. &amp; tei aor<lb/></l>
+                    <l> Quarante sis anz a ceo crei<lb/></l>
+                    <l> ke noi mes parler de tei<lb/></l>
+                    <l> ore mas un saint home tramis<lb/></l>
+                    <l> Ieo ne li os torner mun uis<lb/></l>
+                    <l> Ne li os torner ma faiture<lb/></l>
+                    <l> car ieo sui nue creature<lb/></l>
+                    <l> ore est arestee la dome<lb/></l>
+                    <l> Nosa son uis torner uers lonme<lb/></l>
+                    <l> ele ne se uoudra mes celer<lb/></l>
+                    <l> o lui cunmence a parler<lb/></l>
+                    <l> cheles dist ele zozmas<lb/></l>
+                    <l> Iete mei ca un de tes dras<lb/></l>
+                    <l> Ieo nos mie aler a tei<lb/></l>
+                    <l> apres poras parler a mei<lb/></l>
+                    <l> Quant. zozimas soi nonmer<lb/></l>
+                    <l> Sout q deu la faisoit parler<lb/></l>
+                    <l> car ele ne sout pas sun nun<lb/></l>
+                    <l> Se par le saint esperit nun<lb/></l>
+                    <l> Vn de ses dras puis lui geta<lb/></l>
+                    <l> &amp; la dame sa aproisma<lb/></l>
+                    <l> al drapel en uint marie<lb/></l>
+                    <l> de son cors en couri partie<lb/></l>
+                    <l> Quant del drapel est afublee<lb/></l>
+                    <l> Vers le saint home sest tornee<lb/></l>
+                    <l> Sire dist ele dulz amis<lb/></l>
+                    <l> car me di q as ici quis<lb/></l>
+                    <l> ci poez ueer une dolente<lb/></l>
+                    <l> ki en guast plore. &amp; gaimente<lb/></l>
+                    <l> por les pechies q ela a faiz<lb/></l>
+                    <l> Qui tant sunt horibles &amp; leiz<lb/></l>
+                    <l> Nest hom kis oit nen ait pesance<lb/></l>
+                    <l> ore en faz ci la penitance<lb/></l>
+                    <l> Quant li sainz huem loi si parler<lb/></l>
+                    <l> de piete conmence a plorer<lb/></l>
+                    <l> aspiez lui fait afflictiun<lb/></l>
+                    <l> &amp; lui requiert beneicun<lb/></l>
+                    <l> la dame li rechiet a ses piez<lb/></l>
+                    <l> mult par crient ses pechiez<lb/></l>
+                    <l> merci lui crie mult souent<lb/></l>
+                    <l> &amp; cil la lui crie ensement<lb/></l>
+                    <l> zozimas se gist en la place<lb/></l>
+                    <l> leue lui cort parmi la face<lb/></l>
+                    <l> tele angoisse a q tot tressue<lb/></l>
+                    <l> par la barbe que a chanue<lb/></l>
+                    <l> lui decort aual la suour<lb/></l>
+                    <l> la dame prie par amor<lb/></l>
+                    <l> Que por lui face oreisun<lb/></l>
+                    <l> &amp; lui doinst sa beneicun<lb/></l>
+                    <l> Sire dist ele dulz amis<lb/></l>
+                    <l> tu mas beneicun requis<lb/></l>
+                    <l> Ieo ne uei par q soit raisun<lb/></l>
+                    <l> Que ieo te doinse beneicun<lb/></l>
+                    <l> car tu es prestre messe chantant<lb/></l>
+                    <l> por ceo est mult plus auenant<lb/></l>
+                    <l> ke tu la doinses a mei<lb/></l>
+                    <l> ke ieo la doinse a tei<lb/></l>
+                    <l> cungie as de messe chanter<lb/></l>
+                    <l> ta main pues metre sul lalter<lb/></l>
+                    <l> deu conist bien ton sacrefise<lb/></l>
+                    <l> tote ta uie mas aprise<lb/></l>
+                    <l> Serui las des tenfance<lb/></l>
+                    <l> en lui pues aueir grant fiance<lb/></l>
+                    <l> mult aras grant gueredun<lb/></l>
+                    <l> mais ore uoil ta beneicun.<lb/></l>
+                    <l> dame respunt zozimas<lb/></l>
+                    <l> Ja ma beneicun nauras<lb/></l>
+                    <l> Se tu premier ne la me fais<lb/></l>
+                    <l> deci ne leuerai iamais<lb/></l>
+                    <l> por faim ne por nule sofraite<lb/></l>
+                    <l> desqs uos la maies faite<lb/></l>
+                    <l> ore ueit bien &amp; entent marie<lb/></l>
+                    <l> Que li sains huem ne leuera mie.<lb/></l>
+                    <l> &amp; ke tot ceus iert en oreisun<lb/></l>
+                    <l> Sil ne na sa beneicun<lb/></l>
+                    <l> torna son uis uers orient<lb/></l>
+                    <l> deprie deu omnipotent<lb/></l>
+                    <l> deus dist ele reis creator<lb/></l>
+                    <l> pere tei lo. &amp; tei aor<lb/></l>
+                    <l> Sire beneit soies tu<lb/></l>
+                    <l> &amp; tote la toue uertu<lb/></l>
+                    <l> de nos pechies nos fai pardun<lb/></l>
+                    <l> puis aurun ta beneicun<lb/></l>
+                    <l> dunc sen leua zozimas<lb/></l>
+                    <l> D Grant plainte ieta car mlt fu las.<lb/></l>
+                    <l> &amp; marie parole o lui<lb/></l>
+                    <l> mult sentresgardeut andui<lb/></l>
+                    <l> ele lui conmence a demander<lb/></l>
+                    <l> &amp; bien touent a entercier<lb/></l>
+                    <l> des rois. des cuntes de la terre<lb/></l>
+                    <l> Sil unt pais ou il unt guere<lb/></l>
+                    <l> mais sainte iglise a gnt bosoin<lb/></l>
+                    <l> Que por lui faces oreisun<lb/></l>
+                    <l> Que deus otreit pais du rable<lb/></l>
+                    <l> &amp; la deffende del deable<lb/></l>
+                    <l> marie lui a respundu<lb/></l>
+                    <l> deu lotrit par sa uertu<lb/></l>
+                    <l> ele deprie le creator<lb/></l>
+                    <l> mult piement . &amp; par amor<lb/></l>
+                    <l> Si que la bouche ne li moueit<lb/></l>
+                    <l> Ne nule uoiz nen isseit<lb/></l>
+                    <l> de la terre fu sempres rauie<lb/></l>
+                    <l> Si que ele ni atoura mie<lb/></l>
+                    <l> zozimas out poour grant<lb/></l>
+                    <l> dampnedeu traist a garant<lb/></l>
+                    <l> ke plus de deus pies. &amp; demi<lb/></l>
+                    <l> aueit entre la terre. &amp; lui<lb/></l>
+                    <l> la ou ele faisoit sa proiere<lb/></l>
+                    <l> tant laueit nostre sire ciere<lb/></l>
+                    <l> de la poour q out zozimas<lb/></l>
+                    <l> Si cunmence aler le pas<lb/></l>
+                    <l> Quida fantosme aueir troue<lb/></l>
+                    <l> ariere sest alques rause<lb/></l>
+                    <l> Quant marie len uit torner<lb/></l>
+                    <l> cunmence lui a demander<lb/></l>
+                    <l> cheles dist ele zozimas<lb/></l>
+                    <l> bel chier pere por que dotas<lb/></l>
+                    <l> porquei dotes une femme<lb/></l>
+                    <l> Saces que ieo fui crestiene<lb/></l>
+                    <l> baptizee fui en mesfance<lb/></l>
+                    <l> en deu ai tote ma creance<lb/></l>
+                    <l> ci sui por espeneir<lb/></l>
+                    <l> Nen tornerai desque al morir<lb/></l>
+                    <l> Sa destre main leua amunt<lb/></l>
+                    <l> la sainte croiz fist en son front<lb/></l>
+                    <l> li sains hermitez bien le uit<lb/></l>
+                    <l> as pies a la dame chait<lb/></l>
+                    <l> ele le ressaie aleuer<lb/></l>
+                    <l> demaintenant cunmence a plorer<lb/></l>
+                    <l> dame dist il saintisme femme<lb/></l>
+                    <l> dunt ies nee. &amp; de quel regne<lb/></l>
+                    <l> descoure mei tote ta uie<lb/></l>
+                    <l> por deu ne la me cheler mie<lb/></l>
+                    <l> di la mei por confessiun<lb/></l>
+                    <l> Que deu te face ueir pardun<lb/></l>
+                    <l> Sire ceo respunt marie<lb/></l>
+                    <l> Ieo ne te celerni mie<lb/></l>
+                    <l> Quant mas nue esgardee<lb/></l>
+                    <l> Ja ma uie ne tiert celee<lb/></l>
+                    <l> testote la descourirai<lb/></l>
+                    <l> Si que mot nen celerai<lb/></l>
+                    <l> dune cunmence a cunter marie<lb/></l>
+                    <l> rien ni lait quele ne die<lb/></l>
+                    <l> tote sa uie a cuntee<lb/></l>
+                    <l> des icele ore quele funee<lb/></l>
+                    <l> mais dementiers quele contout<lb/></l>
+                    <l> poez sauoir q grant honte out<lb/></l>
+                    <l> Quant ele lui a contee sa uie<lb/></l>
+                    <l> aspiez lui chiet merci lui crie<lb/></l>
+                    <l> zozimas a oi sa uie<lb/></l>
+                    <l> le creator en glorefie<lb/></l>
+                    <l> merci rent al creator<lb/></l>
+                    <l> &amp; puis li dit par bele amor<lb/></l>
+                    <l> dame por quei chiez a mes piez<lb/></l>
+                    <l> por deu te pri que tu ten leuez<lb/></l>
+                    <l> Nest pas en mei la dignete<lb/></l>
+                    <l> Ne ne sui del auctorite<lb/></l>
+                    <l> a ceo que toi acunter<lb/></l>
+                    <l> ke ieo sol. te doie esgarder<lb/></l>
+                    <l> Vnc mais la toue per ne vi<lb/></l>
+                    <l> dame aies de mei merci.<lb/></l>
+                    <l> par charite conseille mei<lb/></l>
+                    <l> Se poroie remaneir o tei<lb/></l>
+                    <l> a zozimas respundi marie<lb/></l>
+                    <l> ainz ten iras en tabeie<lb/></l>
+                    <l> mais ne te chaut dire ma uie<lb/></l>
+                    <l> desque ieo soie finie<lb/></l>
+                    <l> Se deu ma a tei mostree<lb/></l>
+                    <l> por ceo uoudrai estre celee<lb/></l>
+                    <l> al abe iohan parleras<lb/></l>
+                    <l> cest mesage lui porteras<lb/></l>
+                    <l> des oeilles prenge cure<lb/></l>
+                    <l> car tel ia qui trop sa seure<lb/></l>
+                    <l> prenge cure de els garder<lb/></l>
+                    <l> car il li serunt demande<lb/></l>
+                    <l> mais quant uendra nan tens<lb/></l>
+                    <l> enferme seras si cume ieo pens<lb/></l>
+                    <l> Quant ti per .&amp; ti conpaignun<lb/></l>
+                    <l> Sen istrunt fors de la maisun<lb/></l>
+                    <l> &amp; li iors uendra de quaresme<lb/></l>
+                    <l> Que chascun de els ira sun esme<lb/></l>
+                    <l> en tun lit testoura gisir<lb/></l>
+                    <l> Ne poras pas o els issir<lb/></l>
+                    <l> mult iert grant oes del reposer<lb/></l>
+                    <l> Ne poras o els aler<lb/></l>
+                    <l> Quant paser iert la quaranteine<lb/></l>
+                    <l> &amp; le ior uendra de la ceine<lb/></l>
+                    <l> Gari seras si cum ieo crei<lb/></l>
+                    <l> dunc te pri uenir a tuei<lb/></l>
+                    <l> le cors nostre seignor mais<lb/></l>
+                    <l> en un uaisel qui mult seit nait<lb/></l>
+                    <l> de sun sanc en altre vaissel<lb/></l>
+                    <l> ceo garde q mult seit nait .&amp; bel<lb/></l>
+                    <l> &amp; quant tu le maporteras<lb/></l>
+                    <l> plus pres de tei me troueras<lb/></l>
+                    <l> &amp; por ceo me serai aproismee<lb/></l>
+                    <l> Quant te uerai mult serai liee<lb/></l>
+                    <l> Saciez q serai al tiers an<lb/></l>
+                    <l> encontre tei al flun iordan<lb/></l>
+                    <l> Iloc serai acumeniee<lb/></l>
+                    <l> Por ceo serai aproismee<lb/></l>
+                    <l> desqs passei le flun iordan<lb/></l>
+                    <l> desos le mostier saint iohan<lb/></l>
+                    <l> Ne recui le cors mun seignor<lb/></l>
+                    <l> en qui est tote ma doucor<lb/></l>
+                    <l> Ne ne ni home fors sol tei<lb/></l>
+                    <l> aler men uoil prie por mei<lb/></l>
+                    <l> ore sen est la dame tornee<lb/></l>
+                    <l> el grant desert sen est alee<lb/></l>
+                    <l> Quant li buens huem la uit torner.<lb/></l>
+                    <l> Sus ses piez ne pont ester<lb/></l>
+                    <l> o les oilz la uit el desert<lb/></l>
+                    <l> mult a grant duel qnt il la pert<lb/></l>
+                    <l> a la terre seit agenoilliez<lb/></l>
+                    <l> la ou ele aueit tenu ses piez<lb/></l>
+                    <l> baise la terre mult souent<lb/></l>
+                    <l> &amp; loe deu omnipotent<lb/></l>
+                    <l> dou dist il loez soies tu<lb/></l>
+                    <l> ki en femme as mise tele uertu<lb/></l>
+                    <l> sire tei puisse ieo aorer<lb/></l>
+                    <l> Qui la lessas a mei trouer<lb/></l>
+                    <l> puis lui membre de sun mostier<lb/></l>
+                    <l> dunc si cunmence a repairier<lb/></l>
+                    <l> repaira son a sa maisun<lb/></l>
+                    <l> ensement sunt si cumpaignun.<lb/></l>
+                    <l> Li abes iohan fu mult liez<lb/></l>
+                    <l> Quant toz les uit repairiez<lb/></l>
+                    <l> chascun de els sest bien teuz<lb/></l>
+                    <l> de ceo quil unc fors ueuz<lb/></l>
+                    <l> Nul ni aueit no uelier<lb/></l>
+                    <l> Qui sen uousist gloirefier<lb/></l>
+                    <l> bien les gardont li abes iohan<lb/></l>
+                    <l> &amp; quant ourent passe lan<lb/></l>
+                    <l> le premier ior uint de quaresme<lb/></l>
+                    <l> chascun de els ala sun esme<lb/></l>
+                    <l> en sun lit se uit zozimas<lb/></l>
+                    <l> malade fu ni ala pas<lb/></l>
+                    <l> a maisun lestuet reposer<lb/></l>
+                    <l> maladez fu ni pout aler<lb/></l>
+                    <l> Sout que ueir fu la prophetie<lb/></l>
+                    <l> kil aueit oi de marie<lb/></l>
+                    <l> mais quant se sent gari<lb/></l>
+                    <l> dunc a pris corpus domini<lb/></l>
+                    <l> le sanc precious ensement<lb/></l>
+                    <l> por faire le cunmandement<lb/></l>
+                    <l> dunc la dame leu out prie<lb/></l>
+                    <l> Quant il prist de lui cumgie<lb/></l>
+                    <l> zozimas cunmenca sun oire<lb/></l>
+                    <l> o sei porta un poi de coire<lb/></l>
+                    <l> &amp; des lentilles ensement<lb/></l>
+                    <l> Na soing daltre forment<lb/></l>
+                    <l> al Flun iordan uint zozimas<lb/></l>
+                    <l> Quant il iuint uespre fu bas<lb/></l>
+                    <l> trouer quida iloc marie<lb/></l>
+                    <l> mais ni esteit uncore mie.<lb/></l>
+                    <l> crient de la rien q plus coueite<lb/></l>
+                    <l> Que sun pechie lui ait tolaite<lb/></l>
+                    <l> deu dist il roi de maieste<lb/></l>
+                    <l> Ne me laisse ici esgare<lb/></l>
+                    <l> lai mei uncore ueer la femme<lb/></l>
+                    <l> Qui na sa por en cest regne<lb/></l>
+                    <l> cument passerai le flun iordan<lb/></l>
+                    <l> Quant ni a nef ne chalan<lb/></l>
+                    <l> pere de tote creature<lb/></l>
+                    <l> de ceo poez prendre cure<lb/></l>
+                    <l> tant par est grant ta poeste<lb/></l>
+                    <l> Que tot est par ta uolente<lb/></l>
+                    <l> Quant il out sa oreisun finie<lb/></l>
+                    <l> o Vtre le Flun uit marie<lb/></l>
+                    <l> Suz la riue la uit ester<lb/></l>
+                    <l> Si la conmence a apeler<lb/></l>
+                    <l> dame ceo dist zozimas<lb/></l>
+                    <l> bele mere cument le feras<lb/></l>
+                    <l> cunment paseras tu uers mei<lb/></l>
+                    <l> Quant ne puis passer a tei<lb/></l>
+                    <l> conment paseras le flun iordan<lb/></l>
+                    <l> Quant il ni a nef ne chalan<lb/></l>
+                    <l> Quant marie loi parler<lb/></l>
+                    <l> de piete cunmence a plorer<lb/></l>
+                    <l> dedenz le flun sen est entree<lb/></l>
+                    <l> a dampnedeu sest conmandee<lb/></l>
+                    <l> Suz leue rade uait sous dotance<lb/></l>
+                    <l> oez cume fu de grant creance<lb/></l>
+                    <l> Suz leeue sen uait grant pas<lb/></l>
+                    <l> mult sosmerueille zozimas<lb/></l>
+                    <l> a la riue est uenue<lb/></l>
+                    <l> Vient al saint home sil salue<lb/></l>
+                    <l> apres lui est chaet as piez<lb/></l>
+                    <l> mult par crient ses pechiez<lb/></l>
+                    <l> aspiez lui fait aflictiun<lb/></l>
+                    <l> requiert lui sa leueicun<lb/></l>
+                    <l> li sains lessaie a leuer<lb/></l>
+                    <l> des oilz conmence a plorer<lb/></l>
+                    <l> Nosa suz lui faire seignacle<lb/></l>
+                    <l> Quant deu fait por lui miracle<lb/></l>
+                    <l> Quant de la terre la leuee<lb/></l>
+                    <l> el nun de deu la baisee<lb/></l>
+                    <l> la credo in deum belement<lb/></l>
+                    <l> &amp; la pater noster ensement<lb/></l>
+                    <l> Quant outent fait lor parlement<lb/></l>
+                    <l> li saint lui mostra tel present<lb/></l>
+                    <l> cum est le cors nostre seignor<lb/></l>
+                    <l> par quoi serunt sauf pecheor<lb/></l>
+                    <l> zozimas le tint en sa main<lb/></l>
+                    <l> dame dist il ceo semble pain<lb/></l>
+                    <l> mais ceo est le cors nostre seignor<lb/></l>
+                    <l> par qui serunt sauf pecheor<lb/></l>
+                    <l> en croiz fu penei &amp; ocis<lb/></l>
+                    <l> Ia huem nara paradis<lb/></l>
+                    <l> Se il nel receit en sa uie<lb/></l>
+                    <l> ceo croi ieo bien dist marie<lb/></l>
+                    <l> encore ai ieo en ma creance<lb/></l>
+                    <l> kil fu feru dune lance<lb/></l>
+                    <l> por le forfait del premerain home<lb/></l>
+                    <l> Qui fu engane par la pome<lb/></l>
+                    <l> li sains loi si des raisaer<lb/></l>
+                    <l> mult se prist a merueillier<lb/></l>
+                    <l> le sacrefise lui mostra <lb/></l>
+                    <l> la sainte femme la oura<lb/></l>
+                    <l> Il lui dona. &amp; cele le recus <lb/></l>
+                    <l> Le cors usa. &amp; le sanc but<lb/></l>
+                    <l> Quant ele fu acunneniee<lb/></l>
+                    <l> vncnies de rien ne fu si liee<lb/></l>
+                    <l> deus dist ele rois creator<lb/></l>
+                    <l> pere toi lo . &amp; roi aor<lb/></l>
+                    <l> beau sire oez ma raisun<lb/></l>
+                    <l> &amp; si me rent mun gueredun<lb/></l>
+                    <l> Quarante. &amp; treis anz . tai serui<lb/></l>
+                    <l> des ore aies de moi merci<lb/></l>
+                    <l> &amp; fai de ta fille tun plaisir<lb/></l>
+                    <l> des ore uoudrai morir<lb/></l>
+                    <l> &amp; se te plest que uiue plus<lb/></l>
+                    <l> Sire pere pas nel refus<lb/></l>
+                    <l> ceste uie ne refus pas<lb/></l>
+                    <l> tant la uoil cum tu uoudras<lb/></l>
+                    <l> mais se une feis estoie o tei<lb/></l>
+                    <l> Neu torneroie mes ceo crei<lb/></l>
+                    <l> Quant soroisun out acheuee<lb/></l>
+                    <l> Vers le saint home sest tornee<lb/></l>
+                    <l> Sire dist ele zozimas<lb/></l>
+                    <l> chior pere or ten repaireras<lb/></l>
+                    <l> Ne metez en teus en oblier<lb/></l>
+                    <l> ke ne uengiez a mei parler<lb/></l>
+                    <l> del flun iordan passe la riue<lb/></l>
+                    <l> Si me croueras morte ou uiue<lb/></l>
+                    <l> la ou tu primes me troueras<lb/></l>
+                    <l> la diloc ne me poseras<lb/></l>
+                    <l> dame ceo dit zozimas<lb/></l>
+                    <l> Ne me refuser ore pas<lb/></l>
+                    <l> Se tu fais le mien desirier<lb/></l>
+                    <l> de nostre fruit testuet manger<lb/></l>
+                    <l> lencilles traist de sun sacun<lb/></l>
+                    <l> Ni aueit altre garisun.<lb/></l>
+                    <l> Il lui rendi desuz ses deus mains<lb/></l>
+                    <l> &amp; la dame en mania creis grains<lb/></l>
+                    <l> del eue but senz nule sei<lb/></l>
+                    <l> puis lui a dit prie por mei<lb/></l>
+                    <l> a icest mot sen est tornee<lb/></l>
+                    <l> en une oure fu tresportee<lb/></l>
+                    <l> en icel lieu qui mult fu chier<lb/></l>
+                    <l> ov zozimas la uit premier<lb/></l>
+                    <l> Quant a cel lieu fu paruemie<lb/></l>
+                    <l> oV zozimas la troua mie<lb/></l>
+                    <l> a la terre sest reposee<lb/></l>
+                    <l> &amp; a dampnedeu cunmandee<lb/></l>
+                    <l> deus dist ele qui me fesis<lb/></l>
+                    <l> &amp; en mun cors alme mesis<lb/></l>
+                    <l> a tei la puisse ieo liurer<lb/></l>
+                    <l> &amp; otrier. &amp; conmander<lb/></l>
+                    <l> ore sei bien q tu mas chiere<lb/></l>
+                    <l> Quant as oie ma proiere<lb/></l>
+                    <l> Sourer me uoil de ceste nie<lb/></l>
+                    <l> ci uei uenir ta conpaignie<lb/></l>
+                    <l> Ieo crei que ele uient por mei<lb/></l>
+                    <l> malme &amp; mon cors conmant a tei<lb/></l>
+                    <l> dunc est a la terre estendue<lb/></l>
+                    <l> Si cumme ele ert crestote nue<lb/></l>
+                    <l> Ses mains croisa suz sa poitrine<lb/></l>
+                    <l> &amp; sen uolepa dedeus sa crigne<lb/></l>
+                    <l> lalme sen uait en pais durable<lb/></l>
+                    <l> Vnc ni osa uenir deable<lb/></l>
+                    <l> en langebien conpaignie<lb/></l>
+                    <l> Sen ala lalme de marie<lb/></l>
+                    <l> le cors de lui remist tot nu<lb/></l>
+                    <l> Fors dun drapel tot derumpu<lb/></l>
+                    <l> ki en couri une partie<lb/></l>
+                    <l> pourement fu enseuelie<lb/></l>
+                    <l> a terre gist le cors marie<lb/></l>
+                    <l> tot ne senz conpaignie<lb/></l>
+                    <l> Nout el desert tant beste fer<lb/></l>
+                    <l> ki unc i osast aproismier<lb/></l>
+                    <l> Suz lui nosa oisel uoler<lb/></l>
+                    <l> tant la uont deu honorer<lb/></l>
+                    <l> tant grant miracle por lui fist<lb/></l>
+                    <l> ke unkes la char ne malmist<lb/></l>
+                    <l> Ne por neif. ne por chalour<lb/></l>
+                    <l> Nen issoit maese flairour<lb/></l>
+                    <l> tant fu le cois a mterrer<lb/></l>
+                    <l> Que lan fu trestot passe<lb/></l>
+                    <l> zozimas ne se oblia mie<lb/></l>
+                    <l> repaire en sa abeie<lb/></l>
+                    <l> mais durement fu iriez<lb/></l>
+                    <l> li sains quant fu repairiez<lb/></l>
+                    <l> ke ola dame aueit parle<lb/></l>
+                    <l> &amp; son non naueit demande<lb/></l>
+                    <l> mais cum ainz pout prist le cungie<lb/></l>
+                    <l> cum il peust issir del mostier<lb/></l>
+                    <l> &amp; passe fu tot icel an<lb/></l>
+                    <l> mult tost passa le flun iordan<lb/></l>
+                    <l> par le desert quiert la moillier<lb/></l>
+                    <l> o mult merueillons desirier<lb/></l>
+                    <l> tant la quist par le desert<lb/></l>
+                    <l> kil uint la ou le cors iert<lb/></l>
+                    <l> mas ainz kil leust troue<lb/></l>
+                    <l> mult par fu esgare<lb/></l>
+                    <l> pere fait il qui me fesis<lb/></l>
+                    <l> mostre mei ceo que ai quis<lb/></l>
+                    <l> Saciez deci ne mouerai<lb/></l>
+                    <l> auant ne ariere ne irai<lb/></l>
+                    <l> desque uoie encore la femme<lb/></l>
+                    <l> Qui na sa per en tot le regne<lb/></l>
+                    <l> Ja ne uiurai si cum ieo crei<lb/></l>
+                    <l> Se morte ou uiue ne la uei<lb/></l>
+                    <l> Lai mei ueer le cors marie<lb/></l>
+                    <l> Ieo crei que ele soit finie<lb/></l>
+                    <l> Ia esgare tre me lessast<lb/></l>
+                    <l> Se ele me seust en cest guast<lb/></l>
+                    <l> pere se tu de moi as cure<lb/></l>
+                    <l> lei mei ueer sa sepulture<lb/></l>
+                    <l> Quant il out sa oreisun finie<lb/></l>
+                    <l> deu lui mostra le cors marie<lb/></l>
+                    <l> vers sa destre a esgarde<lb/></l>
+                    <l> Si a ueue une darte<lb/></l>
+                    <l> Vne darte uit en un lieu<lb/></l>
+                    <l> primes quida que ceo fust feu<lb/></l>
+                    <l> a la darte sost aproisme<lb/></l>
+                    <l> le cors troua mult se fist lie<lb/></l>
+                    <l> a la terre gist estendu<lb/></l>
+                    <l> por un petit ne fu tot nu<lb/></l>
+                    <l> Sun uis teneit uers oriant<lb/></l>
+                    <l> &amp; les oilz dos auenanment<lb/></l>
+                    <l> Sa crigne suz sun uiaire<lb/></l>
+                    <l> Ni aueit altre suaire<lb/></l>
+                    <l> al cors saproisma zozimas<lb/></l>
+                    <l> Suz lui posa un de ses dras<lb/></l>
+                    <l> les piez cunmence a baisier<lb/></l>
+                    <l> al cors uosa aprocier<lb/></l>
+                    <l> Il esgarda amunt al chief<lb/></l>
+                    <l> letres uit cume en un brief<lb/></l>
+                    <l> es letres que li sains huem uit<lb/></l>
+                    <l> ert cest commandement escrit<lb/></l>
+                    <l> zozimas pren le cors marie<lb/></l>
+                    <l> Sel seueliz o deu aie<lb/></l>
+                    <l> Quant tu laras enseueli<lb/></l>
+                    <l> prie por lui toue merci<lb/></l>
+                    <l> les letres erent de bun tur<lb/></l>
+                    <l> cum sil fussent faites le iur<lb/></l>
+                    <l> &amp; quant out fait sun mestier<lb/></l>
+                    <l> &amp; dit les salmes del salter<lb/></l>
+                    <l> dunc le ueissiez esgare<lb/></l>
+                    <l> Quant rien naueit aporte<lb/></l>
+                    <l> dunc il peust la terre ourir<lb/></l>
+                    <l> al saintisme cors enfouir<lb/></l>
+                    <l> Vn fust troua par auenture<lb/></l>
+                    <l> Fouir en uout la terre dure<lb/></l>
+                    <l> tot tresue dedens sa haire<lb/></l>
+                    <l> &amp; nule riens ni pour faire<lb/></l>
+                    <l> grant bosing a daie<lb/></l>
+                    <l> enz el desert por marie<lb/></l>
+                    <l> deu lui tramist un copaignun<lb/></l>
+                    <l> Nul altre fors un leun<lb/></l>
+                    <l> Vn leun issi del desert<lb/></l>
+                    <l> Si aproisma ou le cors ert<lb/></l>
+                    <l> les piez li cunmence a baisier<lb/></l>
+                    <l> mais al cors nosa aproismier<lb/></l>
+                    <l> Signe faiseit de obeir<lb/></l>
+                    <l> &amp; quil uoloit seruir<lb/></l>
+                    <l> Quant zozimas uit le leun<lb/></l>
+                    <l> Nout cure ditel conpaignun<lb/></l>
+                    <l> Nout soing de sa conpaignie<lb/></l>
+                    <l> se deu lui donast altre aie<lb/></l>
+                    <l> premierement uout fuir<lb/></l>
+                    <l> Quant le uit al cors uenir<lb/></l>
+                    <l> mais quant le uit si priue<lb/></l>
+                    <l> &amp; de tant grant humilite<lb/></l>
+                    <l> &amp; tant suef cume aignel<lb/></l>
+                    <l> Iceo saciez mult lui fu bel<lb/></l>
+                    <l> Sot que deu lui a tramis<lb/></l>
+                    <l> puis li dit bials amis<lb/></l>
+                    <l> ceste dame par nun marie<lb/></l>
+                    <l> Qui mult par fu de sainte uie<lb/></l>
+                    <l> par mei ueut estre enfouie<lb/></l>
+                    <l> mes grant bosoing ai daie<lb/></l>
+                    <l> Se me uoliez aier<lb/></l>
+                    <l> cest cors uondroie enterrer<lb/></l>
+                    <l> le leun est agenoilliez<lb/></l>
+                    <l> del conmandement fu mult liez<lb/></l>
+                    <l> oez cum il sont obeir<lb/></l>
+                    <l> la terre conmence a fouir<lb/></l>
+                    <l> Il fuet la terre dure<lb/></l>
+                    <l> Li sains lui mostra la mesure<lb/></l>
+                    <l> o les piez deuat la fuet. <lb/></l>
+                    <l> o cels deriere la ruou?<lb/></l>
+                    <l> Grant fu la uertu del icun<lb/></l>
+                    <l> Quant il esrachout le sablun<lb/></l>
+                    <l> Se quatre homes i eust mis<lb/></l>
+                    <l> ki eussent besques. &amp; pies<lb/></l>
+                    <l> aneoir se peussent creuer<lb/></l>
+                    <l> ke il peussent tant ourer<lb/></l>
+                    <l> la fosse fu senpres cauee<lb/></l>
+                    <l> &amp; de la terre bien curee<lb/></l>
+                    <l> zozimas fu lie qui ceo uit<lb/></l>
+                    <l> deuers le chief le cors saisist<lb/></l>
+                    <l> le leun la a piez ps. <lb/></l>
+                    <l> en tre lut els deus mis.<lb/></l>
+                    <l> Quant en terre unt mis le cors<lb/></l>
+                    <l> zozimas sen est issu fors<lb/></l>
+                    <l> &amp; fist la cunmendaciun<lb/></l>
+                    <l> Senz aintoire del leun<lb/></l>
+                    <l> Mais quant uint al courer<lb/></l>
+                    <l> Nel estuet pas amonester<lb/></l>
+                    <l> tote la terre auneit<lb/></l>
+                    <l> Suz le saint cors la remeteit<lb/></l>
+                    <l> &amp; quant lout aune<lb/></l>
+                    <l> Sa obedience out acheuee<lb/></l>
+                    <l> a terre sest agenoille<lb/></l>
+                    <l> Signe fist de prendre congie<lb/></l>
+                    <l> dunc sen est ariere torne<lb/></l>
+                    <l> el grant desert est repairie<lb/></l>
+                    <l> Quant zozimas len uit torner<lb/></l>
+                    <l> dampnedeu conmence a loer<lb/></l>
+                    <l> deu dist il loez soies tu<lb/></l>
+                    <l> tant par est grande ta uertu<lb/></l>
+                    <l> bien mas mostre par marie<lb/></l>
+                    <l> Que mult est fol qui tei oblie<lb/></l>
+                    <l> or uei . &amp; crei sonz dotance<lb/></l>
+                    <l> Que fort chose a en penitance<lb/></l>
+                    <l> Nul ior senz espeneir<lb/></l>
+                    <l> Ne serai desqs al morir<lb/></l>
+                    <l> Ia de mun cors merci naurai<lb/></l>
+                    <l> toz iors nies espeneirai<lb/></l>
+                    <l> ore conmence a repairier<lb/></l>
+                    <l> plorant sen uait uers sun mostier.<lb/></l>
+                    <l> ensement funt li conpaignun<lb/></l>
+                    <l> tuit sen repairent en maisun<lb/></l>
+                    <l> Quant tuit furent en lor ostal<lb/></l>
+                    <l> en lor capitre cumunal<lb/></l>
+                    <l> zozimas conmence a parler<lb/></l>
+                    <l> car il ne se uoudra mes celer<lb/></l>
+                    <l> del egyptiene marie<lb/></l>
+                    <l> lor a conte tote la uie<lb/></l>
+                    <l> cum il la toua el desert<lb/></l>
+                    <l> el lieu delitable ou il ert <lb/></l>
+                    <l> &amp; cum il la troua finie<lb/></l>
+                    <l> al tiers an. &amp; desenfoie<lb/></l>
+                    <l> del nun ql troua estrit<lb/></l>
+                    <l> &amp; del duel que il fist<lb/></l>
+                    <l> plus lor a cunte del leun<lb/></l>
+                    <l> cum il lout a conpaignun<lb/></l>
+                    <l> &amp; cum il uint el serunt an<lb/></l>
+                    <l> cuntre lui al flun iordan<lb/></l>
+                    <l> &amp; cum ele apie ala suz lunde<lb/></l>
+                    <l> del eue que tant ert parfunde<lb/></l>
+                    <l> les moignes oent trestoz ses diz<lb/></l>
+                    <l> adeu en rendent grans merciz<lb/></l>
+                    <l> li abes plore tendrement<lb/></l>
+                    <l> &amp; tuit li altre ensement<lb/></l>
+                    <l> Ni out nul qui nament sa uie<lb/></l>
+                    <l> par la deserte de marie<lb/></l>
+                    <l> &amp; nos meismes nos amendun<lb/></l>
+                    <l> car grant besoing en auun<lb/></l>
+                    <l> &amp; depriun ceste marie<lb/></l>
+                    <l> dunt nos auun oi la uie<lb/></l>
+                    <l> Quele deprit nostre seignor<lb/></l>
+                    <l> de qui ele out si grant amor<lb/></l>
+                    <l> kil nos pardoinst nos pechiez<lb/></l>
+                    <l> toz les nouials. &amp; les uiez<lb/></l>
+                    <l> &amp; lui puissun faire present<lb/></l>
+                    <l> de nos almes al iugement. amen.<lb/></l>
+
+            </div>
+        </body>
+    </text>
+</TEI>
