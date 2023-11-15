@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE TEI PUBLIC "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd" "../schema/tei_lite.dtd">
+<TEI xml:id="T-F1" n="Manchester John Rylands French 6">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+                <respStmt><name>Loren Lee</name><resp><date>2023-11-15</date>scribe</resp></respStmt>
+            </titleStmt>
+            <publicationStmt><p></p></publicationStmt>
+            <sourceDesc><p></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    
+    
+    <text>
+        <body>
+            <div>
+                
+                <pb n="8r"/>
+                    <l> Oez seigns une raisun .</l>
+                    <l> U il ni ad si vite nun . <lb/></l>
+                    <l> Tuite est faite de vrite . </l>
+                    <l> ni ad un mot de fal <lb/> sete .</l>
+                    <l> Bn crei q volents orrunt . </l>
+                    <l> Cil q dapnedeu <lb/> amerunt . </l>
+                    <l> kar a cels q de lui nut cure . </l>
+                    <l> Sap <lb/> ole ÷ aspre &amp; dure . </l>
+                    <l> Tuit cil q lui volet amer .  <lb/> </l>
+                    <l> e p sa am mei escot . </l>
+                    <l> De ma dame seinte ma <lb/> rie .</l>
+                    <l> legypciene orrut la vie .</l>
+                    <l> C co sacet tuit <lb/> peccheur .</l>
+                    <l> Q forfet st alur seignur . </l>
+                    <l> Qnul <lb/> pecche ÷ tant gnt . </l>
+                    <l> Ne tant horible ne tat <lb/> pesant . </l>
+                    <l> Dunt ne face verr pardun .</l>
+                    <l> p fei e <lb/> p confessiun .</l>
+                    <l> A ces q pernet penitance .</l>
+                    <l> Mais <lb/> gardent sei de mescreance .</l>
+                    <l> Si ho guerpist <lb/> la mci de .</l>
+                    <l> cil pecche nert ia pdone .</l>
+                    <l> pecche <lb/> nest mie creature .</l>
+                    <l> ainz ÷ un mahains de na <lb/> ture .</l>
+                    <l> Une deus ne ca pecche .</l>
+                    <l> e nepuroc si ad <lb/> sun sie .</l>
+                    <l> en tuz homes ad sun ostal .</l>
+                    <l> e force <lb/> les de fere mal .</l>
+                    <l> Nuls ho ÷  en ceste vie .</l>
+                    <l> Tant <lb/> seit sages u neit folie .</l>
+                    <l> p mutes feiz pecche <lb/> ret .</l>
+                    <l> Li apostle q deu serviret .</l>
+                    <l> p co ne me puis <lb/>
+                        
+               <pb n="8v"/>
+                        mveiller .</l>
+                    <l> del dolent qat loi peccher .</l>
+                    <l> mais de <lb/> celui ai gat mveille .</l>
+                    <l> Q tuz unz dort &amp; net se <lb/> veille .</l>
+                    <l> en ses ordz pecchez se dort . </l>
+                    <l> desql sent <lb/> al quer la mort .</l>
+                    <l> Qnt il se muert &amp; il se sent .</l>
+                    <l> Qut dist il jo men repent .</l>
+                    <l> a tart ad ps le rep <lb/> entir .</l>
+                    <l> Qnt ÷ venu al murir . </l>
+                    <l> Sulunc les diz <lb/> seint austin .</l>
+                    <l> Nest mie bone icele fin .</l>
+                    <l> Qnt <lb/> le chaitis sent la mort .</l>
+                    <l> Ne pot fere dreit ne <lb/> tort .</l>
+                    <l> Guerpist la mal iniquite .</l>
+                    <l> Nen ad mes <lb/> de poeste .</l>
+                    <l> Si plus i eust de sa vie .</l>
+                    <l> uncore fese <lb/> it de folie .</l>
+                    <l> Qut lalme sen vait miserine .</l>
+                    <l> Q <lb/> li pot fere mescine .</l>
+                    <l> Fors cil deu q la ca .</l>
+                    <l> co q <lb/> ad fet co tvera .</l>
+                    <l> Ceste dame dunt voil parler .</l>
+                    <l> Marie le loi voil no <lb/> mer .</l>
+                    <l> egyptiene est par co dite .</l>
+                    <l> Quele fune <lb/> en egipte .</l>
+                    <l> Ileu fu ne &amp; baptize .</l>
+                    <l> Mais malemet <lb/> su enseigne .</l>
+                    <l> Legere devit en sun enfance .</l>
+                    <l> hun <lb/> te por &amp; amance .</l>
+                    <l> Tant ert espse de luxure .</l>
+                    <l> Q daltre chose naveit cure .</l>
+                    <l> P co q ele esteit bele <lb/> &amp; gente .</l>
+                    <l> Safiout tant en sa iuvente . </l>
+                    <l> Q le fe <lb/> seit tot sun pleisir .</l>
+                    <l> Ne li menbrout pas dem <lb/> orir .</l>
+                    <l> De do parenz ne se gardout .</l>
+                    <l> A tuz homes <lb/> sabandonout .</l>
+                    <l> Nespeir q fust en ceste vie .</l>
+                    <l> feme de greign lecherie .</l>
+                    <l> Sis pe &amp; sa mre viv <lb/> eiet .</l>
+                    <l> P poi de dol ne moroient .</l>
+                    <l> Il la voleiet ch <lb/> astier .</l>
+                    <l> Mais nel pisout un dener .</l>
+                    <l> Ne pisout chasti de pent .</l>
+                    <l> Plus q feseit trespas de vet .</l>
+                    <l> Fille co li disent sa mere .</l>
+                    <l> kar creez le cseil da <lb/> tun pe .</l>
+                    <l> Silungemet tens cest mester .</l>
+                    <l> N en <lb/> averu gnt destu reprover .</l>
+                    <l> Pur deu te pri fi <lb/> le marie .</l>
+                    <l> Guerpis ceste lecherie .</l>
+                    <l> Qnt cest <lb/> mest auras guerpi .</l>
+                    <l> Nus te durrum riche <lb/> mari .</l>
+                    <l> Nest dreit q tu seres pdue .</l>
+                    <l> P suffrai <lb/> te de me auue .</l>
+                    <l> Fille tu es de gnt parage . <lb/></l>
+                    <l> Mlt ÷ gnt dol &amp; damage .</l>
+                    <l> Q tu seres issi pie . <lb/></l>
+                    <l> p ta malvaise lecherie .</l>
+                    <l> Tis pes ÷ issi irez . <lb/></l>
+                    <l> Jamais a nul vir nert il lez .</l>
+                    <l> E maloit <lb/> tote saventure .</l>
+                    <l> Qnt ad fant tel engendru <lb/> re .</l>
+                    <l> Qnt marie loit pler .</l>
+                    <l> Ne la pout sule <lb/> met escot .</l>
+                    <l> Desqle out passe duze anz .</l>
+                    <l> A <lb/> tuz volt fere lur talanz .</l>
+                    <l> P pfere sa volen <lb/> te .</l>
+                    <l> Sen fui en altre regne .</l>
+                    <l> Tuit sun pen <lb/> te deguerpit .</l>
+                    <l> Unc puis un dels ne la vit . <lb/></l>
+                    <l> e issue est cume lere .</l>
+                    <l> Senz sou de pere ne <lb/> de mere .</l>
+                    <l> el chemin entra marie .</l>
+                    <l> Une ne <lb/> demanda cpaignie .</l>
+                    <l> en alisandre ÷ venue . <lb/></l>
+                    <l> desconseille &amp; mal seue .</l>
+                    <l> Chef le meretre <lb/> pst ostal .</l>
+                    <l> Iloc ad fet sun curs venal .</l>
+                    <l> ele <lb/> esteit blanche come flur .</l>
+                    <l> Des iuvencels <lb/> aveit lamur .</l>
+                    <l> Tuit enueneiet al bordal . <lb/></l>
+                    <l> p sue am li iuvencel .</l>
+                    <l> Mes p fere tuit su <lb/> deduit .</l>
+                    <l> Les out od sei iur &amp; nuit .</l>
+                    <l> A sun <lb/> delit ert ententive .</l>
+                    <l> De iur &amp; de nui la <lb/> chaitive .</l>
+                    <l> Kar beuire &amp; mang &amp; luxure . <lb/></l>
+                    <l> co ert tote la sue cure .</l>
+                    <l> Qnt levout del <lb/> soper .</l>
+                    <l> odles gartuns alout iuer .</l>
+                    <l> Si par <lb/> amout od els burdir .</l>
+                    <l> ne tendeit gueres <lb/> an dormir .</l>
+                    <l> Li iuvencel tuit li plusur .</l>
+                    <l> e <lb/> ret si esps de sam . </l>
+                    <l> Q devant sun us en <lb/> lentre .</l>
+                    <l> Ileu feseit meinte melle .</l>
+                    <l> p co ql <lb/> eret si ami .</l>
+                    <l> Se feseient ileuc hardi .</l>
+                    <l> De <lb/> gisarmes &amp; des espees .</l>
+                    <l> sentdonouet dono <lb/> vent gnt colees .</l>
+                    <l> Del sanc q esteit espan <lb/> du .</l>
+                    <l> se coreit aval la palu .</l>
+                    <l> La chative q se <lb/> veeit .</l>
+                    <l> Nule pour nen enpneit .</l>
+                    <l> Si unmo <lb/> reit de ses amis .</l>
+                    <l> ele en aveit qrante vifs . <lb/></l>
+                    <l> Qnt ele veeit les do occis . </l>
+                    <l> Ja plus tant ne <lb/> feist un ris .</l>
+                    <l> Ja cil q pur lui fust naffre . <lb/></l>
+                    <l> pur lui ne fust il esgarde .</l>
+                    <l> plus ama od <lb/> les seins iuer .</l>
+                    <l> Q les malades visit . </l>
+                    <l> en <lb/> alisandre esteit marie .</l>
+                    <l> U ele demenout <lb/> ceste vie .</l>
+                    <l> e ileuc demena ses talenz . </l>
+                    <l> La chai <lb/> tive dis &amp; set anz .</l>
+                    <l> La vile ert de li enpei <lb/> re .</l>
+                    <l> alqs en ert mahaine .</l>
+                    <l> ele pais tut e <lb/> virun .</l>
+                    <l> esteit en gnt pdiciun . <lb/></l>
+                    <l> De sa bealte &amp; de sa figure .</l>
+                    <l> Si cum ÷ en <lb/> lescpture .</l>
+                    <l> Voil un poi dire le seblat . <lb/></l>
+                    <l> ainz q io pas avat .</l>
+                    <l> en cel tens en icel <lb/> regne .</l>
+                    <l> ne vit un home pl bele feme .</l>
+                    <l> ne <lb/> cuntesse ne reine .</l>
+                    <l> nout el chef pl bele <lb/> crine .</l>
+                    <l> Rundes aveit les oreilles .</l>
+                    <l> Mes bl <lb/> anches erent amueilles .</l>
+                    <l> Les surciz neus <lb/></l>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
