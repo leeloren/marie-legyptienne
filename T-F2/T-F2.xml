@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE TEI PUBLIC "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd" "../schema/tei_lite.dtd">
+<TEI xml:id="T-F2" n="Berlin simulata orientalia 6">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+                <respStmt><name>Loren Lee</name><resp><date>2023-11-15</date>scribe</resp></respStmt>
+            </titleStmt>
+            <publicationStmt><p></p></publicationStmt>
+            <sourceDesc><p></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    
+    
+    <text>
+        <body>
+            <div>
+                
+                <pb n="???r"/>
+                    <l> Massete eglese a grat besu<lb/></l>
+                    <l> que per le faces oresun<lb/></l>
+                    <l> edis li otreit pasdurable<lb/></l>
+                    <l> e la desfende deable<lb/></l>
+                    <l> Marie lia resppundu<lb/></l>
+                    <l> dex lagoert per savtu<lb/></l>
+                    <l> elagardevrsorient<lb/></l>
+                    <l> Ses mins drecet au cooleste<lb/></l>
+                    <l> epreede locriator<lb/></l>
+                    <l> Mot piemt per sa docor<lb/></l>
+                    <l> Si que labochu limovet<lb/></l>
+                    <l> Mas nulle voiz nese eset<lb/></l>
+                    <l> detre fusepre ravie<lb/></l>
+                    <l> Si que elle ni tochot mie<lb/></l>
+                    <l> sosmas ot paor mot grant<lb/></l>
+                    <l> Jesu crist en trait agarant<lb/></l>
+                    <l> Lai oelle fist sa preere<lb/></l>
+                    <l> _ _ tre sires laveit si chere<lb/></l>
+                    <l> _ ue plus q dos peiz e detrie<lb/></l>
+                    <l> _ veit envie latre ele<lb/></l>
+
+                <pb n="???v"/>
+                    <l> de la paor qot zosimas<lb/></l>
+                    <l> se comca aleir su pas<lb/></l>
+                    <l> cudaftome aie aveir troe<lb/></l>
+                    <l> areres sesteit reuse<lb/></l>
+                    <l> qantmarie lenvit torneir<lb/></l>
+                    <l> Comencalo aapeleir<lb/></l>
+                    <l> Chellesdist elle zosimas<lb/></l>
+                    <l> beau pereschers per q dotas<lb/></l>
+                    <l> Per que dotas per une fene<lb/></l>
+                    <l> Saches que ie se crestienne<lb/></l>
+                    <l> baec fui en menface<lb/></l>
+                    <l> endeai tote mafiace<lb/></l>
+                    <l> ki sui por espenier<lb/></l>
+                    <l> Nen partirai iusqe aumorir<lb/></l>
+                    <l> Laseinte croiz fist en su frunt<lb/></l>
+                    <l> Sadestre mien leva amunt<lb/></l>
+                    <l> Li sens hermitescobei vit<lb/></l>
+                    <l> aus peiz aladame cheit<lb/></l>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
