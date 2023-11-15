@@ -1,0 +1,1595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE TEI PUBLIC "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd" "../schema/tei_lite.dtd">
+<TEI xml:id="T-E" n="Paris Arsenal 3516">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+                <respStmt><name>Loren Lee</name><resp><date>2023-11-15</date>scribe</resp></respStmt>
+            </titleStmt>
+            <publicationStmt><p></p></publicationStmt>
+            <sourceDesc><p></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    
+    
+    <text>
+        <body>
+            <div>
+                
+                <pb n="113v"/>  
+                    <l> Seignor oies une raison<lb/></l>
+                    <l> ou il na severite non<lb/></l>
+                    <l> tot est faite de verite<lb/></l>
+                    <l> Ni a -i- mot defausete<lb/></l>
+                    <l> Bn croi q volents lorrot<lb/></l>
+                    <l> Cil gui damedeu ameront<lb/></l>
+                    <l> Car acels q de luy nont cure<lb/></l>
+                    <l> Est sapole &amp; aspre &amp; dure<lb/></l>
+                    <l> tot cil q le volrot amer<lb/></l>
+                    <l> &amp; por samor moi escout<lb/></l>
+                    <l> de ma dame saint marie<lb/></l>
+                    <l> legiptiene orront la vie<lb/></l>
+                    <l> Car ce sachent tot pecheor<lb/></l>
+                    <l> Q forfait se al creator<lb/></l>
+                    <l> Q nul pechies nest tant pesant<lb/></l>
+                    <l> Nesioribles ne tant gns<lb/></l>
+                    <l> dont dex ne face vrai pdon<lb/></l>
+                    <l> p foi &amp; p confession<lb/></l>
+                    <l> acels q prendent penitance<lb/></l>
+                    <l> Mais gardent soi de mesceance<lb/></l>
+                    <l> Sehom gpist lamci de<lb/></l>
+                    <l> cis pechies niert iapdone<lb/></l>
+                    <l> Car honte fait alcreator<lb/></l>
+                    <l> &amp; al dyable fait honor<lb/></l>
+                    <l> Q mlt est fel &amp; en vieus<lb/></l>
+                    <l> &amp; de mal faire covoiteus<lb/></l>
+                    <l> devant nos vient souvent est<lb/></l>
+                    <l> Q n volroit aluy torn<lb/></l>
+                    <l> Il nest nus hom enceste vie<lb/></l>
+                    <l> Q tant soit sage ~ nait folie<lb/></l>
+                    <l> Li apostle q deu sievoient<lb/></l>
+                    <l> p mlt de foies pechoient<lb/></l>
+                    <l> p co ne me puis mveill<lb/></l>
+                    <l> del home sele voi pech<lb/></l>
+                    <l> Mais de ce luy est grnt mveille<lb/></l>
+                    <l> Q tos iors dort &amp; ne someille<lb/></l>
+                    <l> &amp; en ses ors pechies sen dort<lb/></l>
+                    <l> tant q il sent al cuer lamort<lb/></l>
+                    <l> Qnt il se muert &amp; il se sent<lb/></l>
+                    <l> adont il ia me repent<lb/></l>
+                    <l> Selonc le dit sait agustin<lb/></l>
+                    <l> Nest mie bone iceste fin<lb/></l>
+                    <l> Q tart est ps ______ al repentir<lb/></l>
+                    <l> Qnt on est ______ veu al morir<lb/></l>
+                    <l> Car qnt licuers sent lamort<lb/></l>
+                    <l> Il nepuet faire droit netort<lb/></l>
+                    <l> Guerpist lamale iniquite<lb/></l>
+                    <l> Car il nen a mais poeste<lb/></l>
+                    <l> Se il sentist plus de savie<lb/></l>
+                    <l> Encore fesist il folie<lb/></l>
+                    
+                <pb n="114r"/> 
+                    <l> Qnt lame enva cme caitive<lb/></l>
+                    <l> Qlifera donqs aide<lb/></l>
+                    <l> N hom soseies nelifera<lb/></l>
+                    <l> Se nest cil sires ql cria<lb/></l>
+                    <l> Celadame dt doi ct<lb/></l>
+                    <l> marie loi apeler<lb/></l>
+                    <l> Egiptiene est por ce dite<lb/></l>
+                    <l> Q ele fu nee de gipte<lb/></l>
+                    <l> Iluec fu nee &amp; baptisie<lb/></l>
+                    <l> Mais malemt fu enseignie<lb/></l>
+                    <l> Legiere devint desenfance<lb/></l>
+                    <l> honte pdi tote emeance<lb/></l>
+                    <l> tant ert espse de luxure<lb/></l>
+                    <l> de nule aut rien navoit ce<lb/></l>
+                    <l> P ce q el est tat bele &amp; gete<lb/></l>
+                    <l> Se fioit tant ensaiovente<lb/></l>
+                    <l> Ne limbroit pas demorir<lb/></l>
+                    <l> Sifaisoit tot ason plaisir<lb/></l>
+                    <l> de -ii- parens ne se gardoit<lb/></l>
+                    <l> Atos homes sabandonoit<lb/></l>
+                    <l> Nespoir q fust en ceste vie<lb/></l>
+                    <l> Feme de pl gnt legerie<lb/></l>
+                    <l> pe &amp; me qnt leveoient<lb/></l>
+                    <l> Apoi de duel ne socioient<lb/></l>
+                    <l> Il levoloient castoier<lb/></l>
+                    <l> Ele nes psoit -i- den<lb/></l>
+                    <l> Nepsoit casti deparent<lb/></l>
+                    <l> Nient pl q -i- trespas devet<lb/></l>
+                    <l> Fille ce lidisoit lamere<lb/></l>
+                    <l> Car croi le cseil detopre<lb/></l>
+                    <l> Solongemt tiens cest mest<lb/></l>
+                    <l> Mlt en arons gnt reprov<lb/></l>
+                    <l> P deu te proi fille marie<lb/></l>
+                    <l> Guerpis mais ceste legerie<lb/></l>
+                    <l> Qnt cest mest aras gpi<lb/></l>
+                    <l> Nos te donrons riche mari<lb/></l>
+                    <l> Nest drois q tu soies perie<lb/></l>
+                    <l> Por sosfraite de nre aie<lb/></l>
+                    <l> Fille tues de haut parage<lb/></l>
+                    <l> Mlt est gnt duel &amp; gnt damage<lb/></l>
+                    <l> Q tu seras issi perie<lb/></l>
+                    <l> Porra malvaise legerie<lb/></l>
+                    <l> tes peres en est si iries<lb/></l>
+                    <l> Jamais anul ior neert lies<lb/></l>
+                    <l> &amp; maldist tote savente<lb/></l>
+                    <l> Qnt afait tele engenieure<lb/></l>
+                    <l> Qnt marie looit parler<lb/></l>
+                    <l> Nelevoloit nes escout<lb/></l>
+                    <l> tresqle avoit passe -xii- anz<lb/></l>
+                    <l> del tot volt faire ses cmas<lb/></l>
+                    <l> p bn faire savolente<lb/></l>
+                    <l> Sen fui en autre regne<lb/></l>
+                    <l> tot son parente degpi<lb/></l>
+                    <l> puis noiret paiqs de li<lb/></l>
+                    <l> Eleson fui cme leire<lb/></l>
+                    <l> Sans seu de pere &amp; de me<lb/></l>
+                    <l> Elchemin sen entra marie<lb/></l>
+                    <l> Ainc nidemanda cpaignie<lb/></l>
+                    <l> En alixandre en est venue<lb/></l>
+                    <l> alun chief delamaistrecue<lb/></l>
+                    <l> ot les meretrix pst ostal<lb/></l>
+                    <l> Iluec fut de son cors venal<lb/></l>
+                    <l> Ele estoit blance cme flor<lb/></l>
+                    <l> des iouecels avoit lam<lb/></l>
+                    <l> tot en venoiet albordel<lb/></l>
+                    <l> p sa [] biaute li iovencel<lb/></l>
+                    <l> Ele les vecoit volents<lb/></l>
+                    <l> Niet seulemt por lor dens<lb/></l>
+                    <l> Mais p faire lesien delit<lb/></l>
+                    <l> Les ot osoi tote lanuit<lb/></l>
+                    <l> A son delit ert entendive<lb/></l>
+                    <l> de ior &amp; denuit la chaitive<lb/></l>
+                    <l> boire&amp; mang &amp; luxure<lb/></l>
+                    <l> Co ert tote lasoie cure<lb/></l>
+                    <l> Qnt ele levoit del soper<lb/></l>
+                    <l> od les garcos aloit juer<lb/></l>
+                    <l> tant amoit oeus a bordir<lb/></l>
+                    <l> Nentendoit gaires aldormir<lb/></l>
+                    <l> Li iovencel tot lipluisor<lb/></l>
+                    <l> Erent siespris desamor<lb/></l>
+                    <l> Q devant sen huis enlente<lb/></l>
+                    <l> En faisoient maire mellee<lb/></l>
+                    <l> p ce ql erent si ami<lb/></l>
+                    <l> Sise faisoient lahardi<lb/></l>
+                    <l> de Gisarmes &amp; de espees<lb/></l>
+                    <l> Sentredonoiet gnt colees<lb/></l>
+                    <l> Lisans q en ert espandus<lb/></l>
+                    <l> Encoroit p tot lepalus<lb/></l>
+                    <l> La chaitive q ce veoit<lb/></l>
+                    <l> Nulepauer ne len prenoit<lb/></l>
+                    <l> Se vins moroit deses amiz<lb/></l>
+                    <l> Ele en avoit -xl- viz<lb/></l>
+                    <l> Qnt ele en veoit -ii- ociz<lb/></l>
+                    <l> Ja plus tant ne feist -i- riz<lb/></l>
+                    <l> Ja cil q fust p li navrez<lb/></l>
+                    <l> Japli ne fust visites<lb/></l>
+                    <l> plus amoit ot les vis juer<lb/></l>
+                    <l> coles malades visiter<lb/></l>
+                    <l> En alixandre estoit marie<lb/></l>
+                    <l> Qnt demenoit iceste vie<lb/></l>
+                    <l> Iluec demena ses talans<lb/></l>
+                    <l> Lachaitive -xvii- ans<lb/></l>
+                    <l> Lavile en estoit enpirie<lb/></l>
+                    <l> Alqs en estoit mahaignie<lb/></l>
+                    <l> &amp; li pais tot environ<lb/></l>
+                    <l> en erent en pdicion<lb/></l>
+                    <l> de sabiaute desafigure<lb/></l>
+                    <l> Sic il est en escripture<lb/></l>
+                    <l> Voil -i- poi dire lesamblat<lb/></l>
+                    <l> ancois q io tres par avant<lb/></l>
+                    <l> En icel tans ne en cel regne<lb/></l>
+                    <l> Nen ot onqs plus bele feme<lb/></l>
+                    <l> onqs c tesse ne roine<lb/></l>
+                    <l> Nen ot el chief plus bele cigene<lb/></l>
+                    <l> roondes avoit les oreilles<lb/></l>
+                    <l> &amp; blances eret amveilles<lb/></l>
+                    <l> les sorcils noirs &amp; avenat<lb/></l>
+                    <l> &amp; les ioex vairs &amp; mlt rias<lb/></l>
+                    <l> La bouche bele &amp; pmesure<lb/></l>
+                    <l> &amp; pieue laregardeure<lb/></l>
+                    <l> la face tenre &amp; coloree<lb/></l>
+                    <l> cme rose novele nee<lb/></l>
+                    <l> Ne ia el nes ne el mton<lb/></l>
+                    <l> Ne pceuscies mesfacon<lb/></l>
+                    <l> Le col avoit blanc cermine<lb/></l>
+                    <l> Loier estoit sablonde crine<lb/></l>
+                    <l> Niert mie gindres dun epome<lb/></l>
+                    <l> Lun des traians de cele dome<lb/></l>
+                    <l> De sus laboce enla poitne<lb/></l>
+                    <l> Ert si blance c flor despine<lb/></l>
+                    <l> blans bras avoit &amp;blaces mais<lb/></l>
+                    <l> lesdoisreosgilles &amp; plains<lb/></l>
+                    <l> Gent cors avoit &amp;bnmolle<lb/></l>
+                    <l> Sus lasoele lanc lecoste<lb/></l>
+                    <l> Netrop gnde netp petite<lb/></l>
+                    <l> Jasafacon nen ertdescrite<lb/></l>
+                    <l> lagns biautesdecestedame<lb/></l>
+                    <l> Nert toute escritepnulhome<lb/></l>
+                    <l> Tant ert corroise dopl<lb/></l>
+                    <l> Rien ni avoit qamend<lb/></l>
+                    <l> aplaindre fait telcreate<lb/></l>
+                    <l> Qnt deso creator nacure<lb/></l>
+                    <l> Ele recevoit gns preses<lb/></l>
+                    <l> Sen achatoit biaus garnems<lb/></l>
+                    <l> biaus dras avoit &amp;avenas<lb/></l>
+                    <l> pbn plaisir ases amans<lb/></l>
+                    <l> Navoit pas soig dedsdelaine<lb/></l>
+                    <l> Alpiorior de lasemaine<lb/></l>
+                    <l> vestoit bo bliaut ostori<lb/></l>
+                    <l> Siafubloit mat dermi<lb/></l>
+                    <l> Solls bn pais de cordoan<lb/></l>
+                    <l> chaucoit at les iors del an<lb/></l>
+                    <l> liciteain de lacite<lb/></l>
+                    <l> lamoret tot p sa biaute<lb/></l>
+                    <l> liancien home &amp; lisage<lb/></l>
+                    <l> disoient tot q cert damage<lb/></l>
+                    <l> tant p mar fu ceste dolente<lb/></l>
+                    <l> mlt fait aplaindre sa iovente<lb/></l>
+                    <l> mar fu oncis lasoie vie<lb/></l>
+                    <l> Qnt siest plaine de folie<lb/></l>
+                    <l> tot disoient par lacite<lb/></l>
+                    <l> Qele ert dehaut parente<lb/></l>
+                    <l> Car atos respondoit raison<lb/></l>
+                    <l> &amp; mlt ert debele facon<lb/></l>
+                    <l> lifiex a -i- empereor<lb/></l>
+                    <l> Le peust prendre phonor<lb/></l>
+                    <l> Cefu en mai el mois deste<lb/></l>
+                    <l> Qele issi de lacite<lb/></l>
+                    <l> &amp; esgardoit aval al port<lb/></l>
+                    <l> U soloit faire son deport<lb/></l>
+                    <l> ariver vit une galee<lb/></l>
+                    <l> Q de tos bns ert escipee<lb/></l>
+                    <l> tote ert plaine depeleris<lb/></l>
+                    <l> de viex homes &amp; de mescins<lb/></l>
+                    <l> En ihrlm en aloient<lb/></l>
+                    <l> pbon corage se hastoient<lb/></l>
+                    <l> por estre atans aune feste<lb/></l>
+                    <l> Q de la crois idevoit estre<lb/></l>
+                    <l> Cil q erent liplus legier<lb/></l>
+                    <l> Sen saloient fors el grav<lb/></l>
+                    <l> Main amam aloient avant<lb/></l>
+                    <l> Sor lariviere lienfant<lb/></l>
+                    <l> Mais qnt les apcut marie<lb/></l>
+                    <l> Nepuet muer qne sen rie <lb/></l>
+                    <l> Apres si vit -i- home ester<lb/></l>
+                    <l> cmenca li ademander<lb/></l>
+                    <l> Sire dist ele car me dis<lb/></l>
+                    <l> p icel deu p q tu vie<lb/></l>
+                    <l> Qlpt en iront cil baro<lb/></l>
+                    <l> Q la issent de cel dromon<lb/></l>
+                    <l> Se io pooie o eus aler<lb/></l>
+                    <l> Car cil ne voil mais demorer<lb/></l>
+                    <l> Aler voil de ceste cite<lb/></l>
+                    <l> Comest vis tp iai este<lb/></l>
+                    <l> dt li respondi li pu dom<lb/></l>
+                    <l> Il iront en ihrsm<lb/></l>
+                    <l> Se v lor aves q doner<lb/></l>
+                    <l> Siporres bn deus aler<lb/></l>
+                    <l> p deu ce respont ladolente<lb/></l>
+                    <l> mlt p ai bele iovente<lb/></l>
+                    
+                <pb n="114v"/> 
+                    <l> Mon cors lor metrai abando<lb/></l>
+                    <l> Nelor puis doner autre don<lb/></l>
+                    <l> Qnt li pudom ot lafolie<lb/></l>
+                    <l> Nepuet muer qne senrie<lb/></l>
+                    <l> Qnt aoi lecovenant<lb/></l>
+                    <l> Guerpi la sisenvait riant<lb/></l>
+                    <l> Ele dolente sentorna<lb/></l>
+                    <l> Aint a lostel nerepaira<lb/></l>
+                    <l> ains sen ala gnt aleure<lb/></l>
+                    <l> Si c lemenort savente<lb/></l>
+                    <l> ainc nefina trescal vaiscel<lb/></l>
+                    <l> ou estoient liiovencel<lb/></l>
+                    <l> Mais acols pla tot prem<lb/></l>
+                    <l> Q se nioient el gvier<lb/></l>
+                    <l> a aeus envint isnelemt<lb/></l>
+                    <l> &amp; ipla mlt simplemt<lb/></l>
+                    <l> Seign dist ele pelerin<lb/></l>
+                    <l> dex v mete en corage fin<lb/></l>
+                    <l> &amp; v doinst icel volente<lb/></l>
+                    <l> Q v me fa cies carite<lb/></l>
+                    <l> Jasui io une povre feme<lb/></l>
+                    <l> Ci sui venue daut regne<lb/></l>
+                    <l> delregne degipte suinee<lb/></l>
+                    <l> En cest pais sui esgaree<lb/></l>
+                    <l> Joni ai ami neparent<lb/></l>
+                    <l> Se mip?a mlt malemt<lb/></l>
+                    <l> ot moi nen ai argent neor<lb/></l>
+                    <l> tot poes veoir mo tresor<lb/></l>
+                    <l> Joni ai autre manandie<lb/></l>
+                    <l> Mais mlt p vre cpaignie<lb/></l>
+                    <l> Se enla nef o vos estoie<lb/></l>
+                    <l> Mlt volentiersv serviroie<lb/></l>
+                    <l> &amp; io men voil ovos aler<lb/></l>
+                    <l> Se v plaisoit moi aport<lb/></l>
+                    <l> Japor port une chaitive<lb/></l>
+                    <l> Nevenries plus tart arive<lb/></l>
+                    <l> &amp; respondent li iovencel<lb/></l>
+                    <l> Venes onos mlt n est bel<lb/></l>
+                    <l> Sus enlanef le font mont<lb/></l>
+                    <l> Apres silevont des ancrer<lb/></l>
+                    <l> Donql cmcent anagier<lb/></l>
+                    <l> Cil del dromont lipl leg<lb/></l>
+                    <l> Nefinerent libachel<lb/></l>
+                    <l> Tres ql vindrent enhaute m<lb/></l>
+                    <l> Tote nuit coret as estoiles<lb/></l>
+                    <l> Enhaute m drecent lorvoile<lb/></l>
+                    <l> Mais del dormir rien ni avet<lb/></l>
+                    <l> Car marie les arguoit<lb/></l>
+                    <l> pmes les pnt ataistoner<lb/></l>
+                    <l> &amp; en apres aacoler<lb/></l>
+                    <l> dont les cmenca abaisier<lb/></l>
+                    <l> &amp;entsens alosengier<lb/></l>
+                    <l> Niot-i-seul tant fust lassez<lb/></l>
+                    <l> Neioven cels ne viels alez<lb/></l>
+                    <l> Qen peust prendre respit<lb/></l>
+                    <l> Qne pechast  eli lanuit<lb/></l>
+                    <l> tant ert cortoise del mest<lb/></l>
+                    <l> Qtos les fist ensoi pech<lb/></l>
+                    <l> Qnt ele oort les gns vens<lb/></l>
+                    <l> &amp;les plueves &amp; les torms<lb/></l>
+                    <l> &amp; el oort le gnt orage<lb/></l>
+                    <l> Nemuoit pas lesien corage<lb/></l>
+                    <l> lisiens sanblans estoit mlt lies<lb/></l>
+                    <l> derien necremoit sespechies<lb/></l>
+                    <l> Tos lespaouros cfortoit<lb/></l>
+                    <l> &amp; tote nuit oeus juoit<lb/></l>
+                    <l> Tant p lavoit dyable espse<lb/></l>
+                    <l> Tote nuit ert ensa chemise<lb/></l>
+                    <l> pfaire bn lesien delis<lb/></l>
+                    <l> Ala lanuit ptot les lis<lb/></l>
+                    <l> Amlt gnt gres les recevoit<lb/></l>
+                    <l> lor volentes aenplisoit<lb/></l>
+                    <l> Merveille fu cevoiremt<lb/></l>
+                    <l> Q pot soffrir issi gnt get<lb/></l>
+                    <l> de ce nestuet il dout mie<lb/></l>
+                    <l> Qnait dyable a cpaignie<lb/></l>
+                    <l> Qvolents lales noiast<lb/></l>
+                    <l> Se damedex le li laissast<lb/></l>
+                    <l> M ais il les agari demort<lb/></l>
+                    <l> &amp;si les fist venir alport<lb/></l>
+                    <l> Qnt marie fu arivee<lb/></l>
+                    <l> Dolante fu &amp; esgaree<lb/></l>
+                    <l> Sospire &amp; pleure alarive<lb/></l>
+                    <l> Neset qfaire la caitive<lb/></l>
+                    <l> Ele ni conoist hom ne feme<lb/></l>
+                    <l> Mlt lisambla estnge regne<lb/></l>
+                    <l> A lapfin sest porpensel<lb/></l>
+                    <l> Q en lacite en ira<lb/></l>
+                    <l> &amp; Fera la lesien mest<lb/></l>
+                    <l> Car na corage del laissier<lb/></l>
+                    <l> Oies de la mal euree<lb/></l>
+                    <l> en ihrlm est entree<lb/></l>
+                    <l> Onqs ne setint depech<lb/></l>
+                    <l> Ains cmenca aen pirier<lb/></l>
+                    <l> oies c gnt pdicion<lb/></l>
+                    <l> Ains qvenist lasention<lb/></l>
+                    <l> De la sainte ^crois^ onoree<lb/></l>
+                    <l> Q idevoit estre a oree<lb/></l>
+                    <l> ot en pirie sitot le lieu<lb/></l>
+                    <l> Miex li venist qFust enfu<lb/></l>
+                    <l> Car mlt decevoit saiovete<lb/></l>
+                    <l> pco qele ert bele &amp; gete<lb/></l>
+                    <l> liiovencel de lacite<lb/></l>
+                    <l> Erent esps de sabiaute<lb/></l>
+                    <l> Ne demora q mlt petit<lb/></l>
+                    <l> Q li iors delafeste vint<lb/></l>
+                    <l> Li iors vint delacensio<lb/></l>
+                    <l> Ester v la procession<lb/></l>
+                    <l> des pelerins dout lemer<lb/></l>
+                    <l> Q uont altemple p orer<lb/></l>
+                    <l> gme pudome &amp; gme sage<lb/></l>
+                    <l> Al most uot p bo corage<lb/></l>
+                    <l> &amp; qnt les a pooit marie<lb/></l>
+                    <l> mist soi de dens la gpaignie<lb/></l>
+                    <l> Entra en la procession<lb/></l>
+                    <l> Nonpas p bone ente[ ]cio<lb/></l>
+                    <l> lipelerin gleueoient<lb/></l>
+                    <l> Sauloente ne conissoiet<lb/></l>
+                    <l> Seil seussent de sauie<lb/></l>
+                    <l> o eus neus ia gpaignie<lb/></l>
+                    <l> atant les degres st mote<lb/></l>
+                    <l> dedens le tenple st ale<lb/></l>
+                    <l> tot en tra ens lagpaignie<lb/></l>
+                    <l> mais ainc nipot entr marie<lb/></l>
+                    <l> cehert vis son escient<lb/></l>
+                    <l> Q ele veoit vne gent<lb/></l>
+                    <l> Q lisambloiet chrs<lb/></l>
+                    <l> mais mlt auoiet lesvis fiers<lb/></l>
+                    <l> cargs tenoit vs li sespee<lb/></l>
+                    <l> &amp; li desfendoiet lentree<lb/></l>
+                    <l> Qnt ele uolt aler avat<lb/></l>
+                    <l> des espees cremoit le bnt<lb/></l>
+                    <l> Qnt vit qniot nule ente<lb/></l>
+                    <l> En vn angle senest tnee<lb/></l>
+                    <l> dt se g mence aporpenser<lb/></l>
+                    <l> Q doit qle ni puet entr<lb/></l>
+                    <l> A la pfin voit &amp; entent<lb/></l>
+                    <l> Q ses pechies le li deffent<lb/></l>
+                    <l> delcuer gmence asospirer<lb/></l>
+                    <l> &amp; de ses io els fort aplorer<lb/></l>
+                    <l> del cuer li issent lisospir<lb/></l>
+                    <l> mains psoit vie q morir<lb/></l>
+                    <l> aser .ij. mais de rot sacne<lb/></l>
+                    <l> Gnt cors se fiert en la poitne<lb/></l>
+                    <l> Seut q dex iert ires vs li<lb/></l>
+                    <l> Ne liosa crier mci<lb/></l>
+                    <l> hai dist ele pecorir<lb/></l>
+                    <l> gmar ifuster merets<lb/></l>
+                    <l> p coi fesis les ors pechies<lb/></l>
+                    <l> dt dex est issi corecies<lb/></l>
+                    <l> mal g seil ai tost ans eu<lb/></l>
+                    <l> Qnt mo creator ai pdeu<lb/></l>
+                    <l> tant p suj plais deuil orde<lb/></l>
+                    <l> Q damledeu na demoicure<lb/></l>
+                    <l> Ne el temple ne puis entr<lb/></l>
+                    <l> Ne nre seignor apeler<lb/></l>
+                    <l> Q fera ore la chaitiue<lb/></l>
+                    <l> Celi pesoit q tat ert viue<lb/></l>
+                    <l> Regarda ladestre ptie<lb/></l>
+                    <l> limage aveu de marie<lb/></l>
+                    <l> En lam asiere enfiguree<lb/></l>
+                    <l> Mlt la pieuemt regardee<lb/></l>
+                    <l> dame dist ele pieue mere<lb/></l>
+                    <l> Q en ton cors portas tope<lb/></l>
+                    <l> S Gabrieus enfu message<lb/></l>
+                    <l> Tulirespondis gme sage<lb/></l>
+                    <l> Qnt il te dist aue marie<lb/></l>
+                    <l> deladeu grace raemplie<lb/></l>
+                    <l> Entoi pndra humanite<lb/></l>
+                    <l> Jhu de sainte maiste<lb/></l>
+                    <l> Qnt q il dist tu lotrias<lb/></l>
+                    <l> la sieue ancele reclamas<lb/></l>
+                    <l> pro estu el ciel roine<lb/></l>
+                    <l> A toi seule qer me dicine<lb/></l>
+                    <l> Ames plaies q st mortals <lb/></l>
+                    <l> Ne qer aucre mede cinals<lb/></l>
+                    <l> Se tu oton chier fil mapaies<lb/></l>
+                    <l> tot erent saines mes gnt plaies<lb/></l>
+                    <l> Ci gpis ia la male vie<lb/></l>
+                    <l> Q od li nar ai gpaignie<lb/></l>
+                    <l> Enton fil ai io macreance<lb/></l>
+                    <l> toi met en plege &amp; enfiace<lb/></l>
+                    <l> a tost ans mais teseruiraj<lb/></l>
+                    <l> Ne iade luj ne partiraj<lb/></l>
+                    <l> tote gpis io ceste vie<lb/></l>
+                    <l> p ma malvaise legerie<lb/></l>
+                    <l> Jamais niert ior naie guace<lb/></l>
+                    <l> Mlt ert aspre mapenitace<lb/></l>
+                    <l> Virge roine jo croi bien<lb/></l>
+                    <l> Q onqs nest icele rien<lb/></l>
+                    <l> Q tant p soit fors aveng<lb/></l>
+                    <l> Setu ton fil en veus proier<lb/></l>
+                    <l> Q mlt ne soit tost pdone<lb/></l>
+                    <l> &amp; aton fil lues acorde<lb/></l>
+                    <l> Encore ai io en macreance<lb/></l>
+                    <l> Q tes fils fu ata naissance<lb/></l>
+                    <l> En toi mist il virginite<lb/></l>
+                    <l> &amp; en apres sadeite<lb/></l>
+                    <l> mlt fu gnt mueille delpe<lb/></l>
+                    <l> Qnt de safille fist same<lb/></l>
+                    
+                <pb n="115r"/> 
+                    <l> Il prist entoi humanite<lb/></l>
+                    <l> Ainc mpdis virginite<lb/></l>
+                    <l> Il fu tes fiex &amp; fu tespre<lb/></l>
+                    <l> Tu fus safille &amp; same<lb/></l>
+                    <l> mlt fu ce mueillose chose<lb/></l>
+                    <l> Q de lespine issi larose<lb/></l>
+                    <l> &amp; delarose issi lifruis<lb/></l>
+                    <l> pcoi dyables fu destruis<lb/></l>
+                    <l> Vn non auons co est marie<lb/></l>
+                    <l> mlt est diuerse nre vie<lb/></l>
+                    <l> tu amas bn &amp; castee<lb/></l>
+                    <l> &amp; io luxure &amp; ordee<lb/></l>
+                    <l> dyable eus aanemi<lb/></l>
+                    <l> &amp; iolai tostans seruj<lb/></l>
+                    <l> Ainc delatoie hum ilite<lb/></l>
+                    <l> Ne nasq feme encest regne<lb/></l>
+                    <l> Jo suj poure &amp; orgoillose<lb/></l>
+                    <l> &amp; de mo cors luxuriouse<lb/></l>
+                    <l> Nre sires toi en ama<lb/></l>
+                    <l> &amp; moi chaitiue refusa<lb/></l>
+                    <l> moi refusa &amp; ama toi<lb/></l>
+                    <l> dame aies mcj demoi<lb/></l>
+                    <l> Virge tu portas letresor<lb/></l>
+                    <l> Q plus reluist q geme enor<lb/></l>
+                    <l> entoi pst char lifiex al roi<lb/></l>
+                    <l> Q S. iehans mostra aldoi<lb/></l>
+                    <l> dist ql estoit liaigners dei<lb/></l>
+                    <l> p cai li mans ert racatei<lb/></l>
+                    <l> mais qnt loi liamenus<lb/></l>
+                    <l> Qil ieta de paradis<lb/></l>
+                    <l> Qil deuoit lemont salu<lb/></l>
+                    <l> Sel q da sempres engan<lb/></l>
+                    <l> Si g il fist leprem home<lb/></l>
+                    <l> Qil fist mang delapome<lb/></l>
+                    <l> p .iij. foies la saia<lb/></l>
+                    <l> onqs del su en rien ni tua<lb/></l>
+                    <l> Qnt si leuit arme &amp; fort<lb/></l>
+                    <l> p tison lidona mort<lb/></l>
+                    <l> mlt fu li mors bon euree<lb/></l>
+                    <l> p coi vie fu restoree<lb/></l>
+                    <l> So lifiex deu ne fust ocis<lb/></l>
+                    <l> Jahom nen trast enparadis<lb/></l>
+                    <l> p lamort pst il les utus<lb/></l>
+                    <l> p coi dyables fu vencus<lb/></l>
+                    <l> denfer brisa laserreure<lb/></l>
+                    <l> Sien ron pi tot laclosure<lb/></l>
+                    <l> Fors en ieta sagpaignie<lb/></l>
+                    <l> Q dyables auoit rauie<lb/></l>
+                    <l> a son pre tos les mena<lb/></l>
+                    <l> ensa glorie ou il esta<lb/></l>
+                    <l> puis uint el sepulcre ason cors<lb/></l>
+                    <l> p gnt vertu en isci fors<lb/></l>
+                    <l> as apostles puis aparut<lb/></l>
+                    <l> &amp; .xl. iors o eus fut<lb/></l>
+                    <l> mostra lor lanouele loi<lb/></l>
+                    <l> apres les b aissa tos en foi<lb/></l>
+                    <l> gmanda lor sa douce me<lb/></l>
+                    <l> El ciel monta puis asonpre<lb/></l>
+                    <l> del ciel lor mist itel gfort<lb/></l>
+                    <l> onqs puis ne cremiret mort<lb/></l>
+                    <l> lisains espirs oeus imist<lb/></l>
+                    <l> tos les langages lor aprist<lb/></l>
+                    <l> or siet ala destre son pere<lb/></l>
+                    <l> tues od luj sadouce mere<lb/></l>
+                    <l> Qnt il uenra al jugemt<lb/></l>
+                    <l> A son secont auenemt<lb/></l>
+                    <l> tuseras en sa gpaignie<lb/></l>
+                    <l> gme lasoie chiere amie<lb/></l>
+                    <l> Il jugera &amp; mors &amp; vis<lb/></l>
+                    <l> li juste irot enp aradis<lb/></l>
+                    <l> li mal iront el fu durables<lb/></l>
+                    <l> Ensamble oles pu ans dyables<lb/></l>
+                    <l> Virge roine doronee<lb/></l>
+                    <l> Q tant pes bone euree<lb/></l>
+                    <l> Q celi ptas en ton ventre<lb/></l>
+                    <l> Q tos limos nepot repndre<lb/></l>
+                    <l> Sig io croi ce q io di<lb/></l>
+                    <l> Si aies vos de moi mercj<lb/></l>
+                    <l> Qnt ot finee sorison<lb/></l>
+                    <l> &amp; dex hot fait son pdn<lb/></l>
+                    <l> desorison leua marie<lb/></l>
+                    <l> Enson nouel seign se fie<lb/></l>
+                    <l> En luj mist tote sa fiance<lb/></l>
+                    <l> El temple entra sans demace<lb/></l>
+                    <l> de dens ent sans destorbier<lb/></l>
+                    <l> Si va oir le deu mestier<lb/></l>
+                    <l> Sorses ienols dt se clina<lb/></l>
+                    <l> lasainte crois si aora<lb/></l>
+                    <l> mais qnt ele lot aoree<lb/></l>
+                    <l> de deu fu si tote aspiree<lb/></l>
+                    <l> Q tot conut le deu mest<lb/></l>
+                    <l> Estes le v hors del most<lb/></l>
+                    <l> deses pechies sent alegie<lb/></l>
+                    <l> A limage sest repairie<lb/></l>
+                    <l> Enli atote sesperance<lb/></l>
+                    <l> gseil regert depenitance<lb/></l>
+                    <l> En ql maniere lefera<lb/></l>
+                    <l> &amp; en ql tre sen ira<lb/></l>
+                    <l> Vint vne vois q ele entent<lb/></l>
+                    <l> Seli adit aptement<lb/></l>
+                    <l> vaten al most .s. iehan<lb/></l>
+                    <l> lapasseras le flun iordan<lb/></l>
+                    <l> puis ten iras en lagastine<lb/></l>
+                    <l> Al most pndras medicine<lb/></l>
+                    <l> Jhierqs espeneiras<lb/></l>
+                    <l> trestos les iors qtu viuras<lb/></l>
+                    <l> Qnt ele aentendu lauois<lb/></l>
+                    <l> Seigna soi de lauraie crois<lb/></l>
+                    <l> lues en entra enson chemin<lb/></l>
+                    <l> devant luj vit .i. pelerin<lb/></l>
+                    <l> .iij. maailles li presenta<lb/></l>
+                    <l> .iij. petit pains en acata<lb/></l>
+                    <l> Ce fu trestote sasustace<lb/></l>
+                    <l> tant gme fu enpenitace<lb/></l>
+                    <l> A flun iordan envit marie<lb/></l>
+                    <l> lanuit ipst herbergerie<lb/></l>
+                    <l> mlt pres del most .s. iehan<lb/></l>
+                    <l> Sor la riue del flun iordan<lb/></l>
+                    <l> Se se hberga sans nul amj<lb/></l>
+                    <l> dun de ses pais manga demj<lb/></l>
+                    <l> but de laighe sainte fije<lb/></l>
+                    <l> Qnt en ot but mlt enfu lie<lb/></l>
+                    <l> Son chief laua de lapdone<lb/></l>
+                    <l> deses pechies deuint lamode<lb/></l>
+                    <l> Ele sesent alqs lassee<lb/></l>
+                    <l> Car fait auoit bn gnt iornee<lb/></l>
+                    <l> depierre dure fist so lit<lb/></l>
+                    <l> Jluec dormi tote lanuit<lb/></l>
+                    <l> dormi mais cefu mlt petit<lb/></l>
+                    <l> Car ni auoit poit dedelit<lb/></l>
+                    <l> p matin ala almost<lb/></l>
+                    <l> p la oir le deu mest<lb/></l>
+                    <l> larecut corp dominj<lb/></l>
+                    <l> A donc fu lie ainc nefusi<lb/></l>
+                    <l> Qnt ele fu acumeignie<lb/></l>
+                    <l> Cepoes croire mlt fu lie<lb/></l>
+                    <l> puis en entra en.i.calan<lb/></l>
+                    <l> outre passa leflu iorda<lb/></l>
+                    <l> Qnt ele fu out passee<lb/></l>
+                    <l> En la forest en est ente<lb/></l>
+                    <l> marie va p la gastine<lb/></l>
+                    <l> Souent deproie laroine<lb/></l>
+                    <l> Q ele auoit nusen ostage<lb/></l>
+                    <l> le ior ancois deuat simage<lb/></l>
+                    <l> p sa mci ne le gpise<lb/></l>
+                    <l> &amp; del dyable legarisee<lb/></l>
+                    <l> Jluec est tote sa fiance<lb/></l>
+                    <l> orgmenca sapenitance<lb/></l>
+                    <l> Napas talent derepetir<lb/></l>
+                    <l> Ains se lai roit defai morir<lb/></l>
+                    <l> Nena q .ij. pains &amp; demj<lb/></l>
+                    <l> Orait ihu deli merci<lb/></l>
+                    <l> de ce ne viura ele mie<lb/></l>
+                    <l> Se dex ne lifait autre aie<lb/></l>
+                    <l> p le bos vait gnt aleure<lb/></l>
+                    <l> Endeu sefie &amp; asseure<lb/></l>
+                    <l> mais qnt afaite saiornee<lb/></l>
+                    <l> desos .i. arbre en est tor nee<lb/></l>
+                    <l> Vn petit manga deson pain<lb/></l>
+                    <l> puis sen dormi duscal demai<lb/></l>
+                    <l> El demain leua p matin<lb/></l>
+                    <l> Vers orient tint son cemi<lb/></l>
+                    <l> tant ala p ior &amp; pnuis<lb/></l>
+                    <l> p bos p plains &amp; p larris<lb/></l>
+                    <l> &amp; tant p font uint elboscage<lb/></l>
+                    <l> Q tot deuint iluec saluage<lb/></l>
+                    <l> mais ele ne sablioit mie<lb/></l>
+                    <l> de proier asainte marie<lb/></l>
+                    <l> Souent li menbroit del jmage<lb/></l>
+                    <l> Qele auoit mis en ostage<lb/></l>
+                    <l> Si drapel furent tost vse<lb/></l>
+                    <l> &amp; si soll tost desrame<lb/></l>
+                    <l> Qnt sidpel furent ronpu<lb/></l>
+                    <l> licors de li remest tot nu<lb/></l>
+                    <l> la sieue char mua color<lb/></l>
+                    <l> de vant ert blance gme flor<lb/></l>
+                    <l> Qnt .i. juer iot este<lb/></l>
+                    <l> tot li noir curent licoste<lb/></l>
+                    <l> mlt li mua lablonde crine<lb/></l>
+                    <l> blance de vint g .i. ermine<lb/></l>
+                    <l> del soleil &amp; de la gelee<lb/></l>
+                    <l> lifu laface mlt bruslee<lb/></l>
+                    <l> Sa bouche fu atene vie<lb/></l>
+                    <l> &amp; en viro sachar noircie<lb/></l>
+                    <l> jtant auoit noir lemento<lb/></l>
+                    <l> gme ce fust chies dun tison<lb/></l>
+                    <l> tot lierent noir oi lioil<lb/></l>
+                    <l> Nauoit ore .i. port dorgoil<lb/></l>
+                    <l> Se v en veiscies loreille<lb/></l>
+                    <l> mlt v uenist agnt mueille<lb/></l>
+                    <l> Q maigre estoit &amp; de creue<lb/></l>
+                    <l> &amp; de blanc poil tote molsue<lb/></l>
+                    <l> Noire &amp; molsue ert sapoitne<lb/></l>
+                    <l> bn resambloit escorde despine<lb/></l>
+                    <l> Nauoit de char enses traians<lb/></l>
+                    <l> Nient pl ql est en .i. gans<lb/></l>
+                    <l> les bras les mains &amp; les lonsdois<lb/></l>
+                    <l> Auoit plus noirs q nenest pois<lb/></l>
+                    <l> mlt p auoit lesongles gns<lb/></l>
+                    <l> asdens les rot qle ot trencas<lb/></l>
+                    
+                <pb n="115v"/> 
+                    <l> liuentres liert agaris<lb/></l>
+                    <l> car nauoit nul deses delis<lb/></l>
+                    <l> lipie li erent de creue<lb/></l>
+                    <l> &amp; en viron tot denaure<lb/></l>
+                    <l> Ele ne segardoit despine<lb/></l>
+                    <l> Qnt ele aloit par lagastine<lb/></l>
+                    <l> Ce liert vis son escient<lb/></l>
+                    <l> del bn fai soit petit v nient<lb/></l>
+                    <l> Qnt vne espine le poignoit<lb/></l>
+                    <l> En vn deses pies li chaoit<lb/></l>
+                    <l> de co estoit ele mlt lie<lb/></l>
+                    <l> Qnt ele auoit lagnt hascie<lb/></l>
+                    <l> Nestoit mueille siert noircie<lb/></l>
+                    <l> car mlt de menoit aspre vie<lb/></l>
+                    <l> plus de .xl. ans a lanue<lb/></l>
+                    <l> Niert par mueille siert molsue<lb/></l>
+                    <l> poure des pens avoit od li<lb/></l>
+                    <l> damedex ait deli merci<lb/></l>
+                    <l> .ij. pains auoit negaires gns<lb/></l>
+                    <l> de ces ues q p pluisors ans<lb/></l>
+                    <l> le prem an deuindret dur<lb/></l>
+                    <l> g ce fuistent pieres dem<lb/></l>
+                    <l> chasg ior en vsoit marie<lb/></l>
+                    <l> mais co ert petite ptie<lb/></l>
+                    <l> Qnt ele ot tot son paivse<lb/></l>
+                    <l> donqs aqlt lerbe del pre<lb/></l>
+                    <l> g autre beste lemangoit<lb/></l>
+                    <l> derien nese re gfortoit<lb/></l>
+                    <l> as dens beuoit dou ruissel<lb/></l>
+                    <l> Car ni auoit autre vaiscel<lb/></l>
+                    <l> Ne fait aplaindre lipechiet<lb/></l>
+                    <l> dont licors est si castiet<lb/></l>
+                    <l> derbe vesq &amp; de racine<lb/></l>
+                    <l> dis &amp; set anz en la gastine<lb/></l>
+                    <l> puis fu .xxx. anz qne manga<lb/></l>
+                    <l> Se langles deu ne laporta<lb/></l>
+                    <l> dyable vint ali depremier<lb/></l>
+                    <l> Sonet le soloit assaier<lb/></l>
+                    <l> tot ce lifaisoit ramenbrer<lb/></l>
+                    <l> Qle iadis soloit amer<lb/></l>
+                    <l> les biaus delis &amp; les bels lieus<lb/></l>
+                    <l> ouele seut faire ses gieus<lb/></l>
+                    <l> ore fu ele bon euree<lb/></l>
+                    <l> Qnt de tot ce fu obliee<lb/></l>
+                    <l> Ainc gaires puis entete savie<lb/></l>
+                    <l> Neli souint puis defolie<lb/></l>
+                    <l> Neainc en trestot leboscage<lb/></l>
+                    <l> Ne uit garres beste saluage<lb/></l>
+                    <l> Ne autre viue creature<lb/></l>
+                    <l> p laforest vait tote nue<lb/></l>
+                    <l> Enplujsors lieus pst son ostal<lb/></l>
+                    <l> Savie estoit esperital<lb/></l>
+                    <l> Orlairomes a demarie<lb/></l>
+                    <l> Si v dirons dun abeie<lb/></l>
+                    <l> Q ert al chief de la forest<lb/></l>
+                    <l> Si g li liures nos fait cert<lb/></l>
+                    <l> onqs dex ne fist nule gent<lb/></l>
+                    <l> Qvesqsent tant bonemt<lb/></l>
+                    <l> Ni miex seruent lor catoz<lb/></l>
+                    <l> Q faisoient icil seignor<lb/></l>
+                    <l> Jl nauoient soig de malfaire<lb/></l>
+                    <l> Chasgs auoit vestu sahaire<lb/></l>
+                    <l> tant erent en gnt decipline<lb/></l>
+                    <l> Rauoiet pas vertu stamine<lb/></l>
+                    <l> Enhaires erent &amp; nus pies<lb/></l>
+                    <l> p espeneir lor pechies<lb/></l>
+                    <l> Neil de ior ne il de nuit<lb/></l>
+                    <l> Nefuuset ia troue en lit<lb/></l>
+                    <l> tote ior erent elmost<lb/></l>
+                    <l> fors seul al eure demang<lb/></l>
+                    <l> Jl uiuoient mlt pouremt<lb/></l>
+                    <l> depai dorge &amp; de polmt<lb/></l>
+                    <l> &amp; tos les uenredis de lan<lb/></l>
+                    <l> Viuoient de nois &amp; deglan<lb/></l>
+                    <l> Aighe benoient q niert sajne<lb/></l>
+                    <l> Car ele niert pas defontaine<lb/></l>
+                    <l> Entrels nestoit pas simonie<lb/></l>
+                    <l> Ne couoitise ne envie<lb/></l>
+                    <l> Nauoiet soig darget ne dor<lb/></l>
+                    <l> Endeu auoient lor tresor<lb/></l>
+                    <l> Nul dels nauoit ppete<lb/></l>
+                    <l> tot erent dune volente<lb/></l>
+                    <l> Nest ho lalor bonte v die<lb/></l>
+                    <l> tant estoiet de bone vie<lb/></l>
+                    <l> Qnt venoit ala qrantaine<lb/></l>
+                    <l> le prem ior faisoiet cajne<lb/></l>
+                    <l> liabes les a cu mencoit<lb/></l>
+                    <l> Corp dm lor denoit<lb/></l>
+                    <l> Qnt les auoit agmchies<lb/></l>
+                    <l> p ordre lor lauoit lorpies<lb/></l>
+                    <l> puis aloient aorison<lb/></l>
+                    <l> &amp; si lor faisoient sermo<lb/></l>
+                    <l> gmandoit les entre baisier<lb/></l>
+                    <l> puis lor ouroit luis del most<lb/></l>
+                    <l> Enlaforest les en uoioit<lb/></l>
+                    <l> A damedeu les gmandoit<lb/></l>
+                    <l> li sait moine se deptoient<lb/></l>
+                    <l> Fors seul .ij. qla remanoiet<lb/></l>
+                    <l> No pas p pour de larron<lb/></l>
+                    <l> Ql cremisset de lor maison<lb/></l>
+                    <l> mais p faire le deu mest<lb/></l>
+                    <l> Remanoient cil el most<lb/></l>
+                    <l> Car nest pas bode .s. eglise<lb/></l>
+                    <l> Q soit laissie ledeu seruice<lb/></l>
+                    <l> liautre sen issoient tuit<lb/></l>
+                    <l> El deseit viuoient defruit<lb/></l>
+                    <l> Endeu auoient gnt amor<lb/></l>
+                    <l> Derbes viuoient lipluisor<lb/></l>
+                    <l> &amp; qnt li .i. lautreveoit<lb/></l>
+                    <l> delafujoit ou il estoit<lb/></l>
+                    <l> alsi sen aloit g enbles<lb/></l>
+                    <l> Jadeluj ne fust destorbes<lb/></l>
+                    <l> Jluec ou lanuit le pnoit<lb/></l>
+                    <l> Sor la Fresce erbe se colchoit<lb/></l>
+                    <l> p matin se leuoit bn main<lb/></l>
+                    <l> Seignoit soi desa destre mai<lb/></l>
+                    <l> Ilnesauoit ou il aloit<lb/></l>
+                    <l> A damledeu se gmandoit<lb/></l>
+                    <l> Ceste meisine entencion<lb/></l>
+                    <l> Avoient tot si gpaigno<lb/></l>
+                    <l> des ioels plor oient tentemt<lb/></l>
+                    <l> Souenoit lor del jugemt<lb/></l>
+                    <l> ou tot li angle tnbleront<lb/></l>
+                    <l> p la paor qil aront<lb/></l>
+                    <l> lav il vront le fil de<lb/></l>
+                    <l> El siege de sa maiste<lb/></l>
+                    <l> &amp; deuat luj lefu dable<lb/></l>
+                    <l> dt il tmentera dyable<lb/></l>
+                    <l> &amp; tote lamalvaise gent<lb/></l>
+                    <l> tmtera il ensemt<lb/></l>
+                    <l> En infer puis descenderot<lb/></l>
+                    <l> Si q iamais nen isteront<lb/></l>
+                    <l> p co estoit icil moine<lb/></l>
+                    <l> En la forest entel angone<lb/></l>
+                    <l> p escap de cel peril<lb/></l>
+                    <l> estoient il entel escil<lb/></l>
+                    <l> Qnt passee ert la qrataine<lb/></l>
+                    <l> &amp; venoit alior delacaine<lb/></l>
+                    <l> le ior del a soluption<lb/></l>
+                    <l> Reuenoiet tot en maiso<lb/></l>
+                    <l> lisains abes estoit mlt lies<lb/></l>
+                    <l> Qnt les ueoit tos repairies<lb/></l>
+                    <l> lipaistre ert liesdesobergil<lb/></l>
+                    <l> Q escapes ert deperil<lb/></l>
+                    <l> El most les en fait aler<lb/></l>
+                    <l> A pres soi fist les huis ferm<lb/></l>
+                    <l> puis estoiet tot lan sosgeu<lb/></l>
+                    <l> Ne lor estouoit cremir leu<lb/></l>
+                    <l> Qnt reuiet al ior deqresme<lb/></l>
+                    <l> Q carg doit aler son esme<lb/></l>
+                    <l> liabes fist q il soloit<lb/></l>
+                    <l> Ses oeilles mist fors del toit<lb/></l>
+                    <l> Ancois les fist entre baisier<lb/></l>
+                    <l> puis lor ouri luis del most<lb/></l>
+                    <l> Enlaforest les en voioit<lb/></l>
+                    <l> Adamledeu les gmandoit<lb/></l>
+                    <l> Vns senva adest partie<lb/></l>
+                    <l> Q mlt estoit de bone vie<lb/></l>
+                    <l> Jl ert apeles Zosimas<lb/></l>
+                    <l> mlt ert vestus depouresds<lb/></l>
+                    <l> miex amoit il sapoute<lb/></l>
+                    <l> Q n qns ne fait sagte<lb/></l>
+                    <l> Enlaforest p fondemt<lb/></l>
+                    <l> Se mist ot poi formemt<lb/></l>
+                    <l> Ermites iquida trou<lb/></l>
+                    <l> de deu voloit o eus ple<lb/></l>
+                    <l> mais qnt il ot fait .xx. iornees<lb/></l>
+                    <l> Q mlt eret des mesurees<lb/></l>
+                    <l> &amp; vit qnul nepot trou<lb/></l>
+                    <l> Not corage dauat aler<lb/></l>
+                    <l> Endroit miedi canta sore<lb/></l>
+                    <l> Aore deu &amp; si demore<lb/></l>
+                    <l> Qnt il ot sorison fenie<lb/></l>
+                    <l> Re garde ala destre ptie<lb/></l>
+                    <l> Il esgarda vs orient<lb/></l>
+                    <l> vn ombre vit son escient<lb/></l>
+                    <l> Q estoit de home v de feme<lb/></l>
+                    <l> &amp; cestoit de legiptiene<lb/></l>
+                    <l> dex lauoit iluec amenee<lb/></l>
+                    <l> Reuoloit mais q fust celee<lb/></l>
+                    <l> descourir uoloit letresor<lb/></l>
+                    <l> Q plus valoit carget neor<lb/></l>
+                    <l> Lisains ho fu mlt esmaris<lb/></l>
+                    <l> Qnt alonbre torna sonvis<lb/></l>
+                    <l> Qda q fust encantemt<lb/></l>
+                    <l> Reclama deu om ni potet<lb/></l>
+                    <l> Q le des fendist del felon<lb/></l>
+                    <l> &amp; de male tenptacion<lb/></l>
+                    <l> Qnt il ot sorison fenie<lb/></l>
+                    <l> la figure uit demarie<lb/></l>
+                    <l> apremt vit l afigure<lb/></l>
+                    <l> Car ni auoit pas couture<lb/></l>
+                    <l> En viro luj auoit sacne<lb/></l>
+                    <l> tant ert blance gflordespine<lb/></l>
+                    <l> liblanc ceuoil nieret tcies<lb/></l>
+                    <l> liauenoient dus cas pies<lb/></l>
+                    <l> Ele nauoit pl vestems<lb/></l>
+                    <l> Qnt ces lisosleuoit li ves<lb/></l>
+                    <l> desus paroit lachar brullee<lb/></l>
+                    <l> del saleil &amp; de la gelee<lb/></l>
+                    
+                <pb n="116r"/> 
+                    <l> Qnt zosimas vit lafigure<lb/></l>
+                    <l> vers liala gnt aleure<lb/></l>
+                    <l> ladame qnt leuit venir<lb/></l>
+                    <l> Jsnelemt pst afuir<lb/></l>
+                    <l> lisains hom levait enchaucat<lb/></l>
+                    <l> &amp; souent levait apelant<lb/></l>
+                    <l> dame dist il pole amoi<lb/></l>
+                    <l> Setu o deu as nule foi<lb/></l>
+                    <l> iote gjur de deu le gnt<lb/></l>
+                    <l> Qtu ne uoises mais auant<lb/></l>
+                    <l> Qnt ladame ot de deu pl<lb/></l>
+                    <l> dt gmenca fort aplorer<lb/></l>
+                    <l> hex dex dist ele creator<lb/></l>
+                    <l> Entoi croi io &amp; toi aor<lb/></l>
+                    <l> Xlvi. ans puis gter<lb/></l>
+                    <l> Q noi mais de ti parler<lb/></l>
+                    <l> ormas .i. saint home tmis<lb/></l>
+                    <l> jone lios torn mon vis<lb/></l>
+                    <l> mostrer ne lios ma figure<lb/></l>
+                    <l> tote fuj nue creature<lb/></l>
+                    <l> orsest arestee ladome<lb/></l>
+                    <l> Son vis nosa torn vs lome<lb/></l>
+                    <l> dans zosimas mlt leporsieut<lb/></l>
+                    <l> apres ala tresca.i. duit<lb/></l>
+                    <l> lavint marie tres corant<lb/></l>
+                    <l> mais ne douta pas leue gnt<lb/></l>
+                    <l> tote seure outre passa<lb/></l>
+                    <l> delautre pt puis saresta<lb/></l>
+                    <l> dans zosimas vint lacorant<lb/></l>
+                    <l> dusca larive del torant<lb/></l>
+                    <l> lasarestut nepot avant<lb/></l>
+                    <l> dont se clama caitif dolant<lb/></l>
+                    <l> de lautpt marie estoit<lb/></l>
+                    <l> vers zosimas seregardoit<lb/></l>
+                    <l> or ne se uolra mais celer<lb/></l>
+                    <l> Aluj gmenca aparler<lb/></l>
+                    <l> Qles dist ele Zosimas<lb/></l>
+                    <l> met moi iluec .i. detes dras<lb/></l>
+                    <l> dt io mepuisse cour alqs<lb/></l>
+                    <l> demo noir cors qsiest lasqs<lb/></l>
+                    <l> puis men irai de la atoi<lb/></l>
+                    <l> Qnt tu nepues venir amoi<lb/></l>
+                    <l> Qnt zosimas soi nomer<lb/></l>
+                    <l> de pec cmenca aplorer<lb/></l>
+                    <l> Car ele ne sot par son non<lb/></l>
+                    <l> Se p le .S. esperit non<lb/></l>
+                    <l> dun deses dras dont li ieta<lb/></l>
+                    <l> A ladame dc saproisma<lb/></l>
+                    <l> A drapel vint corant marie<lb/></l>
+                    <l> de son cors en couri ptie<lb/></l>
+                    <l> Qnt fu del drapel afublee<lb/></l>
+                    <l> vers le s. home seit tornee<lb/></l>
+                    <l> &amp; vait aluj p de sor londe<lb/></l>
+                    <l> Car depechies estoit ia mode<lb/></l>
+                    <l> Sire dist ele dous amis<lb/></l>
+                    <l> Orme di q tu as ci quis<lb/></l>
+                    <l> Jci vees vne dolente<lb/></l>
+                    <l> En icel bos pleure &amp; gaimte<lb/></l>
+                    <l> por les pechies q io aifais<lb/></l>
+                    <l> Q tant p st orible &amp; lais<lb/></l>
+                    <l> Nest hom sel seit nenait pesace<lb/></l>
+                    <l> Or en fai ci mapenitance<lb/></l>
+                    <l> Qnt lisains hom lot si pl<lb/></l>
+                    <l> depitie gmence aplorer<lb/></l>
+                    <l> as pies lifait afliction<lb/></l>
+                    <l> Reqert li sa beneicon<lb/></l>
+                    <l> ladame li rechiet aspies<lb/></l>
+                    <l> Car mlt secrient deses pecies<lb/></l>
+                    <l> merci licria mlt souent<lb/></l>
+                    <l> &amp; ele li mlt duremt<lb/></l>
+                    <l> Zosimas se gist en la place<lb/></l>
+                    <l> laighe lide cort plaface<lb/></l>
+                    <l> mlt tenremt des io els ploroit<lb/></l>
+                    <l> p le pitie qil auoit<lb/></l>
+                    <l> tant sanguissa qtot tressue<lb/></l>
+                    <l> p la barbe ql ot chenue<lb/></l>
+                    <l> li decort aval lasuor<lb/></l>
+                    <l> ladame prie p amor<lb/></l>
+                    <l> Face p le pople orison<lb/></l>
+                    <l> &amp; li doinst sabeneicon<lb/></l>
+                    <l> Sire fait ele dous amis<lb/></l>
+                    <l> tu mas beneico requis<lb/></l>
+                    <l> tues prestre messe cantat<lb/></l>
+                    <l> p co est il plus auenant<lb/></l>
+                    <l> Q tu le doignes ore moi<lb/></l>
+                    <l> Q se io le donaisse toi<lb/></l>
+                    <l> g gie as demesse cant<lb/></l>
+                    <l> tam ain pues met sor autel<lb/></l>
+                    <l> mlt ert cose sainte Fije<lb/></l>
+                    <l> Q de tam ain sera seinie<lb/></l>
+                    <l> jo croi bn qpton seignacle<lb/></l>
+                    <l> Fait dex desor lautel miracle<lb/></l>
+                    <l> Q li pains devient lisens cors<lb/></l>
+                    <l> &amp; li vins sains qn issi fors<lb/></l>
+                    <l> dex gnoist bn ton sacfice<lb/></l>
+                    <l> Car te vie matote apse<lb/></l>
+                    <l> Car tulas serui detefance<lb/></l>
+                    <l> Enluj pues auoir gnt fiace<lb/></l>
+                    <l> mlt en auras bo gredon<lb/></l>
+                    <l> Or mefai tabeneicon<lb/></l>
+                    <l> dame ce respont Zosimas<lb/></l>
+                    <l> jam a beneicon nauras<lb/></l>
+                    <l> Setu pmes ne lemefais<lb/></l>
+                    <l> Jade ci ne leuerai mais<lb/></l>
+                    <l> por fain ne p nule soffraite<lb/></l>
+                    <l> Se ancois ne le maies faite<lb/></l>
+                    <l> Or vait bn &amp; entent marie<lb/></l>
+                    <l> Q il ne sen leuera mie<lb/></l>
+                    <l> tost ans ert encele orison<lb/></l>
+                    <l> Q li donast beneicon<lb/></l>
+                    <l> torna son vis vs orient<lb/></l>
+                    <l> Reclama deu omnipotent<lb/></l>
+                    <l> dex dist ele roi creator<lb/></l>
+                    <l> Sire toi lo io &amp; aor<lb/></l>
+                    <l> Sire beneoist soiestu<lb/></l>
+                    <l> &amp; tote latoie vertu<lb/></l>
+                    <l> de nos pechies nos fai pdo<lb/></l>
+                    <l> puis amis sa beneicon<lb/></l>
+                    <l> des or se lieue Zosimas<lb/></l>
+                    <l> Gnt plains iete car mlt fu<lb/></l>
+                    <l> dont li gmence ademander<lb/></l>
+                    <l> Car volentiers louolt sauer<lb/></l>
+                    <l> des rois des gtes de latre<lb/></l>
+                    <l> Seil ont pais v il ont gre<lb/></l>
+                    <l> &amp; de ces q iustice tienent<lb/></l>
+                    <l> gfaitemt il se g tienent<lb/></l>
+                    <l> dansZosimas dt li respont<lb/></l>
+                    <l> dex amis pais p tot lemot<lb/></l>
+                    <l> N ne ua itant platre<lb/></l>
+                    <l> Q loie mais pler degre<lb/></l>
+                    <l> mais sainte eglise agnt beso<lb/></l>
+                    <l> Qp lifaites orison<lb/></l>
+                    <l> Q dex lidonast pais durable<lb/></l>
+                    <l> &amp; desfende delvis dyable<lb/></l>
+                    <l> marie ha respondu<lb/></l>
+                    <l> Jhu le gart psa uertu<lb/></l>
+                    <l> Ele esgarde vs orient<lb/></l>
+                    <l> drece ses mais alciel lescet<lb/></l>
+                    <l> deu en proia le creator<lb/></l>
+                    <l> mlt doucemt &amp; p amor<lb/></l>
+                    <l> Si q la bouche nemouoit<lb/></l>
+                    <l> Ne nule uois fors nen issoit<lb/></l>
+                    <l> detre fu semps rauie<lb/></l>
+                    <l> Qele ni aloenoit mie<lb/></l>
+                    <l> Zosimas ot paor mlt gnt<lb/></l>
+                    <l> mais damledeu trait agarat<lb/></l>
+                    <l> Car pl de .ij. pies &amp; demj<lb/></l>
+                    <l> A voit encre latre &amp; li<lb/></l>
+                    <l> ouele faisoit saproiere<lb/></l>
+                    <l> Nostre sires lauoit mlt chiere<lb/></l>
+                    <l> de la paor cot zosimas<lb/></l>
+                    <l> gmca sent aler lepas<lb/></l>
+                    <l> Qda fantosme auoir tue<lb/></l>
+                    <l> Ariere sen est retorue<lb/></l>
+                    <l> Qnt marie len voit al<lb/></l>
+                    <l> Sel gmenca aapel<lb/></l>
+                    <l> Keles dist ele zosimas<lb/></l>
+                    <l> bieaus chiers pre pcoi tevas<lb/></l>
+                    <l> pcoi doutas p vne feme<lb/></l>
+                    <l> Saches qio suj crestiene<lb/></l>
+                    <l> baptisie fuj en menfance<lb/></l>
+                    <l> Endeu ai tote ma creance<lb/></l>
+                    <l> Josuj ci por espeneir<lb/></l>
+                    <l> Sel seruira duscal morir<lb/></l>
+                    <l> Sadestre mai leua amot<lb/></l>
+                    <l> lasaite crois fist en son frot<lb/></l>
+                    <l> li bons hmites qnt la vit<lb/></l>
+                    <l> Aspies aladame chait<lb/></l>
+                    <l> el len aiue areleuer<lb/></l>
+                    <l> apres gmenca aparl<lb/></l>
+                    <l> dt est venue &amp; deql te b<lb/></l>
+                    <l> Zosimas lipst aenqrre a<lb/></l>
+                    <l> descueure moi latoievie<lb/></l>
+                    <l> p deu nel me celer tumie<lb/></l>
+                    <l> dilemoi p g fession<lb/></l>
+                    <l> Q dex teface voir pdon<lb/></l>
+                    <l> Sire ce li respont marie<lb/></l>
+                    <l> Jo ne le te celerai mie<lb/></l>
+                    <l> Qnt tu nue mas regardee<lb/></l>
+                    <l> Jama vie netiert celee<lb/></l>
+                    <l> tote le te des couerrai<lb/></l>
+                    <l> Ne ia de rien nen naturaj<lb/></l>
+                    <l> Dont gmce agt marie<lb/></l>
+                    <l> Rien ne coile q tot nedie<lb/></l>
+                    <l> tote sauie a agtee<lb/></l>
+                    <l> des icele eure q fu nee<lb/></l>
+                    <l> Ende ments qle ligte<lb/></l>
+                    <l> bn poes croi re qle ot hote<lb/></l>
+                    <l> Qnt el liot gte savie<lb/></l>
+                    <l> Aspies lichiet mci lierie<lb/></l>
+                    <l> Qnt liot gte ses pechies<lb/></l>
+                    <l> Apres liest cheue aspies<lb/></l>
+                    <l> Zosimas aoi savie<lb/></l>
+                    <l> le creator en gloreFie<lb/></l>
+                    <l> mci en rent nre seign<lb/></l>
+                    <l> pmlt bo cuer &amp; p amor<lb/></l>
+                    <l> dame p coi chies amos pies<lb/></l>
+                    <l> p deu reproi q tu ten lies<lb/></l>
+                    <l> Nest par en moi ladignete<lb/></l>
+                    <l> Nesuj de tel auctorite<lb/></l>
+                    
+                <pb n="116v"/> 
+                    <l> ace q io toi ci conter<lb/></l>
+                    <l> Qne nos seul vs si gard<lb/></l>
+                    <l> Car onqs ton pareil nevi<lb/></l>
+                    <l> p deu aies demoi merci<lb/></l>
+                    <l> p carite dites lemoi<lb/></l>
+                    <l> Se io portai remaindre otoi<lb/></l>
+                    <l> Nenil biaus pere Zosimas<lb/></l>
+                    <l> Respont marie ains ten iras<lb/></l>
+                    <l> Mais ne te chant gter ma vie<lb/></l>
+                    <l> tant q io soie de feme<lb/></l>
+                    <l> Se dex ma atoi demostree<lb/></l>
+                    <l> ptoi uolrai estre celee<lb/></l>
+                    <l> a labe iohan pleras<lb/></l>
+                    <l> Cest message liporteras<lb/></l>
+                    <l> de ses oeilles pnge cure<lb/></l>
+                    <l> tel ia q tp saseure<lb/></l>
+                    <l> prengent cure p am de<lb/></l>
+                    <l> Car il ia aamender<lb/></l>
+                    <l> mais altans q venra altans<lb/></l>
+                    <l> Serer enfers si gio pens<lb/></l>
+                    <l> Qnt tip &amp; ti gpaigno<lb/></l>
+                    <l> Sen iront fors de lor maiso<lb/></l>
+                    <l> le ior uenra del sait qresme<lb/></l>
+                    <l> Q casgs en ira son esme<lb/></l>
+                    <l> toi estoura el lit jesir<lb/></l>
+                    <l> Ne porras pas deus iroit<lb/></l>
+                    <l> Qnt venra leior delacaine<lb/></l>
+                    <l> &amp; passee ert laqrantaine<lb/></l>
+                    <l> Garis seras si g io croi<lb/></l>
+                    <l> dt te pri deuenir amoi<lb/></l>
+                    <l> le cors nre seign me met<lb/></l>
+                    <l> En -i- vaisceil q mlt soit net<lb/></l>
+                    <l> del sanc en -i- autre vaiscel<lb/></l>
+                    <l> mais ce garde q mlt soit bel<lb/></l>
+                    <l> pere qnt tu mapteras<lb/></l>
+                    <l> plus fort de toi metueras<lb/></l>
+                    <l> de toi meserai aproismie<lb/></l>
+                    <l> Qnt te vrai mlt serai lie<lb/></l>
+                    <l> Envoir te di sig io croi<lb/></l>
+                    <l> Enl autre an irai gtretoi<lb/></l>
+                    <l> Al flun iodan metroueras<lb/></l>
+                    <l> corp dominj me dontas<lb/></l>
+                    <l> Jluec serai a g munie<lb/></l>
+                    <l> p co me serai aproismie<lb/></l>
+                    <l> des q passai leflu iorda<lb/></l>
+                    <l> deses le most -S- iehan<lb/></l>
+                    <l> Ne noi le cors nre seign<lb/></l>
+                    <l> En q ai tote ma douaor<lb/></l>
+                    <l> Ne puis ne vi home fors toi<lb/></l>
+                    <l> aler men uoil proie p moi<lb/></l>
+                    <l> lors sen est ladame tnee<lb/></l>
+                    <l> El gnt de sert en est ente<lb/></l>
+                    <l> Qnt lisains hom levuit al<lb/></l>
+                    <l> desor ses pies nepot est<lb/></l>
+                    <l> od les ioels le sieut el desert<lb/></l>
+                    <l> mlt ot gnt duel qnt il lept<lb/></l>
+                    <l> Alatre est a ienoillies<lb/></l>
+                    <l> ou ele auoit tenu sespies<lb/></l>
+                    <l> baise latre mlt souet<lb/></l>
+                    <l> deu en aore omnjpotent<lb/></l>
+                    <l> dex dist il loes soiestu<lb/></l>
+                    <l> Q en feme asmis telvtu<lb/></l>
+                    <l> Sire tois en puis aorer<lb/></l>
+                    <l> Q le me deignas demostrer<lb/></l>
+                    <l> puis limenbra desomnost<lb/></l>
+                    <l> Sire gmce arepairier<lb/></l>
+                    <l> venus en est asamaison<lb/></l>
+                    <l> Ensemt st si gpaigno<lb/></l>
+                    <l> li abes iohans fu mlt lies<lb/></l>
+                    <l> Qnt il les uoit tos repairies<lb/></l>
+                    <l> mais chasg deus sest bn tev<lb/></l>
+                    <l> de qnt q il auoit veu<lb/></l>
+                    <l> Nus ni voloit pas nouelier<lb/></l>
+                    <l> Ne soi -i- poit glorifier<lb/></l>
+                    <l> Aps qnt ce vit alqreme<lb/></l>
+                    <l> Q casg doit al son esme<lb/></l>
+                    <l> Enson lit jut danszosima<lb/></l>
+                    <l> mal ades fu ni ala pas<lb/></l>
+                    <l> amaison le co uint est<lb/></l>
+                    <l> Car febles fu ni potal<lb/></l>
+                    <l> Sot qvoire ert lapphesie<lb/></l>
+                    <l> Q auoit oi de marie<lb/></l>
+                    <l> tote passa la qrent aine<lb/></l>
+                    <l> tres q vit alior de la caine<lb/></l>
+                    <l> Zosimas se senti gari<lb/></l>
+                    <l> dt aps corp domnj<lb/></l>
+                    <l> les anc pcious ensemt<lb/></l>
+                    <l> p faire le gmandemt<lb/></l>
+                    <l> dt ladame lauoit proie<lb/></l>
+                    <l> Qnt ele pst aluj ggie<lb/></l>
+                    <l> Zosimas aenps son oire<lb/></l>
+                    <l> o soi porta -i- poi de soire<lb/></l>
+                    <l> &amp; de lentilles ensemt<lb/></l>
+                    <l> Not soig dautre forniemt<lb/></l>
+                    <l> al flun iordan vint zosimas<lb/></l>
+                    <l> Qnt il vint la mlt pfumas<lb/></l>
+                    <l> Jl uec qda trouer marie<lb/></l>
+                    <l> mais en cor ne iauoit mie<lb/></l>
+                    <l> Co ert larie qpl doutoit<lb/></l>
+                    <l> Q pechies ne liait toloit<lb/></l>
+                    <l> onq le iait ia este<lb/></l>
+                    <l> &amp; q il ait tp de more<lb/></l>
+                    <l> delatendre fu anuies<lb/></l>
+                    <l> apoi q nen fu repairies<lb/></l>
+                    <l> dex dist il rois de maiste<lb/></l>
+                    <l> Neme laisse ci esgare<lb/></l>
+                    <l> lai moi veoir en cor lafeme<lb/></l>
+                    <l> Qna son per entot cest regne<lb/></l>
+                    <l> Janen vuntu sig io croi<lb/></l>
+                    <l> Se io en core ne lauoi<lb/></l>
+                    <l> mais senemet amoi pl<lb/></l>
+                    <l> gmt portai a li passer<lb/></l>
+                    <l> dt passerai leflun iordan<lb/></l>
+                    <l> car il ma nef ne calan<lb/></l>
+                    <l> perre de toute creature<lb/></l>
+                    <l> de ce puestu bn prend cure<lb/></l>
+                    <l> tant p est gnt ta poeste<lb/></l>
+                    <l> tote rien sert sauolente<lb/></l>
+                    <l> Qnt il ot sorison Fenie<lb/></l>
+                    <l> Outre le Flun envit marie<lb/></l>
+                    <l> Sor la riue leuit est<lb/></l>
+                    <l> gmca le a apeler'<lb/></l>
+                    <l> dame ce adit zosimas<lb/></l>
+                    <l> mere gmt or le feras<lb/></l>
+                    <l> dt passeras le Flun iorda<lb/></l>
+                    <l> Qnt tu nen as nef ne cala<lb/></l>
+                    <l> marie lot issi parler<lb/></l>
+                    <l> dt gmenca Fort aplorer<lb/></l>
+                    <l> adamedeu sest gmandee<lb/></l>
+                    <l> de dens le Flun en est ente<lb/></l>
+                    <l> Sor le Flun vait tot sas[tance] dou<lb/></l>
+                    <l> mes g Fu de gnt creance<lb/></l>
+                    <l> Sor laighe roide vait gnt pa<lb/></l>
+                    <l> mlt sen mueille zosimas<lb/></l>
+                    <l> autre passa delautrept<lb/></l>
+                    <l> onqs sa plainte ni moilla<lb/></l>
+                    <l> Qnt alariue Fu venue<lb/></l>
+                    <l> Vait al -S- home sel salue<lb/></l>
+                    <l> aps liest cheue aspies<lb/></l>
+                    <l> Car mlt secrient deses pecie<lb/></l>
+                    <l> As pies liFait aFliction<lb/></l>
+                    <l> Ne qert li sabeneicon<lb/></l>
+                    <l> lisains laive areleuer<lb/></l>
+                    <l> depitie gmce aplorer<lb/></l>
+                    <l> Nose Faire sor li seignacle<lb/></l>
+                    <l> Qnt dex p li Fait tel miracle<lb/></l>
+                    <l> Q leFait si aler sor londe<lb/></l>
+                    <l> de leue q siert pfonde<lb/></l>
+                    <l> Qnt de la tre ladreca<lb/></l>
+                    <l> pvraie amistie le baisa<lb/></l>
+                    <l> li sains hom le uolt amer<lb/></l>
+                    <l> gmenca le aacoler<lb/></l>
+                    <l> Credo ni denm li roua<lb/></l>
+                    <l> por deu li desist si lorra<lb/></l>
+                    <l> adont lidist mlt belemt<lb/></l>
+                    <l> &amp; lapatre nostre ensemt<lb/></l>
+                    <l> ladame respont aps luj<lb/></l>
+                    <l> mlt sentre gardent anbeduj<lb/></l>
+                    <l> Qnt oront Fait lor p lemt<lb/></l>
+                    <l> lisains li mostre tel preset<lb/></l>
+                    <l> gme le cors nre seignor<lb/></l>
+                    <l> p qseront sauf pecheor<lb/></l>
+                    <l> zosimas le tint ensamai<lb/></l>
+                    <l> dame dist il cesamble pai<lb/></l>
+                    <l> mais co est lecors ihu drist<lb/></l>
+                    <l> Q li maluas pueples acist<lb/></l>
+                    <l> Enlacrois fu mis &amp; ocis<lb/></l>
+                    <l> Jam nauera paradis<lb/></l>
+                    <l> Seil ne croit ce ensavie<lb/></l>
+                    <l> tot ce croi io ce dist marie<lb/></l>
+                    <l> Encore ai io en ma creance<lb/></l>
+                    <l> Q il Fu Ferus du ne lance<lb/></l>
+                    <l> &amp; ason pe nos Fist paie<lb/></l>
+                    <l> p lesanc qssi de saplaie<lb/></l>
+                    <l> pluj Furent cil si amj<lb/></l>
+                    <l> Q ains Furent si anemj<lb/></l>
+                    <l> plepechie delprem home<lb/></l>
+                    <l> Q sor de Fois manga la pome<lb/></l>
+                    <l> J cest saint sanc nos laissa il<lb/></l>
+                    <l> Cil est mlt Fols q le tient vil<lb/></l>
+                    <l> Se tu las aporte otoi<lb/></l>
+                    <l> p deu te pri do ne lemoi<lb/></l>
+                    <l> lisains lot issi des raisn<lb/></l>
+                    <l> mlt sen gmence amueill<lb/></l>
+                    <l> le sacreFice li mostra<lb/></l>
+                    <l> la sainte dame laora<lb/></l>
+                    <l> Jl li dona el le re cut<lb/></l>
+                    <l> le cors manga &amp; le sanc but<lb/></l>
+                    <l> Qnt ele Fu agmencie<lb/></l>
+                    <l> onql de rien neFu silie<lb/></l>
+                    <l> hei dex dist ele creator<lb/></l>
+                    <l> pere toi lo io &amp; aor<lb/></l>
+                    <l> biaus sire or oies morison<lb/></l>
+                    <l> &amp; si me rent mo gre don<lb/></l>
+                    <l> xlvi- ans tai seruj<lb/></l>
+                    <l> Sire oraies de moi mci<lb/></l>
+                    <l> Fai de ta Fille ton plaisir<lb/></l>
+                    <l> des or uolroie io morir<lb/></l>
+                    <l> Sire oruoldroie mes soldees<lb/></l>
+                    <l> Qto as pieta aprestees<lb/></l>
+                    
+                <pb n="117r"/> 
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> xxx- ans erent ?????? ????<lb/></l>
+                    <l> Qle nauoit mangle deble<lb/></l>
+                    <l> deleue but tot sans soi<lb/></l>
+                    <l> puis li adit prie por moi<lb/></l>
+                    <l> aicest mot sen est tornee<lb/></l>
+                    <l> En -i- enre Fu tres portee<lb/></l>
+                    <l> En icel lieu q mlt Fu chs<lb/></l>
+                    <l> v iosi mas levit prems<lb/></l>
+                    <l> Fu en -i- enre tres alee<lb/></l>
+                    <l> Se i auoit m ainte iornee<lb/></l>
+                    <l> Qnt ele acel lieu Fu uenue<lb/></l>
+                    <l> ou Zosimas latroua mie<lb/></l>
+                    <l> Q miex o lait &amp; plus formt<lb/></l>
+                    <l> Q ne Fait basmes nepielmt<lb/></l>
+                    <l> Sor laterre sest acotee<lb/></l>
+                    <l> adamledeu sest gmandee<lb/></l>
+                    <l> dex dist ele gme Fosis<lb/></l>
+                    <l> &amp; en mon coes arme mesis<lb/></l>
+                    <l> atoi lepuisse io liurer<lb/></l>
+                    <l> &amp; otroier &amp; gmand<lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> <lb/></l>
+                    <l> ?????????????????????????? ?p?gnie<lb/></l>
+                    <l> Not beste tant p Fust Fier<lb/></l>
+                    <l> Q onqs losait aproism<lb/></l>
+                    <l> Sor li nosa aiseaus vos<lb/></l>
+                    <l> tant pleuolt dex honorer<lb/></l>
+                    <l> Signt miracle dex iFist<lb/></l>
+                    <l> Q sa char onql ne malmist<lb/></l>
+                    <l> Ne por Froidor nep chalor<lb/></l>
+                    <l> Nen issi maluaise Flaure<lb/></l>
+                    <l> Tant Fu li cors des entres<lb/></l>
+                    <l> Q li ans Fu trestos passes<lb/></l>
+                    <l> zosimas nesoblia mie<lb/></l>
+                    <l> Repairre sent ensabeie<lb/></l>
+                    <l> mais dune rien Fu mlt iries<lb/></l>
+                    <l> li sains qnt il Fu repairies<lb/></l>
+                    <l> Q aladame auoit ple<lb/></l>
+                    <l> &amp; son non nauoit demande<lb/></l>
+                    <l> Ne liot pas son non en qs<lb/></l>
+                    <l> de ce setint aentrepris<lb/></l>
+                    <l> ancois eust ps le g giet<lb/></l>
+                    <l> Q peust issir de son siet<lb/></l>
+                    <l> Qnt fu tres passes icel an<lb/></l>
+                    <l> mlt tost passa le Flu iorda<lb/></l>
+                    <l> Eldesert vint por lamoils<lb/></l>
+                    <l> dt auoit signt de sirier<lb/></l>
+                    <l> tant laqst il par le desert<lb/></l>
+                    <l> Ql est venus v li cors ert<lb/></l>
+                    <l> ancois q il leust troue<lb/></l>
+                    <l> mlt le ueiscies esgare<lb/></l>
+                    <l> Jl fait gnt duel &amp;plore &amp;ce<lb/></l>
+                    <l> pres ert delcors neveoit mie<lb/></l>
+                    <l> pere dist il q me fesir<lb/></l>
+                    <l> mostre moi co qtant ai qs<lb/></l>
+                    <l> Saches de ci ne moueraj<lb/></l>
+                    <l> Navat na riere nen iraj<lb/></l>
+                    <l> des q io uoie cele Feme<lb/></l>
+                    <l> Q per il na entot cest regne<lb/></l>
+                    <l> Sire mostre moi lamoill<lb/></l>
+                    <l> vers q aitot mo desirier<lb/></l>
+                    <l> Ne viuerai si g le croi<lb/></l>
+                    <l> Se io en core nelavoi<lb/></l>
+                    <l> Lai moi veir lecors mamie<lb/></l>
+                    <l> car io qt qle soit fenie<lb/></l>
+                    <l> Sele ues qst si g io croi<lb/></l>
+                    <l> Ele fust ia venue amoi<lb/></l>
+                    <l> Jaesgare ne me laissast<lb/></l>
+                    <l> Se seul me soust en cest gast<lb/></l>
+                    <l> Sire setuas demoi cure<lb/></l>
+                    <l> lai moi faire sasepulture<lb/></l>
+                    <l> biaus pe deu de maiste<lb/></l>
+                    <l> Ne me laisse ci esgare<lb/></l>
+                    <l> Qnt il ot sorison Fenie<lb/></l>
+                    <l> dt limostra lecorsmarie<lb/></l>
+                    <l> vers destrept sest regarde<lb/></l>
+                    <l> En -i- lieu vit vne clarte<lb/></l>
+                    <l> Q da q Fu eust la <lb/></l>
+                    <l> ala clarte dt saproisma<lb/></l>
+                    <l> lecors troua mlt enFu lie<lb/></l>
+                    <l> car mlt plauoit desirie<lb/></l>
+                    <l> a la terre tot est endu<lb/></l>
+                    <l> poi sen Faloit qmert totnu<lb/></l>
+                    <l> Son vis auoit vers oriant<lb/></l>
+                    <l> &amp; ses ioels clos auenanmt<lb/></l>
+                    <l> Sacrine auoit sor son viaire<lb/></l>
+                    <l> Ele nauoit autre suaire<lb/></l>
+                    <l> al cors aproisma zosimas<lb/></l>
+                    <l> Sor li posa -i- de sesdras<lb/></l>
+                    <l> les pies gmenca abaisier<lb/></l>
+                    <l> a lautre cors nose atouch<lb/></l>
+                    <l> Jl regarda amot al chief<lb/></l>
+                    <l> le tres ivit g en -i- brief<lb/></l>
+                    <l> En ces letres qlisainsvit<lb/></l>
+                    <l> Ert cis gmandemt escrit<lb/></l>
+                    <l> Zosimas prent le cors marie<lb/></l>
+                    <l> seuelis le ou fuia vie<lb/></l>
+                    <l> Qnt tu lauras enseueli<lb/></l>
+                    <l> proie pluj p ta merci<lb/></l>
+                    <l> les letres furent de botor<lb/></l>
+                    <l> g se Fuissent Fantes cel ior<lb/></l>
+                    <l> Enlatre erent fi gurees<lb/></l>
+                    <l> lisains hom les areoitees<lb/></l>
+                    <l> mais qnt il ot le no troue<lb/></l>
+                    <l> mlt gnt mcis en rentade<lb/></l>
+                    <l> p le bel non en Fu mlt lie<lb/></l>
+                    <l> dt son seruice a gmcie<lb/></l>
+                    <l> Qnt il ot dit le suen mest<lb/></l>
+                    <l> puis dit ses salmes del saict<lb/></l>
+                    <l> dt leueiscies es gare<lb/></l>
+                    <l> car manoit rien aporre<lb/></l>
+                    <l> dt il peust latre ourir<lb/></l>
+                    <l> alsaintisme cors en foir<lb/></l>
+                    <l> vn fust troua p auente<lb/></l>
+                    <l> Fuir envolt la tre dure<lb/></l>
+                    <l> Jl uout latre manourer<lb/></l>
+                    <l> ainc ne lepot nes entam<lb/></l>
+                    <l> tot tres suoit de dens sahaire<lb/></l>
+                    <l> &amp; nule rien ni pooit faire<lb/></l>
+                    <l> Gnt mestier alisais daue<lb/></l>
+                    <l> tel ahan a qtot tressue<lb/></l>
+                    <l> &amp;p qnt p tot lahan<lb/></l>
+                    <l> Ne le cuuast il en tot lan<lb/></l>
+                    <l> Se dex ne lidonast aie<lb/></l>
+                    <l> p le desertede marie<lb/></l>
+                    <l> dex lidon a bo gpaigno<lb/></l>
+                    <l> Nient autre mais -i- lion<lb/></l>
+                    <l> Vn lion issi dea des sert<lb/></l>
+                    <l> la aproisma v licors ert<lb/></l>
+                    <l> les pies gmca alecier<lb/></l>
+                    <l> Ne sauoit autremt baisier<lb/></l>
+                    <l> Signe liFai soit dobeir<lb/></l>
+                    <l> &amp; q il leuoloit seruir<lb/></l>
+                    <l> Qnt lisains ho vit leho<lb/></l>
+                    <l> Nauoit apris tel gpaigno<lb/></l>
+                    <l> Neust soig de sa gpaignie<lb/></l>
+                    <l> Se dex lidonast autre aie<lb/></l>
+                    <l> premieremt sen vout fuir<lb/></l>
+                    <l> Qnt il leuit al cors venir<lb/></l>
+                    <l> mais puis qnt il leuoit pve<lb/></l>
+                    <l> &amp; de si gnt humilite<lb/></l>
+                    <l> tantert souef g -i- aignel<lb/></l>
+                    <l> Sachies q celifu mlt bel<lb/></l>
+                    
+                <pb n="117v"/> 
+                    <l> Sot que dex liauoit tmis<lb/></l>
+                    <l> Jl liadit biaus dous amis<lb/></l>
+                    <l> Ceste feme aanon marie<lb/></l>
+                    <l> Q mlt p fu de bone vie<lb/></l>
+                    <l> ma ci de mostre en -i- bef<lb/></l>
+                    <l> Q iai ci troue ason chief<lb/></l>
+                    <l> Q p moi veut estre enfoie<lb/></l>
+                    <l> mais io ai gnt mest daie<lb/></l>
+                    <l> Se me voloie aider'<lb/></l>
+                    <l> Cert saintisme cors entrer<lb/></l>
+                    <l> li hons est apareillier<lb/></l>
+                    <l> del gmandemt fu mlt lies<lb/></l>
+                    <l> a ce q il seut obeir<lb/></l>
+                    <l> gmenca latre afuir<lb/></l>
+                    <l> lilions fuet latre dure<lb/></l>
+                    <l> li sains limostre lamesure<lb/></l>
+                    <l> aspies<lb/></l>
+                    <l> deuant il le fooit<lb/></l>
+                    <l> a cels deriere le ietoit<lb/></l>
+                    <l> Gns ert la vtus lehon<lb/></l>
+                    <l> Qnt si estruoit lesablon<lb/></l>
+                    <l> la fosse fu tost acurie<lb/></l>
+                    <l> Jsnelemt Fu netoie<lb/></l>
+                    <l> zosimas fu lies qnt levit<lb/></l>
+                    <l> devs le chief lecors saisit<lb/></l>
+                    <l> &amp; li lions la aspier pris<lb/></l>
+                    <l> Entreus deus<lb/></l>
+                    <l> lont el sarcu mis<lb/></l>
+                    <l> de dens laterre ont<lb/></l>
+                    <l> mis le cors aorqera<lb/></l>
+                    <l> zosimas dc sen issi fors<lb/></l>
+                    <l> Or Fait lagmandacion<lb/></l>
+                    <l> tot sans auie del hon<lb/></l>
+                    <l> Cil ni puet faire nule aive<lb/></l>
+                    <l> Car il ert vne beste mue<lb/></l>
+                    <l> mais qnt ceuint alacour'<lb/></l>
+                    <l> Nel couit pas amonest<lb/></l>
+                    <l> tote latre rasamble<lb/></l>
+                    <l> Sor le -S- cors lereieta<lb/></l>
+                    <l> Qnt il lot toreravnee<lb/></l>
+                    <l> &amp; sobedience finee<lb/></l>
+                    <l> a latre est aienoilliet<lb/></l>
+                    <l> Samblant Fait depnd ggiet<lb/></l>
+                    <l> ariere sen est retornes<lb/></l>
+                    <l> El gnt de sert en est ents<lb/></l>
+                    <l> Qnt zosimas lenvictorn<lb/></l>
+                    <l> deu en g menca aloer<lb/></l>
+                    <l> Sire deus loes foiestu<lb/></l>
+                    <l> mlt p est gnde tavertu<lb/></l>
+                    <l> bn mas de mostre p marie<lb/></l>
+                    <l> Q mlt pest Fols qtoblie<lb/></l>
+                    <l> Oruoi &amp; croi bn sansdoutace<lb/></l>
+                    <l> Q Fort cose a enpenitace<lb/></l>
+                    <l> Ne iamais tresqs almorir<lb/></l>
+                    <l> Neserai sans espeneir<lb/></l>
+                    <l> Jademon cors merci naraj<lb/></l>
+                    <l> Nemais ne le deporteraj<lb/></l>
+                    <l> gmenca sent arepairier'<lb/></l>
+                    <l> plorant senvait ason most<lb/></l>
+                    <l> Ensemt st sigpaignon<lb/></l>
+                    <l> tot sen repairent amaison<lb/></l>
+                    <l> Qnt il furent enlorostal<lb/></l>
+                    <l> &amp; en capit'le gmunal<lb/></l>
+                    <l> zosimas gmence aparl<lb/></l>
+                    <l> Orne seuolra mais cel<lb/></l>
+                    <l> del egiptiene marie<lb/></l>
+                    <l> lor agte tote la vie<lb/></l>
+                    <l> gmt letroua el desert<lb/></l>
+                    <l> El lieu de litable ouele ert<lb/></l>
+                    <l> &amp; gilvint alsecont an<lb/></l>
+                    <l> En gtre luj asFlun iorda<lb/></l>
+                    <l> &amp; gala apie sorlonde<lb/></l>
+                    <l> de leue qtant ert pFonde<lb/></l>
+                    <l> &amp; gil letroua Fenie<lb/></l>
+                    <l> altiere an &amp; des enfoie<lb/></l>
+                    <l> &amp; del non q troua escrit<lb/></l>
+                    <l> &amp; del obseq q il fist<lb/></l>
+                    <l> puis lor agte del lion<lb/></l>
+                    <l> gmt il lot agpaigno<lb/></l>
+                    <l> Qnt limoine ont oi sondit<lb/></l>
+                    <l> adeu en ont rendu mcit<lb/></l>
+                    <l> liabes pleure tenremt<lb/></l>
+                    <l> &amp; tot liautre ensemt<lb/></l>
+                    <l> Niot nul namendast savie<lb/></l>
+                    <l> ples miracles demarie<lb/></l>
+                    <l> Nos meisme nos amdon<lb/></l>
+                    <l> Q en auons greign besoig<lb/></l>
+                    <l> &amp; de proions ceste marie<lb/></l>
+                    <l> de q nos oons ceste vie<lb/></l>
+                    <l> Q ele proit nre seignor<lb/></l>
+                    <l> Vers q ele ot si gnt am<lb/></l>
+                    <l> Q il nos pdoinst nos pecies<lb/></l>
+                    <l> &amp; les nouels &amp; tos les uies<lb/></l>
+                    <l> Q luj puissons Faire pset<lb/></l>
+                    <l> denos armes al jugemt<lb/></l>
+                    <l> amen amen &amp; jhu crist<lb/></l>
+                    <l> gsaut q cest romans escst<lb/></l>
+                    <l> &amp; madame sainte marie<lb/></l>
+                    <l> Nos doist lapmenable vie<lb/></l>
+                    <l> amen amen casgs endie<lb/></l>
+                    <l> Cen otroit liFiss marie<lb/></l>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
