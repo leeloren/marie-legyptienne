@@ -14,7 +14,7 @@
         </fileDesc>
     </teiHeader>
     
-    
+    <!-- Nov 24: Started tagging this one, but I need to take another look at Dembowski's edition of T-F2, didn't have it on hand here in London -->
     
     <text>
         <body>
@@ -43,8 +43,8 @@
                     <l> _ veit envie latre ele<lb/></l>
 
                 <pb n="???v"/>
-                    <l> de la paor qot zosimas<lb/></l>
-                    <l> se comca aleir su pas<lb/></l>
+                <l> de la paor <choice><orig>qot</orig><reg>qu'ot</reg></choice> <name type="character">Zosimas</name><lb/></l>
+                <l> <choice><abbr><orig>se</orig></abbr><expan><reg>s'en</reg></expan></choice> <choice><abbr><orig>comca</orig></abbr><expan><reg>commenca</reg></expan></choice> aleir <choice><abbr><orig>su</orig></abbr><expan><reg>sur</reg></expan></choice> pas<lb/></l>
                     <l> cudaftome aie aveir troe<lb/></l>
                     <l> areres sesteit reuse<lb/></l>
                     <l> qantmarie lenvit torneir<lb/></l>
