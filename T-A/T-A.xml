@@ -558,12 +558,12 @@
                 <l> <choice><abbr><orig>P</orig></abbr><expan><reg>Par</reg></expan></choice> <choice><abbr><orig>qi</orig></abbr><expan><reg>quoi</reg></expan></choice> deables fu <!-- LL: There's an apostrophe-looking mark above the final "cu" but it's unclear if this is a mistake or an abbreviation --><choice><orig>vainc'u</orig><reg>vaincu</reg></choice> <lb/></l>
                 <l> Ochis vainqui le oceor <lb/></l>
                 <l> Del tout le traist a desonor <lb/></l>
-                <l> Dinfer froissa les serreures <lb/></l>
+                <l> <choice><orig>Dinfer</orig><reg>D'infer</reg></choice> froissa les serreures <lb/></l>
                 <l> &amp; rompi toutes les clostures <lb/></l>
-                <l> Hors en geta se compaignie <lb/></l>
-                <l> Q del deable es[]toit ravie <lb/></l>
-                <l> El ciel les cduist [] a sen pe <lb/></l>
-                <l> En se gloire la ou [] il ere <lb/></l>
+                <l> Hors en geta se <choice><abbr><orig>compaignie</orig></abbr><expan><reg>compaingnie</reg></expan></choice> <lb/></l>
+                <l> <choice><abbr><orig>Q</orig></abbr><expan><reg>Qui</reg></expan></choice> del deable es[<!-- HOLE -->]toit ravie <lb/></l>
+                <l> El ciel les <choice><abbr><orig>cduist</orig></abbr><expan><reg>conduist</reg></expan></choice> [<!-- HOLE -->] a sen <name type="god"><choice><abbr><orig>pe</orig></abbr><expan><reg>Pere</reg></expan></choice></name> <lb/></l>
+                <l> En se gloire la ou [<!-- HOLE -->] il ere <lb/></l>
                 <l> Puis vint au sepulcre a sen cors <lb/></l>
                 <l> Par gnt vtu len geta hors <lb/></l>
                 <l> A ses apostre sapparu <lb/></l>
