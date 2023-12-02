@@ -21,18 +21,18 @@
             <div>
                 
                 <pb n="???r"/>
-                    <l> Massete eglese a grat besu<lb/></l>
+                    <l> <choice><orig>Mas</orig><reg>Mais</reg></choice> <choice><abbr><orig>sete</orig></abbr><expan><reg>seinte</reg></expan></choice> eglese a <choice><abbr><orig>grat</orig></abbr><expan><reg>grant</reg></expan></choice> <choice><abbr><orig>besu</orig></abbr><expan><reg>besong</reg></expan></choice><lb/></l>
                     <l> que per le faces oresun<lb/></l>
-                    <l> edis li otreit pasdurable<lb/></l>
-                    <l> e la desfende deable<lb/></l>
-                    <l> Marie lia resppundu<lb/></l>
-                    <l> dex lagoert per savtu<lb/></l>
-                    <l> elagardevrsorient<lb/></l>
-                    <l> Ses mins drecet au cooleste<lb/></l>
-                    <l> epreede locriator<lb/></l>
-                    <l> Mot piemt per sa docor<lb/></l>
-                    <l> Si que labochu limovet<lb/></l>
-                    <l> Mas nulle voiz nese eset<lb/></l>
+                    <l> <choice><orig>e</orig><reg>et</reg></choice> <name type="god"><choice><orig>dis</orig><reg>Dix</reg></choice></name> li otreit pas durable<lb/></l>
+                    <l> <choice><orig>e</orig><reg>et</reg></choice> la desfende deable<lb/></l>
+                    <l> <name type="saint">Marie</name> <choice><orig>lia</orig><reg>li a</reg></choice> respundu<lb/></l>
+                    <l> <name type="god">Dex</name> la goert per <choice><abbr><orig>savtu</orig></abbr><expan><reg>sa vertu</reg></expan></choice><lb/></l>
+                    <l> el agarde <choice><abbr><orig>vrs</orig></abbr><expan><reg>vers</reg></expan></choice> orient<lb/></l>
+                    <l> Ses <choice><abbr><orig>mins</orig></abbr><expan><reg>mains</reg></expan></choice> drecet au <choice><orig>ceo</orig><reg>ciel</reg></choice> <choice><abbr><orig>leste</orig></abbr><expan><reg>les tent</reg></expan></choice><lb/></l>
+                    <l> <choice><orig>e</orig><reg>et</reg></choice> pree de <name type="god"><choice><orig>locriator</orig><reg>lo Criator</reg></choice></name><lb/></l>
+                    <l> <choice><orig>Mot</orig><reg>Molt</reg></choice> <choice><abbr><orig>piemt</orig></abbr><expan><reg>piement</reg></expan></choice> per sa docor<lb/></l>
+                    <l> Si que la boche <choice><orig>limovet</orig><reg>li movet</reg></choice><lb/></l>
+                    <l> Mas nulle voiz ne se eset<lb/></l>
                     <l> detre fusepre ravie<lb/></l>
                     <l> Si que elle ni tochot mie<lb/></l>
                     <l> sosmas ot paor mot grant<lb/></l>
