@@ -600,37 +600,39 @@
                     
                 <pb n="19v"/>
                     <l> de son pechie est alegee<lb/></l>
-                    <l> al ymage est repairee<lb/></l>
+                    <l> <choice><orig>al ymage</orig><reg>a l'ymage</reg></choice> est repairee<lb/></l>
                     <l> en lui est tote sa fiance<lb/></l>
                     <l> conseil quiert de sa penaance<lb/></l>
                     <l> cunfaitement ele la fera<lb/></l>
-                    <l> &amp; en quele terre ele sen ira<lb/></l>
-                    <l> Vint une uoiz q ele entent<lb/></l>
+                    <l> &amp; en quele terre ele <choice><orig>sen</orig><reg>s'en</reg></choice> ira<lb/></l>
+                    <l> Vint une voiz <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> ele entent<lb/></l>
                     <l> Qui lui a dit apertement<lb/></l>
-                    <l> Vateu al mostier saint iohan<lb/></l>
-                    <l> &amp; puis paseras le flun iordan<lb/></l>
+                    <l> <choice><orig>Vaten</orig><reg>Va t'en</reg></choice> al mostier saint <name type="saint">Johan</name><lb/></l>
+                    <l> &amp; puis paseras le flun Jordan<lb/></l>
                     <l> el mostier prendras medecine<lb/></l>
-                    <l> &amp; puis ten iras en la guastine<lb/></l>
+                    <l> &amp; puis <choice><orig>ten</orig><reg>t'en</reg></choice> iras en la guastine<lb/></l>
                     <l> Iloc ton cors peneras<lb/></l>
-                    <l> toz les iors mes q tu uiuras<lb/></l>
-                    <l> &amp; quant ele out oie la uoiz<lb/></l>
+                    <l> toz les jors mes <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> tu vivras<lb/></l>
+                    <l> &amp; quant ele out oie la voiz<lb/></l>
                     <l> Seigna sei de la sainte croiz<lb/></l>
-                    <l> es la uous entree el chemin<lb/></l>
-                    <l> deuant lui uint un pelerin<lb/></l>
+                    <l> es la vous entree el chemin<lb/></l>
+                    <l> devant lui vint un pelerin<lb/></l>
                     <l> ki deners lui dona<lb/></l>
                     <l> treis periz pains en achata<lb/></l>
                     <l> ceo fu tote sa soustenance<lb/></l>
                     <l> tant cum ele fu en penitence<lb/></l>
-                    <l> al flun iordan en uint marie<lb/></l>
+                    <l> al flun Jordan en vint <name type="saint">Marie</name><lb/></l>
                     <l> La nuit i prist herbergerie<lb/></l>
-                    <l> pres del moster saint iohan<lb/></l>
-                    <l> Suz la riue del flun iordan<lb/></l>
+                    <l> pres del moster saint <name type="saint">Johan</name><lb/></l>
+                    <l> Suz la rive del flun Jordan<lb/></l>
                     <l> Se herberia en lieu antif<lb/></l>
-                    <l> Vn de ses pains mania demi<lb/></l>
-                    <l> but del eue sainte fiee<lb/></l>
-                    <l> Qnt out beu mult par fu lee<lb/></l>
-                    <l> Sun chief laua de la pure unde<lb/></l>
-                    <l> de toz ses pechiez deuint munde.<lb/></l>
+                    <l> Un de ses pains manja demi<lb/></l>
+                    <l> but <choice><orig>del eue</orig><reg>de l'eue</reg></choice> saintefiee<lb/></l>
+                    <l> <choice><abbr><orig>Qnt</orig></abbr><expan><reg>Quant</reg></expan></choice> out beu mult par fu lee<lb/></l>
+                    <l> Sun chief lava de la pure unde<lb/></l>
+                    <l> de toz ses pechiez devint munde.<lb/></l>
+                
+                
                     <l> ele se senti alques lassee<lb/></l>
                     <l> car ele out faite gnt iornee<lb/></l>
                     <l> de terre durre fist sun lit<lb/></l>
