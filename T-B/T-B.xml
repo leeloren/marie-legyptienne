@@ -22,63 +22,63 @@
 
             <pb n="109r"/>
                 <l> Oiez sagnor une cancon.</l>
-                <l> v il nen at seuertet non<lb/></l>
-                <l> tote est faite deuerteit.</l>
-                <l> Niat un mot defalseteit<lb/></l>
-                <l> bien croi q uolentiers lorut.</l>
-                <l> cil q damledeu amerot<lb/></l>
-                <l> car aciaz q delui nont cure.</l>
-                <l> est saparole &amp;aspre &amp;dure<lb/></l>
-                <l> &amp; cil q lui uoront amer.</l>
-                <l> &amp; por samor molefaiter<lb/></l>
-                <l> de ma dame sainte marie.</l>
-                <l> legypsiene oront la uie<lb/></l>
-                <l> &amp; sachent nut li pecheor.</l>
-                <l> ki sut forfait alcreator<lb/></l>
-                <l> Q nuz pechiez n est tat granz.</l>
-                <l> tat oubles ne tat pesaz<lb/></l>
-                <l> dont ds ne face urai pdon.</l>
+                <l> v il <choice><orig>nen</orig><reg>n'en</reg></choice> at <choice><orig>severtet</orig><reg>se vertet</reg></choice> non<lb/></l>
+                <l> tote est faite <choice><orig>deverteit</orig><reg>de verteit</reg></choice>.</l>
+                <l> <choice><orig>Niat</orig><reg>N'i at</reg></choice> un mot <choice><orig>defalseteit</orig><reg>de falseteit</reg></choice><lb/></l>
+                <l> bien croi <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> volentiers <choice><abbr><orig>lorut</orig></abbr><expan><reg>l'orunt</reg></expan></choice>.</l>
+                <l> cil <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> <name type="god">Damledeu</name> <choice><abbr><orig>amerot</orig></abbr><expan><reg>ameront</reg></expan></choice><lb/></l>
+                <l> car <choice><orig>aciaz</orig><reg>a ciaz</reg></choice> <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> <choice><orig>delui</orig><reg>de lui</reg></choice> <choice><orig>nont</orig><reg>n'ont</reg></choice> cure.</l>
+                <l> est <choice><orig>saparole</orig><reg>sa parole</reg></choice> <choice><orig>&amp;aspre</orig><reg>&amp; aspre</reg></choice> <choice><orig>&amp;dure</orig><reg>&amp; dure</reg></choice><lb/></l>
+                <l> &amp; cil <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> lui voront amer.</l>
+                <l> &amp; por <choice><orig>samor</orig><reg>s'amor</reg></choice> <choice><orig>moiescuter</orig><reg>moi escuter</reg></choice><lb/></l>
+                <l> de ma dame sainte <name type="saint">Marie</name>.</l>
+                <l> <choice><orig>legypsiene</orig><reg>l'egypsiene</reg></choice> oront la vie<lb/></l>
+                <l> &amp; sachent tuit li pecheor.</l>
+                <l> ki <choice><abbr><orig>sut</orig></abbr><expan><reg>sunt</reg></expan></choice> forfait <name type="god"><choice><orig>alcreator</orig><reg>al Creator</reg></choice></name><lb/></l>
+                <l> <choice><abbr><orig>Q</orig></abbr><expan><reg>Que</reg></expan></choice> nuz pechiez <choice><abbr><orig>n</orig></abbr><expan><reg>n'en</reg></expan></choice> est <choice><abbr><orig>tat</orig></abbr><expan><reg>tant</reg></expan></choice> granz.</l>
+                <l> <choice><abbr><orig>tat</orig></abbr><expan><reg>tant</reg></expan></choice> oubles ne <choice><abbr><orig>tat</orig></abbr><expan><reg>tant</reg></expan></choice> <choice><abbr><orig>pesaz</orig></abbr><expan><reg>pesanz</reg></expan></choice><lb/></l>
+                <l> dont <name type="god"><choice><abbr><orig>ds</orig></abbr><expan><reg>Deus</reg></expan></choice></name> ne face vrai <choice><abbr><orig>pdon</orig></abbr><expan><reg>pardon</reg></expan></choice>.</l>
                 <l> parfoit &amp; par confession<lb/></l>
-                <l> &amp; cil q prendet penitance.</l>
-                <l> gardet soi demescreance<lb/></l>
-                <l> hom q gerpist la mci de.</l>
-                <l> cil pechiez niet la pdone<lb/></l>
-                <l> pechiez n est pas create.</l>
-                <l> ans naist elmont de fors nate<lb/></l>
-                <l> onqs ds ne creat pechiet.</l>
-                <l> &amp; nphuec siat son siet<lb/></l>
-                <l> entoz homes pnt son ostal.</l>
+                <l> &amp; cil <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> <choice><abbr><orig>prendet</orig></abbr><expan><reg>prendent</reg></expan></choice> penitance.</l>
+                <l> <choice><abbr><orig>gardet</orig></abbr><expan><reg>gardent</reg></expan></choice> soi de mescreance<lb/></l>
+                <l> hom <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> gerpist la <choice><abbr><orig>mci</orig></abbr><expan><reg>merci</reg></expan></choice> <name type="god">De</name>.</l>
+                <l> cil pechiez <choice><orig>niet</orig><reg>n'iet</reg></choice> ja <choice><abbr><orig>pdone</orig></abbr><expan><reg>pardone</reg></expan></choice><lb/></l>
+                <l> pechiez <choice><abbr><orig>n</orig></abbr><expan><reg>n'en</reg></expan></choice> est pas <choice><abbr><orig>create</orig></abbr><expan><reg>creature</reg></expan></choice>.</l>
+                <l> ans naist elmont de fors <choice><abbr><orig>nate</orig></abbr><expan><reg>nature</reg></expan></choice><lb/></l>
+                <l> <choice><abbr><orig>onqs</orig></abbr><expan><reg>onques</reg></expan></choice> <name type="god"><choice><abbr><orig>ds</orig></abbr><expan><reg>Des</reg></expan></choice></name> ne creat pechiet.</l>
+                <l> &amp; <choice><abbr><orig>nphuec</orig></abbr><expan><reg>neparhuec</reg></expan></choice> si at son siet<lb/></l>
+                <l> <choice><orig>entoz</orig><reg>en toz</reg></choice> homes <choice><abbr><orig>pnt</orig></abbr><expan><reg>prent</reg></expan></choice> son ostal.</l>
                 <l> force lor fait de faire mal<lb/></l>
-                <l> p maintes foiz certes pechieret.</l>
-                <l> li aple q deu serueret<lb/></l>
-                <l> puec ne menpuis muilhier.</l>
-                <l> del chaitif cat gel uoi pechier<lb/></l>
-                <l> mais decelui ai grat muelhe.</l>
-                <l> q toz ior dort q ne ses uelhe<lb/></l>
-                <l> &amp; enses ors pechiez sedort.</l>
-                <l> tros qil sent el cors lemort<lb/></l>
-                <l> cat il semuert &amp; il leset.</l>
-                <l> dont pmes dist geme repent<lb/></l>
-                <l> A tart dist puis le repetir.</l>
-                <l> tat il est uenuz al morir<lb/></l>
-                <l> soloc ledit saint augustin.</l>
-                <l> nest mie bone ceste fin<lb/></l>
-                <l> cat lipechieres set la mort.</l>
+                <l> <choice><abbr><orig>p</orig></abbr><expan><reg>par</reg></expan></choice> maintes foiz certes <choice><abbr><orig>pechieret</orig></abbr><expan><reg>pechierent</reg></expan></choice>.</l>
+                <l> li <choice><abbr><orig>aple</orig></abbr><expan><reg>apostle</reg></expan></choice> <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> <name type="god">Deu</name> <choice><abbr><orig>serveret</orig></abbr><expan><reg>serverent</reg></expan></choice><lb/></l>
+                <l> <choice><abbr><orig>puec</orig></abbr><expan><reg>poruec</reg></expan></choice> ne <choice><orig>menpuis</orig><reg>m'en puis</reg></choice> <choice><abbr><orig>mvilhier</orig></abbr><expan><reg>mervilhier</reg></expan></choice>.</l>
+                <l> del chaitif <choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> gel voi pechier<lb/></l>
+                <l> mais <choice><orig>decelui</orig><reg>de celui</reg></choice> ai <choice><abbr><orig>grat</orig></abbr><expan><reg>grant</reg></expan></choice> <choice><abbr><orig>mvelhe</orig></abbr><expan><reg>mervelhe</reg></expan></choice>.</l>
+                <l> <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> toz ior dort <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> ne <choice><orig>sesvelhe</orig><reg>s'esvelhe</reg></choice><lb/></l>
+                <l> &amp; <choice><orig>enses</orig><reg>en ses</reg></choice> ors pechiez <choice><orig>sedort</orig><reg>se dort</reg></choice>.</l>
+                <l> tros <choice><abbr><orig>q</orig></abbr><expan><reg>qu'</reg></expan></choice>il sent el cors le mort<lb/></l>
+                <l> <choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> il <choice><orig>semuert</orig><reg>se muert</reg></choice> &amp; il <choice><abbr><orig>leset</orig></abbr><expan><reg>le sent</reg></expan></choice>.</l>
+                <l> dont <choice><abbr><orig>pmes</orig></abbr><expan><reg>primes</reg></expan></choice> dist ge me repent<lb/></l>
+                <l> A tart dist puis le <choice><abbr><orig>repetir</orig></abbr><expan><reg>repentir</reg></expan></choice>.</l>
+                <l> <choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> il est venuz al morir<lb/></l>
+                <l> <choice><abbr><orig>soloc</orig></abbr><expan><reg>solonc</reg></expan></choice> <choice><orig>ledit</orig><reg>le dit</reg></choice> saint <name type="saint">Augustin</name>.</l>
+                <l> <choice><orig>nest</orig><reg>n'est</reg></choice> mie bone ceste fin<lb/></l>
+                <l> <choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> <choice><orig>lipechieres</orig><reg>li pechieres</reg></choice> <choice><abbr><orig>set</orig></abbr><expan><reg>sent</reg></expan></choice> la mort.</l>
                 <l> il ne puet faire droit ne tort<lb/></l>
-                <l> gerpit la male iniqte.</l>
-                <l> kat il nen at la postee<lb/></l>
-                <l> semais seust il desauie.</l>
-                <l> encor fesist il lafolie<lb/></l>
-                <l> cat larme sen uat miserine.</l>
-                <l> q lipuet faire medecine<lb/></l>
-                <l> Nemais uns ds q tot crea.</l>
-                <l> ka qle at fait tot trouera<lb/></l>
-                <l> Ceste dame dut uulh coter.</l>
-                <l> marien ie loi nomer<lb/></l>
-                <l> egypciene por ce dite.</l>
-                <l> qle fistnee enegypte<lb/></l>
+                <l> gerpit la male <choice><abbr><orig>iniqte</orig></abbr><expan><reg>iniquite</reg></expan></choice>.</l>
+                <l> <choice><abbr><orig>kat</orig></abbr><expan><reg>kant</reg></expan></choice> il <choice><orig>nen</orig><reg>n'en</reg></choice> at la postee<lb/></l>
+                <l> se mais seust il <choice><orig>desavie</orig><reg>de sa vie</reg></choice>.</l>
+                <l> encor fesist il <choice><orig>lafolie</orig><reg>la folie</reg></choice><lb/></l>
+                <l> <choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> <choice><orig>larme</orig><reg>l'arme</reg></choice> <choice><orig>sen</orig><reg>s'en</reg></choice> vat miserine.</l>
+                <l> <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> li puet faire medecine<lb/></l>
+                <l> <choice><orig>Nemais</orig><reg>Ne mais</reg></choice> uns <name type="god"><choice><abbr><orig>ds</orig></abbr><expan><reg>Deus</reg></expan></choice></name> <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> tot crea.</l>
+                <l> <choice><abbr><orig>ka qle</orig></abbr><expan><reg>kanqu'ele</reg></expan></choice> at fait tot trovera<lb/></l>
+                <l> Ceste dame <choice><abbr><orig>dut</orig></abbr><expan><reg>dunt</reg></expan></choice> vulh <choice><abbr><orig>coter</orig></abbr><expan><reg>conter</reg></expan></choice>.</l>
+                <l> <name type="saint"><choice><orig>marien</orig><reg>Marie</reg></choice></name> je <choice><orig>loi</orig><reg>l'oi</reg></choice> nomer<lb/></l>
+                <l> Egyptiene por ce dite.</l>
+                <l> <choice><abbr><orig>qle</orig></abbr><expan><reg>qu'ele</reg></expan></choice> fut nee <choice><orig>enegypte</orig><reg>en Egypte</reg></choice><lb/></l>
                 <l> Illuc fut nee &amp; baptizie.</l>
-                <l> mais malemet fut ensegnie<lb/></l>
+                <l> mais <choice><abbr><orig>malemet</orig></abbr><expan><reg>malement</reg></expan></choice> fut ensegnie<lb/></l>
                 
            <pb n="109v"/>
                 <l> legiere deuint ensenface.</l>
