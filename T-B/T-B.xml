@@ -14,7 +14,7 @@
         </fileDesc>
     </teiHeader>
     
-    
+    <!-- LL: This manuscript has each couplet written on the same line with a point in the middle of the line to separate the verses. There is initial letter and final letter separation (when the line isn't too long) -->
     
     <text>
         <body>
@@ -81,64 +81,64 @@
                 <l> mais <choice><abbr><orig>malemet</orig></abbr><expan><reg>malement</reg></expan></choice> fut ensegnie<lb/></l>
                 
            <pb n="109v"/>
-                <l> legiere deuint ensenface.</l>
-                <l> honte pdit &amp; mesurance<lb/></l>
-                <l> tat sefiat en sa iouente.</l>
-                <l> pce kastoit &amp; bele &amp; gete<lb/></l>
-                <l> Q tot faisoit aseplaisir.</l>
-                <l> neli mbroit pas demorir<lb/></l>
-                <l> dedous freres ne segardoit.</l>
-                <l> atoz homes sabandonoit<lb/></l>
-                <l> Ne cui q fust en ceste uie.</l>
-                <l> feme desigrant legerie<lb/></l>
-                <l> sespes &amp; samere uiuoiet.</l>
-                <l> Apou q de duel ne moroiet<lb/></l>
-                <l> Jlleuoloiet chastoier.</l>
+                <l> legiere devint <choice><abbr><orig>ensenface</orig></abbr><expan><reg>en s'enfance</reg></expan></choice>.</l>
+                <l> honte <choice><abbr><orig>pdit</orig></abbr><expan><reg>perdit</reg></expan></choice> &amp; mesurance<lb/></l>
+                <l> <choice><abbr><orig>tat</orig></abbr><expan><reg>tant</reg></expan></choice> se fiat en sa jovente.</l>
+                <l> <choice><abbr><orig>pce</orig></abbr><expan><reg>por ce</reg></expan></choice> <choice><orig>kastoit</orig><reg>k'astoit</reg></choice> &amp; bele &amp; <choice><abbr><orig>gete</orig></abbr><expan><reg>gente</reg></expan></choice><lb/></l>
+                <l> <choice><abbr><orig>Q</orig></abbr><expan><reg>Que</reg></expan></choice> tot faisoit <choice><orig>aseplaisir</orig><reg>a se plaisir</reg></choice>.</l>
+                <l> <choice><orig>neli</orig><reg>ne li</reg></choice> <choice><abbr><orig>mbroit</orig></abbr><expan><reg>membroit</reg></expan></choice> pas <choice><orig>demorir</orig><reg>de morir</reg></choice><lb/></l>
+                <l> <choice><orig>dedous</orig><reg>de dous</reg></choice> freres ne <choice><orig>segardoit</orig><reg>se gardoit</reg></choice>.</l>
+                <l> <choice><orig>atoz</orig><reg>a toz</reg></choice> homes <choice><orig>sabandonoit</orig><reg>s'abandonoit</reg></choice><lb/></l>
+                <l> Ne cui <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> fust en ceste vie.</l>
+                <l> <choice><abbr><orig>feme</orig></abbr><expan><reg>femme</reg></expan></choice> <choice><orig>desigrant</orig><reg>de si grant</reg></choice> legerie<lb/></l>
+                <l> <choice><abbr><orig>sespes</orig></abbr><expan><reg>ses peres</reg></expan></choice> &amp; <choice><orig>samere</orig><reg>sa mere</reg></choice> <choice><abbr><orig>vivoiet</orig></abbr><expan><reg>vivoient</reg></expan></choice>.</l>
+                <l> <choice><orig>Apou</orig><reg>A pou</reg></choice> <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> de duel ne <choice><abbr><orig>moroiet</orig></abbr><expan><reg>moroient</reg></expan></choice><lb/></l>
+                <l> Il <choice><abbr><orig>levoloiet</orig></abbr><expan><reg>le voloient</reg></expan></choice> chastoier.</l>
                 <l> ele nel prisoit un donier<lb/></l>
-                <l> Nepsoit chastit deparet.</l>
-                <l> plus q faisoit trespassemet<lb/></l>
+                <l> <choice><abbr><orig>Nepsoit</orig></abbr><expan><reg>Ne prisoit</reg></expan></choice> chastit <choice><abbr><orig>deparet</orig></abbr><expan><reg>de parent</reg></expan></choice>.</l>
+                <l> plus <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> faisoit <choice><abbr><orig>trespassemet</orig></abbr><expan><reg>trespassement</reg></expan></choice><lb/></l>
                 <l> Filhe ce disoit sa mere.</l>
-                <l> car croi leconsel dete pere<lb/></l>
-                <l> selongemet tiens cest mestier.</l>
-                <l> nen aros lerepchier<lb/></l>
-                <l> p deu tep filhe marie.</l>
+                <l> car croi <choice><orig>leconsel</orig><reg>le consel</reg></choice> <choice><abbr><orig>dete</orig></abbr><expan><reg>de ten</reg></expan></choice> pere<lb/></l>
+                <l> <choice><abbr><orig>selongemet</orig></abbr><expan><reg>se longement</reg></expan></choice> tiens cest mestier.</l>
+                <l> <choice><abbr><orig>nen</orig></abbr><expan><reg>nos en</reg></expan></choice> <choice><abbr><orig>aros</orig></abbr><expan><reg>arons</reg></expan></choice> <choice><abbr><orig>lerepchier</orig></abbr><expan><reg>le reprochier</reg></expan></choice><lb/></l>
+                <l> <choice><abbr><orig>p</orig></abbr><expan><reg>por</reg></expan></choice> <name type="god">Deu</name> <choice><abbr><orig>tep</orig></abbr><expan><reg>te prie</reg></expan></choice> filhe <name type="saint">Marie</name>.</l>
                 <l> gerpis mais ceste legerie<lb/></l>
-                <l> cat cest mestier aras gerpit.</l>
-                <l> Nos te donros riche marit<lb/></l>
-                <l> Jl nest drois q soies pdue.</l>
-                <l> p soffraite de nre auie<lb/></l>
-                <l> Filhe tues degrat page.</l>
-                <l> mut est gnt dolz &amp; gns damage<lb/></l>
-                <l> Q tu issi soies perie.</l>
-                <l> porte maluaise legerie<lb/></l>
-                <l> tespes est formet iriez.</l>
-                <l> Jamais nul ior neserat liez<lb/></l>
-                <l> &amp; maldist tote saueture.</l>
-                <l> Cat at fait tel engenteure<lb/></l>
-                <l> cat ot desepe parler.</l>
-                <l> Nelauot mais pl escuter<lb/></l>
-                <l> p aemplir ses uolentez.</l>
-                <l> senfuit enestragne regnez<lb/></l>
-                <l> Pus qle ot passez doze ans.</l>
-                <l> atoz uot faire lor talanz<lb/></l>
-                <l> tot separente degpit.</l>
-                <l> si konqs puis nuz nela uit<lb/></l>
-                <l> ele senfuit come lerres.</l>
-                <l> si q nel sot mere neperes<lb/></l>
-                <l> ense chemi entre marie.</l>
-                <l> ac nidemadat copagnie<lb/></l>
-                <l> en alixandre est uenue.</l>
-                <l> el chief dele pl maist rue<lb/></l>
-                <l> Lez un bordel pst son ostal.</l>
-                <l> Jlluc at fait secors uenal<lb/></l>
-                <l> ele ert tat bance come flors.</l>
-                <l> des ioueciaz at les amors<lb/></l>
-                <l> Tuit iuenoiet albordel.</l>
-                <l> psue amor li iouencel<lb/></l>
-                <l> ele les recoit uolentiers.</l>
-                <l> met solemet plor doniers<lb/></l>
-                <l> Mais pfaire lesien delit.</l>
-                <l> les auoit tote nuit ellit<lb/></l>
+                <l> <choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> cest mestier aras gerpit.</l>
+                <l> Nos te <choice><abbr><orig>donros</orig></abbr><expan><reg>donrons</reg></expan></choice> riche marit<lb/></l>
+                <l> Il <choice><orig>nest</orig><reg>n'est</reg></choice> drois <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> soies <choice><abbr><orig>pdue</orig></abbr><expan><reg>perdue</reg></expan></choice>.</l>
+                <l> <choice><abbr><orig>p</orig></abbr><expan><reg>por</reg></expan></choice> soffraite de <choice><abbr><orig>nre</orig></abbr><expan><reg>nostre</reg></expan></choice> auie<lb/></l>
+                <l> Filhe <choice><orig>tues</orig><reg>tu es</reg></choice> <choice><abbr><orig>degrat</orig></abbr><expan><reg>de grant</reg></expan></choice> <choice><abbr><orig>page</orig></abbr><expan><reg>parage</reg></expan></choice>.</l>
+                <l> mut est <choice><abbr><orig>gnt</orig></abbr><expan><reg>grant</reg></expan></choice> dolz &amp; <choice><abbr><orig>gnt</orig></abbr><expan><reg>grant</reg></expan></choice> damage<lb/></l>
+                <l> <choice><abbr><orig>Q</orig></abbr><expan><reg>Que</reg></expan></choice> tu issi soies perie.</l>
+                <l> por te malvaise legerie<lb/></l>
+                <l> <choice><abbr><orig>tespes</orig></abbr><expan><reg>tes peres</reg></expan></choice> est <choice><abbr><orig>formet</orig></abbr><expan><reg>forment</reg></expan></choice> iriez.</l>
+                <l> <choice><orig>Jamais</orig><reg>Ja mais</reg></choice> nul jor <choice><orig>neserat</orig><reg>ne serat</reg></choice> liez<lb/></l>
+                <l> &amp; maldist tote <choice><orig>saveture</orig><reg>s'aventure</reg></choice>.</l>
+                <l> <choice><abbr><orig>Cat</orig></abbr><expan><reg>Cant</reg></expan></choice> at fait tel engenreure<lb/></l>
+                <l> <choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> ot <choice><abbr><orig>desepe</orig></abbr><expan><reg>de se pere</reg></expan></choice> parler.</l>
+                <l> <choice><orig>Nelavot</orig><reg>Ne la vot</reg></choice> mais <choice><abbr><orig>pl</orig></abbr><expan><reg>plus</reg></expan></choice> escuter<lb/></l>
+                <l> <choice><abbr><orig>p</orig></abbr><expan><reg>por</reg></expan></choice> aemplir ses volentez.</l>
+                <l> <choice><orig>senfuit</orig><reg>s'en fuit</reg></choice> <choice><orig>enestragne</orig><reg>en estragne</reg></choice> regnez<lb/></l>
+                <l> Pus <choice><abbr><orig>qle</orig></abbr><expan><reg>qu'ele</reg></expan></choice> ot passez doze ans.</l>
+                <l> <choice><orig>atoz</orig><reg>a toz</reg></choice> uot faire lor talanz<lb/></l>
+                <l> tot <choice><abbr><orig>separente</orig></abbr><expan><reg>sen parente</reg></expan></choice> <choice><abbr><orig>degpit</orig></abbr><expan><reg>deguerpit</reg></expan></choice>.</l>
+                <l> si <choice><abbr><orig>konqs</orig></abbr><expan><reg>k'onques</reg></expan></choice> puis nuz nela vit<lb/></l>
+                <l> ele <choice><orig>senfuit</orig><reg>s'en fuit</reg></choice> come lerres.</l>
+                <l> si <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> nel sot mere <choice><orig>neperes</orig><reg>ne peres</reg></choice><lb/></l>
+                <l> <choice><orig>ense</orig><reg>en se</reg></choice> <choice><abbr><orig>chemi</orig></abbr><expan><reg>chemin</reg></expan></choice> entre <name type="saint">Marie</name>.</l>
+                <l> <choice><abbr><orig>ac</orig></abbr><expan><reg>anc</reg></expan></choice> <choice><abbr><orig>nidemadat</orig></abbr><expan><reg>n'i demandat</reg></expan></choice> <choice><abbr><orig>copagnie</orig></abbr><expan><reg>compagnie</reg></expan></choice><lb/></l>
+                <l> en Alixandre est venue.</l>
+                <l> el chief <choice><orig>dele</orig><reg>de le</reg></choice> <choice><abbr><orig>pl</orig></abbr><expan><reg>plus</reg></expan></choice> <choice><abbr><orig>maist</orig></abbr><expan><reg>maistre</reg></expan></choice> rue<lb/></l>
+                <l> Lez un bordel <choice><abbr><orig>pst</orig></abbr><expan><reg>prist</reg></expan></choice> son ostal.</l>
+                <l> Illuc at fait <choice><abbr><orig>secors</orig></abbr><expan><reg>sen cors</reg></expan></choice> venal<lb/></l>
+                <l> ele ert <choice><abbr><orig>tat</orig></abbr><expan><reg>tant</reg></expan></choice> <choice><abbr><orig>bance</orig></abbr><expan><reg>blance</reg></expan></choice> come flors.</l> <!-- LL: "blance" is a scribal correction with the "l" inserted superscript. -->
+                <l> des <choice><abbr><orig>joveciaz</orig></abbr><expan><reg>jovenciaz</reg></expan></choice> at les amors<lb/></l>
+                <l> Tuit <choice><abbr><orig>ivenoiet</orig></abbr><expan><reg>i venoient</reg></expan></choice> al bordel.</l>
+                <l> <choice><abbr><orig>psue</orig></abbr><expan><reg>por sue</reg></expan></choice> amor li jovencel<lb/></l>
+                <l> ele les recoit volentiers.</l>
+                <l> <choice><abbr><orig>niet</orig></abbr><expan><reg>nient</reg></expan></choice> <choice><abbr><orig>solemet</orig></abbr><expan><reg>solement</reg></expan></choice> <choice><abbr><orig>plor</orig></abbr><expan><reg>par lor</reg></expan></choice> doniers<lb/></l>
+                <l> Mais <choice><abbr><orig>pfaire</orig></abbr><expan><reg>por faire</reg></expan></choice> <choice><abbr><orig>lesien</orig></abbr><expan><reg>le sien</reg></expan></choice> delit.</l>
+                <l> les avoit tote nuit <choice><orig>ellit</orig><reg>el lit</reg></choice><lb/></l>
                 
            <pb n="110r"/>
                 <l> A son delit est entetiue.</l>
