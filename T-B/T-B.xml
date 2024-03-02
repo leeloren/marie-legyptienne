@@ -141,64 +141,64 @@
                 <l> les avoit tote nuit <choice><orig>ellit</orig><reg>el lit</reg></choice><lb/></l>
                 
            <pb n="110r"/>
-                <l> A son delit est entetiue.</l>
-                <l> leuier &amp; lenuit la caitiue<lb/></l>
-                <l> boire &amp; mangier &amp; laluxure.</l>
-                <l> ce ert tote lasue cure<lb/></l>
-                <l> &amp; cat ele devoit sopper.</l>
-                <l> o les garcos aloit iower<lb/></l>
-                <l> tat p amoit aiaz ruerdir.</l>
-                <l> necremoit gaire demoeur<lb/></l>
-                <l> li iouencel tuit li plusor.</l>
-                <l> eret si espris desamor<lb/></l>
-                <l> Q deuat selit alentree.</l>
-                <l> Jfaissoiet mut gnt melee<lb/></l>
-                <l> &amp; deuis ames &amp;despees.</l>
-                <l> sentredonoiet gnt colees<lb/></l>
-                <l> Li sans diaz q ert espaduz.</l>
-                <l> coroit aual p lepaluz<lb/></l>
-                <l> lacaitive q ce ueoit.</l>
-                <l> Nule pitiet ne lenpndroit<lb/></l>
-                <l> Seuns moroit deses amis.</l>
-                <l> ele en rauoit quarante uis<lb/></l>
-                <l> cat enueoit les dous ocis.</l>
-                <l> ia ne fesist pl tart unris<lb/></l>
-                <l> cil q erent pli nauret.</l>
-                <l> pli nefusent uisitet<lb/></l>
-                <l> miez amoit ele a tiaz iouer.</l>
-                <l> Q les malades uisitet<lb/></l>
-                <l> en alixandre astoit marie.</l>
-                <l> Jlloc demenoit ceste uie<lb/></l>
-                <l> Lacis en astoit enpirie.</l>
-                <l> mut enpastoit mahagnie<lb/></l>
-                <l> &amp; li pais tot enuiron.</l>
-                <l> toenort agrat pdicion<lb/></l>
-                <l> desabiate de sa figure.</l>
-                <l> si co ele est enlescriture<lb/></l>
-                <l> V uuel dure dese senblat.</l>
-                <l> ancois q ie trespas auant<lb/></l>
-                <l> Ans en cest mot neen cest rene.</l>
-                <l> Neuit nuz hopl bele feme<lb/></l>
-                <l> Onqs ducoise ne roine.</l>
-                <l> ne not el cief pl bele crine<lb/></l>
-                <l> Reondes auoit les orelhes.</l>
-                <l> Mais blaces eret amuelhes<lb/></l>
-                <l> Les sorciz noirs &amp; auenaz.</l>
+                <l> A son delit est <choice><abbr><orig>entetive</orig></abbr><expan><reg>ententive</reg></expan></choice>.</l>
+                <l> leuier &amp; <choice><orig>lenuit</orig><reg>le nuit</reg></choice> la caitive<lb/></l> <!-- LL: Not sure what to do with the first word of this line. Dembowski doesn't offer a variant for T-B. -->
+                <l> boire &amp; mangier &amp; <choice><orig>laluxure</orig><reg>la luxure</reg></choice>.</l> <!-- LL: Dembowski says this verse is missing in T-B, but it isn't. -->
+                <l> ce ert tote la sue cure<lb/></l>
+                <l> &amp; <choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> ele devoit sopper.</l>
+                <l> o les <choice><abbr><orig>garcos</orig></abbr><expan><reg>garcons</reg></expan></choice> aloit jower<lb/></l>
+                <l> <choice><abbr><orig>tat</orig></abbr><expan><reg>tant</reg></expan></choice> <choice><abbr><orig>p</orig></abbr><expan><reg>par</reg></expan></choice> amoit <choice><orig>aiaz</orig><reg>a iaz</reg></choice> ruerdir.</l>
+                <l> <choice><orig>necremoit</orig><reg>ne cremoit</reg></choice> gaire <choice><orig>demorir</orig><reg>de morir</reg></choice><lb/></l>
+                <l> li jovencel tuit li plusor.</l>
+                <l> <choice><abbr><orig>eret</orig></abbr><expan><reg>erent</reg></expan></choice> si espris <choice><orig>desamor</orig><reg>de s'amor</reg></choice><lb/></l>
+                <l> <choice><abbr><orig>Q</orig></abbr><expan><reg>Que</reg></expan></choice> <choice><abbr><orig>devat</orig></abbr><expan><reg>devant</reg></expan></choice> <choice><abbr><orig>selit</orig></abbr><expan><reg>sen lit</reg></expan></choice> <choice><orig>alentree</orig><reg>a l'entree</reg></choice>.</l>
+                <l> I <choice><abbr><orig>faissoiet</orig></abbr><expan><reg>faissoient</reg></expan></choice> mut <choice><abbr><orig>gnt</orig></abbr><expan><reg>grant</reg></expan></choice> melee<lb/></l>
+                <l> &amp; devis ames <choice><orig>&amp;despees</orig><reg>&amp; d'espees</reg></choice>.</l> <!-- LL: Dembowski offers "Et de visarnes..." here but I really don't see that in the manuscript, and I can't find "visarnes" anywhere as a variant of "gisarmes" anyway.-->
+                <l> <choice><abbr><orig>sentredonoiet</orig></abbr><expan><reg>s'entredonoient</reg></expan></choice> <choice><abbr><orig>gnt</orig></abbr><expan><reg>grant</reg></expan></choice> colees<lb/></l>
+                <l> Li sans diaz <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> ert <choice><abbr><orig>espaduz</orig></abbr><expan><reg>espanduz</reg></expan></choice>.</l>
+                <l> coroit aval <choice><abbr><orig>p</orig></abbr><expan><reg>par</reg></expan></choice> le paluz<lb/></l>
+                <l> <choice><orig>lacaitive</orig><reg>la caitive</reg></choice> <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> ce veoit.</l>
+                <l> Nule pitiet ne <choice><abbr><orig>lenpndroit</orig></abbr><expan><reg>l'en prendroit</reg></expan></choice><lb/></l>
+                <l> <choice><orig>Seuns</orig><reg>Se uns</reg></choice> moroit <choice><orig>deses</orig><reg>de ses</reg></choice> amis.</l>
+                <l> ele en ravoit quarante vis<lb/></l>
+                <l> <choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> <choice><orig>enveoit</orig><reg>en veoit</reg></choice> les dous ocis.</l>
+                <l> ja <choice><abbr><orig>ne</orig></abbr><expan><reg>n'en</reg></expan></choice> fesist <choice><abbr><orig>pl</orig></abbr><expan><reg>plus</reg></expan></choice> tart un ris<lb/></l>
+                <l> cil <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> erent <choice><abbr><orig>pli</orig></abbr><expan><reg>por li</reg></expan></choice> navret.</l>
+                <l> <choice><abbr><orig>pli</orig></abbr><expan><reg>par li</reg></expan></choice> <choice><orig>nefusent</orig><reg>ne fusent</reg></choice> visitet<lb/></l>
+                <l> miez amoit ele a tiaz jouer.</l>
+                <l> <choice><abbr><orig>Q</orig></abbr><expan><reg>Que</reg></expan></choice> les malades visiter<lb/></l>
+                <l> en Alixandre astoit <name type="saint">Marie</name>.</l>
+                <l> Illoc demenoit ceste vie<lb/></l>
+                <l> <choice><orig>Lacis</orig><reg>La cis</reg></choice> en astoit enpirie.</l>
+                <l> mut <choice><abbr><orig>enpastoit</orig></abbr><expan><reg>en par astoit</reg></expan></choice> mahagnie<lb/></l>
+                <l> &amp; li pais tot environ.</l>
+                <l> <choice><orig>toenort</orig><reg>to en ort</reg></choice> <choice><abbr><orig>agrat</orig></abbr><expan><reg>a grant</reg></expan></choice> <choice><abbr><orig>pdicion</orig></abbr><expan><reg>perdicion</reg></expan></choice><lb/></l> <!-- LL: Dembowski isn't sure about the start of this line either. He gives "To en ert (?)..." -->
+                <l> <choice><orig>desabiate</orig><reg>de sa biate</reg></choice> de sa figure.</l>
+                <l> si <choice><abbr><orig>co</orig></abbr><expan><reg>com</reg></expan></choice> ele est <choice><orig>enlescriture</orig><reg>en l'escriture</reg></choice><lb/></l>
+                <l> <choice><abbr><orig>V</orig></abbr><expan><reg>Vos</reg></expan></choice> vuel dure <choice><orig>dese</orig><reg>de se</reg></choice> <choice><abbr><orig>senblat</orig></abbr><expan><reg>senblant</reg></expan></choice>.</l>
+                <l> ancois <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> je trespas avant<lb/></l>
+                <l> Ans en cest <choice><abbr><orig>mot</orig></abbr><expan><reg>mont</reg></expan></choice> <choice><orig>neen</orig><reg>ne en</reg></choice> cest <choice><abbr><orig>rene</orig></abbr><expan><reg>regne</reg></expan></choice>.</l>
+                <l> <choice><orig>Nevit</orig><reg>Ne vit</reg></choice> nuz <choice><abbr><orig>hopl</orig></abbr><expan><reg>hom plus</reg></expan></choice> bele feme<lb/></l>
+                <l> <choice><abbr><orig>Onqs</orig></abbr><expan><reg>Onques</reg></expan></choice> ducoise ne roine.</l>
+                <l> ne <choice><orig>not</orig><reg>n'ot</reg></choice> el cief <choice><abbr><orig>pl</orig></abbr><expan><reg>plus</reg></expan></choice> bele crine<lb/></l>
+                <l> Reondes avoit les orelhes.</l>
+                <l> Mais <choice><abbr><orig>blaces</orig></abbr><expan><reg>blanches</reg></expan></choice> <choice><abbr><orig>eret</orig></abbr><expan><reg>erent</reg></expan></choice> <choice><abbr><orig>amvelhes</orig></abbr><expan><reg>a mervelhes</reg></expan></choice><lb/></l>
+                <l> Les sorciz noirs &amp; <choice><abbr><orig>avenaz</orig></abbr><expan><reg>avenanz</reg></expan></choice>.</l>
                 <l> &amp; les olz clers &amp; sorrianz<lb/></l>
-                <l> La face tere en celee.ee.</l>
-                <l> Co la rose ki or est nee<lb/></l>
-                <l> Les dens ot blans &amp; bie menuz.</l>
-                <l> pl bele boce ne uit nuz<lb/></l>
-                <l> mut auoit pure regardure.</l>
-                <l> &amp; cler le uis &amp; le faiture<lb/></l>
+                <l> La face <choice><abbr><orig>tere</orig></abbr><expan><reg>tenre</reg></expan></choice> en celee.ee.</l> <!-- LL: Dembowski puts an (?) here too, not sure what's going on here, but we agree about the transcription. -->
+                <l> <choice><abbr><orig>Co</orig></abbr><expan><reg>Com</reg></expan></choice> la rose ki or est nee<lb/></l>
+                <l> Les dens ot blans &amp; <choice><abbr><orig>bie</orig></abbr><expan><reg>bien</reg></expan></choice> menuz.</l>
+                <l> <choice><abbr><orig>pl</orig></abbr><expan><reg>plus</reg></expan></choice> bele boce ne vit nuz<lb/></l>
+                <l> mut avoit pure regardure.</l>
+                <l> &amp; cler le vis &amp; le faiture<lb/></l>
                 <l> Je cui el neis ne el menton.</l>
-                <l> nauoit un point demesfacon<lb/></l>
-                <l> Coz laboce sorlepoitne.</l>
-                <l> ert pl blace keflors despine<lb/></l>
-                <l> &amp; si auoit beles mameles.</l>
-                <l> mut bie seans petiz &amp; beles<lb/></l>
-                <l> blans bras auoit &amp; blaces mais.</l>
-                <l> &amp; les dois grailes los &amp; plais<lb/></l>
+                <l> <choice><orig>navoit</orig><reg>n'avoit</reg></choice> un point <choice><orig>demesfacon</orig><reg>de mesfacon</reg></choice><lb/></l>
+                <l> Soz <choice><orig>laboce</orig><reg>la boce</reg></choice> <choice><abbr><orig>sorlepoitne</orig></abbr><expan><reg>sor le poitrine</reg></expan></choice>.</l>
+                <l> ert <choice><abbr><orig>pl</orig></abbr><expan><reg>plus</reg></expan></choice> <choice><abbr><orig>blace</orig></abbr><expan><reg>blanche</reg></expan></choice> <choice><orig>keflors</orig><reg>ke flors</reg></choice> <choice><orig>despine</orig><reg>d'espine</reg></choice><lb/></l>
+                <l> &amp; si avoit beles mameles.</l>
+                <l> mut <choice><abbr><orig>bie</orig></abbr><expan><reg>bien</reg></expan></choice> seans petiz &amp; beles<lb/></l>
+                <l> blans bras avoit &amp; <choice><abbr><orig>blaces</orig></abbr><expan><reg>blanches</reg></expan></choice> <choice><abbr><orig>mais</orig></abbr><expan><reg>mains</reg></expan></choice>.</l>
+                <l> &amp; les dois grailes <choice><abbr><orig>los</orig></abbr><expan><reg>lons</reg></expan></choice> &amp; <choice><abbr><orig>plais</orig></abbr><expan><reg>plains</reg></expan></choice><lb/></l> <!-- LL: Not sure what to do with this "los". Dembowski doesn't note this variant. -->
                 
             <pb n="110v"/>
                 <l> Gent cors auoit &amp; bien moleit.</l>
