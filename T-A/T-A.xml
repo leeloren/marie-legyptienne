@@ -14,7 +14,7 @@
         </fileDesc>
     </teiHeader>
     
-    <!-- LL: Punctuation: I think I'll only add apostrophes for now, inserting them with xml tags. I I will add quotation formatting later via markdown.-->
+    <!-- LL: Punctuation: I think I'll only add apostrophes for now, inserting them with xml tags. I will add quotation formatting later via markdown.-->
     <!-- LL: Spacing: I will tag spacing choices between words if they're obviously different in the manuscript. I will include a gap of two lines to indicate the end of a column in the manuscript. -->
     <!-- LL: Capitalisation: I think I'll silently add capitalization without tagging it. -->
     <!-- LL: For u/v and i/j, I think I'll also silently correct those without tagging it. -->
