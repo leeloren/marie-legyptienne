@@ -21,7 +21,7 @@
             <div>
 
             <pb n="109r"/>
-                <l> Oiez sagnor une cancon.</l>
+                <l> <emph n="3" rend="floriate">O</emph>iez sagnor une cancon.</l>
                 <l> v il <choice><orig>nen</orig><reg>n'en</reg></choice> at <choice><orig>severtet</orig><reg>se vertet</reg></choice> non<lb/></l>
                 <l> tote est faite <choice><orig>deverteit</orig><reg>de verteit</reg></choice>.</l>
                 <l> <choice><orig>Niat</orig><reg>N'i at</reg></choice> un mot <choice><orig>defalseteit</orig><reg>de falseteit</reg></choice><lb/></l>
@@ -233,7 +233,7 @@
                 <l> <choice><abbr><orig>tat</orig></abbr><expan><reg>tant</reg></expan></choice> ert de bele afaitison<lb/></l>
                 <l> <choice><abbr><orig>Q</orig></abbr><expan><reg>Que</reg></expan></choice> li fiz <choice><orig>dun</orig><reg>d'un</reg></choice> <choice><abbr><orig>empeor</orig></abbr><expan><reg>empereor</reg></expan></choice>.</l>
                 <l> la poist <choice><abbr><orig>pndre</orig></abbr><expan><reg>prendre</reg></expan></choice> par honor<lb/></l>
-                <l> <choice><orig>Cefut</orig><reg>Ce fut</reg></choice> en mai el mois <choice><orig>deste</orig><reg>d'este</reg></choice>.</l>
+                <l> <emph n="2" rend="floriate">C</emph>e fut en mai el mois <choice><orig>deste</orig><reg>d'este</reg></choice>.</l>
                 <l> <choice><abbr><orig>qle</orig></abbr><expan><reg>qu'ele</reg></expan></choice> ert amurs <choice><orig>dele</orig><reg>de le</reg></choice> cite<lb/></l>
                 <l> &amp; regardoit aval le port.</l>
                 <l> u soloit faire <choice><abbr><orig>sedeport</orig></abbr><expan><reg>sen deport</reg></expan></choice><lb/></l>
@@ -321,64 +321,64 @@
                 <l> &amp; <choice><orig>entoz</orig><reg>en toz</reg></choice> <choice><abbr><orig>ses</orig></abbr><expan><reg>sens</reg></expan></choice> <choice><orig>alesengier</orig><reg>a lesengier</reg></choice><lb/></l>
                 
             <pb n="111v"/>
-                <l> Ans niot cel del peleris.</l>
-                <l> fust uiez u iouenel v mescis<lb/></l>
-                <l> Q souist pndre cel respi.</l>
-                <l> q nepecaist la nuit a li<lb/></l>
-                <l> cat ele uoit les haltes undes.</l>
-                <l> deriueir &amp; mut pfondes<lb/></l>
-                <l> &amp; eleuoit legrat oreit.</l>
-                <l> q amenoit la tepesteit<lb/></l>
+                <l> Ans <choice><orig>niot</orig><reg>n'i ot</reg></choice> cel des <choice><abbr><orig>peleris</orig></abbr><expan><reg>pelerins</reg></expan></choice>.</l>
+                <l> fust viez u jovenes u <choice><abbr><orig>mescis</orig></abbr><expan><reg>mescins</reg></expan></choice><lb/></l>
+                <l> <choice><abbr><orig>Q</orig></abbr><expan><reg>Qui</reg></expan></choice> souist <choice><abbr><orig>pndre</orig></abbr><expan><reg>prendre</reg></expan></choice> cel respi.</l>
+                <l> <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> <choice><orig>nepecaist</orig><reg>ne pecaist</reg></choice> la nuit a li<lb/></l>
+                <l> <choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> ele voit les haltes undes.</l>
+                <l> deriveir &amp; mut <choice><abbr><orig>pfondes</orig></abbr><expan><reg>parfondes</reg></expan></choice><lb/></l>
+                <l> &amp; <choice><orig>elevoit</orig><reg>ele voit</reg></choice> <choice><abbr><orig>legrat</orig></abbr><expan><reg>le grant</reg></expan></choice> oreit.</l>
+                <l> <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> amenoit la <choice><abbr><orig>tepesteit</orig></abbr><expan><reg>tempesteit</reg></expan></choice><lb/></l>
                 <l> Li siens estres il ert mut liez.</l>
                 <l> ne cremoit gaire ses peciez<lb/></l>
-                <l> Lespaguros toz cofortoit.</l>
-                <l> &amp; a ioie les comenoit<lb/></l>
-                <l> diables lauoit mut enspse.</l>
+                <l> <choice><orig>Lespaguros</orig><reg>Les paguros</reg></choice> toz <choice><abbr><orig>cofortoit</orig></abbr><expan><reg>confortoit</reg></expan></choice>.</l>
+                <l> &amp; a joie les <choice><abbr><orig>comenoit</orig></abbr><expan><reg>conmenoit</reg></expan></choice><lb/></l>
+                <l> diables <choice><orig>lavoit</orig><reg>l'avoit</reg></choice> mut <choice><abbr><orig>enspse</orig></abbr><expan><reg>ensprise</reg></expan></choice>.</l>
                 <l> tote nue ert en sa chemise<lb/></l>
                 <l> &amp; tote nue ert en un lit.</l>
-                <l> p faire le sien delit<lb/></l>
-                <l> Lanuit en aloit alor leiz.</l>
-                <l> ille recouiet abongreiz<lb/></l>
-                <l> muelhe ert dune sole feme.</l>
-                <l> q pot soffrir tate copagne<lb/></l>
+                <l> <choice><abbr><orig>p</orig></abbr><expan><reg>por</reg></expan></choice> faire le sien delit<lb/></l>
+                <l> <choice><orig>Lanuit</orig><reg>La nuit</reg></choice> en aloit alor leiz.</l>
+                <l> <choice><orig>ille</orig><reg>il le</reg></choice> <choice><abbr><orig>recoviet</orig></abbr><expan><reg>recovient</reg></expan></choice> <choice><orig>abongreiz</orig><reg>a bon greiz</reg></choice><lb/></l>
+                <l> <choice><abbr><orig>mvelhe</orig></abbr><expan><reg>mervelhe</reg></expan></choice> ert <choice><orig>dune</orig><reg>d'une</reg></choice> sole <choice><abbr><orig>feme</orig></abbr><expan><reg>femme</reg></expan></choice>.</l>
+                <l> <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> pot soffrir <choice><abbr><orig>tate</orig></abbr><expan><reg>tante</reg></expan></choice> <choice><abbr><orig>copagne</orig></abbr><expan><reg>compagne</reg></expan></choice><lb/></l>
                 <l> mais diables astoit en li.</l>
-                <l> q sauie menoit ensi<lb/></l>
-                <l> Q mut uoletiers la noiast.</l>
-                <l> se nre sire li laist<lb/></l>
-                <l> cat marie fut ariuee.</l>
+                <l> <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> <choice><orig>savie</orig><reg>sa vie</reg></choice> menoit ensi<lb/></l>
+                <l> <choice><abbr><orig>Q</orig></abbr><expan><reg>Qui</reg></expan></choice> mut <choice><abbr><orig>voletiers</orig></abbr><expan><reg>volentiers</reg></expan></choice> la noiast.</l>
+                <l> se <name type="god"><choice><abbr><orig>nre</orig></abbr><expan><reg>Nostre</reg></expan></choice> Sire</name> li laist<lb/></l>
+                <l> <choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> <name type="saint">Marie</name> fut arivee.</l>
                 <l> dolente fut &amp; esgaree<lb/></l>
-                <l> Sospire &amp; pense la caitiue.</l>
-                <l> Neseit q faire alariue<lb/></l>
-                <l> car ni conoist home nefame.</l>
-                <l> mut li seble estragne regne<lb/></l>
-                <l> A la parfin seporpensat.</l>
-                <l> enlacite manes irat<lb/></l>
-                <l> eniherlm est entree.</l>
-                <l> Oiez dela malauiree<lb/></l>
-                <l> ele maintiet lesien mestier.</l>
-                <l> nat corage delui laier<lb/></l>
-                <l> ain nesataria depechier.</l>
-                <l> ain comca aenpirier<lb/></l>
-                <l> Oiez si grat pdition.</l>
-                <l> ans q uenist lasention<lb/></l>
-                <l> dela sainte croiz aoree.</l>
-                <l> q deuoit estre honeree<lb/></l>
-                <l> ele decuioit la iouete.</l>
-                <l> p ce qle astoit bele &amp; gente<lb/></l>
-                <l> Nedemora gaire dedis.</l>
-                <l> q le ior de la feste uint<lb/></l>
-                <l> A lior delasention.</l>
-                <l> este uos la procession<lb/></l>
-                <l> Li pelerin doltrele mer.</l>
-                <l> q uont el teple por orer<lb/></l>
-                <l> Al teple uot p boncorage.</l>
-                <l> co pdome &amp; co sage<lb/></l>
-                <l> mais cat ce apcott marie.</l>
-                <l> mist soidedes la copagnie<lb/></l>
-                <l> Lipelerin qleueoiet.</l>
-                <l> secorage pas nesauoient<lb/></l>
-                <l> Sil seuisset lefole uie.</l>
-                <l> aiaz nauist ia copagnie<lb/></l>
+                <l> Sospire &amp; pense la caitive.</l>
+                <l> <choice><orig>Neseit</orig><reg>Ne seit</reg></choice> <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> faire <choice><orig>alarive</orig><reg>a la rive</reg></choice><lb/></l>
+                <l> car <choice><orig>ni</orig><reg>n'i</reg></choice> conoist home <choice><abbr><orig>nefame</orig></abbr><expan><reg>ne famme</reg></expan></choice>.</l>
+                <l> mut li <choice><abbr><orig>seble</orig></abbr><expan><reg>semble</reg></expan></choice> estragne regne<lb/></l>
+                <l> A la parfin <choice><orig>seporpensat</orig><reg>se porpensat</reg></choice>.</l>
+                <l> <choice><orig>enlacite</orig><reg>en la cite</reg></choice> manes irat<lb/></l>
+                <l> <choice><abbr><orig>enjherlm</orig></abbr><expan><reg>en Jherusalem</reg></expan></choice> est entree.</l>
+                <l> Oiez <choice><orig>dela</orig><reg>de la</reg></choice> malauiree<lb/></l>
+                <l> ele <choice><abbr><orig>maintiet</orig></abbr><expan><reg>maintient</reg></expan></choice> <choice><orig>lesien</orig><reg>le sien</reg></choice> mestier.</l>
+                <l> <choice><orig>nat</orig><reg>n'at</reg></choice> corage <choice><orig>delui</orig><reg>de lui</reg></choice> laier<lb/></l>
+                <l> ain <choice><orig>nesatarja</orig><reg>ne s'atarja</reg></choice> depechier.</l>
+                <l> ain <choice><abbr><orig>comca</orig></abbr><expan><reg>comenca</reg></expan></choice> <choice><orig>aenpirier</orig><reg>a enpirier</reg></choice><lb/></l>
+                <l> Oiez si <choice><abbr><orig>grat</orig></abbr><expan><reg>grant</reg></expan></choice> <choice><abbr><orig>pdition</orig></abbr><expan><reg>perdition</reg></expan></choice>.</l>
+                <l> ans <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> venist <choice><orig>lasention</orig><reg>l'asention</reg></choice><lb/></l>
+                <l> <choice><orig>dela</orig><reg>de la</reg></choice> sainte croiz aoree.</l>
+                <l> <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> devoit estre honeree<lb/></l>
+                <l> ele decivoit la <choice><abbr><orig>jovete</orig></abbr><expan><reg>jovente</reg></expan></choice>.</l>
+                <l> <choice><abbr><orig>p</orig></abbr><expan><reg>por</reg></expan></choice> ce <choice><abbr><orig>qle</orig></abbr><expan><reg>qu'ele</reg></expan></choice> astoit bele &amp; gente<lb/></l>
+                <l> <choice><orig>Nedemora</orig><reg>Ne demora</reg></choice> gaire <choice><orig>dedis</orig><reg>de dis</reg></choice>.</l>
+                <l> <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> le jor de la feste vint<lb/></l>
+                <l> Al jor <choice><orig>delasention</orig><reg>de l'asention</reg></choice>.</l>
+                <l> este vos la procession<lb/></l>
+                <l> Li pelerin <choice><orig>doltrele mer</orig><reg>d'oltre le mer</reg></choice>.</l>
+                <l> <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> vont el <choice><abbr><orig>teple</orig></abbr><expan><reg>temple</reg></expan></choice> por orer<lb/></l>
+                <l> Al <choice><abbr><orig>teple</orig></abbr><expan><reg>temple</reg></expan></choice> <choice><abbr><orig>vot</orig></abbr><expan><reg>vont</reg></expan></choice> <choice><abbr><orig>p</orig></abbr><expan><reg>par</reg></expan></choice> <choice><orig>boncorage</orig><reg>bon corage</reg></choice>.</l>
+                <l> <choice><abbr><orig>co</orig></abbr><expan><reg>com</reg></expan></choice> <choice><abbr><orig>pdome</orig></abbr><expan><reg>preudome</reg></expan></choice> &amp; <choice><abbr><orig>co</orig></abbr><expan><reg>come</reg></expan></choice> sage<lb/></l>
+                <l> mais <choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> ce <choice><abbr><orig>apcoit</orig></abbr><expan><reg>apercoit</reg></expan></choice> <name type="saint">Marie</name>.</l>
+                <l> mist <choice><abbr><orig>soidedes</orig></abbr><expan><reg>soi dedens</reg></expan></choice> la <choice><abbr><orig>copagnie</orig></abbr><expan><reg>compagnie</reg></expan></choice><lb/></l>
+                <l> <choice><orig>Lipelerin</orig><reg>Li pelerin</reg></choice> <choice><abbr><orig>qleveoiet</orig></abbr><expan><reg>qui le veoient</reg></expan></choice>.</l>
+                <l> <choice><abbr><orig>secorage</orig></abbr><expan><reg>sen corage</reg></expan></choice> pas <choice><orig>nesavoient</orig><reg>ne savoient</reg></choice><lb/></l>
+                <l> <choice><orig>Sil</orig><reg>S'il</reg></choice> <choice><abbr><orig>seuisset</orig></abbr><expan><reg>seuissent</reg></expan></choice> <choice><orig>lefole</orig><reg>le fole</reg></choice> vie.</l>
+                <l> <choice><orig>aiaz</orig><reg>a iaz</reg></choice> <choice><orig>naiust</orig><reg>n'aiust</reg></choice> ja <choice><abbr><orig>copagnie</orig></abbr><expan><reg>compagnie</reg></expan></choice><lb/></l>
                 
             <pb n="112r"/>
                 <l> Dedens entra la copagnie.</l>
