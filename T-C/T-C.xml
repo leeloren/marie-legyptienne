@@ -16,7 +16,7 @@
 
     <!-- LL: This MS has initial letter separation, and each initial letter is accentuated with some red shadow. Every second letter has an end line point (apparently indicating the end of each couplet). The line breaks respect the end of verses, and the text is written very neatly. -->
     <!-- LL: Rubrics: I should add the rubrics to each of these xml files -->
-    <!-- LL: Some name tags need to be made into apostrophe tags in all these T manuscripts. I want the unnamed parents to be tagged, and the ways Zozimas and Marie refer to each other to be tagged too. -->
+    <!-- LL: Tagging: Some name tags need to be made into apostrophe tags in all these T manuscripts. I want the unnamed parents to be tagged, and the ways Zozimas and Marie refer to each other to be tagged too. Another tag for words use to describe people would be good too (like "prodomme" and "peccheriz") -->
 
     <text>
         <body>
@@ -402,192 +402,196 @@
                     
                 <pb n="42r"/>
                     <l> De la saincte croiz auree<lb/></l>
-                    <l> ke deuoit estre honuree  .<lb/></l>
+                    <l> ke devoit estre honuree  .<lb/></l>
                     <l> Tant out empire si tost le lu<lb/></l>
-                    <l> meuz li feust estre gille de fu  .<lb/></l>
-                    <l> kar ele deceuoit la iuuente<lb/></l>
-                    <l> Od co kele ert si bele e gente .<lb/></l>
-                    <l> Li iuuenceaus de la cite<lb/></l>
-                    <l> erent espris de la beaute .<lb/></l>
-                    <l> Ne demura kun petitet<lb/></l>
-                    <l> ke la grant feste ne ueneit  .<lb/></l>
-                    <l> Li haut iurs del inuencion<lb/></l>
-                    <l> Lores uient la procession  .<lb/></l>
+                    <l> meuz li feust estre <choice><abbr><orig>gille</orig></abbr><expan><reg>greille</reg></expan></choice> de fu  .<lb/></l>
+                    <l> kar ele decevoit la juvente<lb/></l>
+                    <l> Od co <choice><orig>kele</orig><reg>k'ele</reg></choice> ert si bele e gente .<lb/></l>
+                    <l> Li juvenceaus de la cite<lb/></l>
+                    <l> erent espris de sa beaute .<lb/></l>
+                    <l> <emph n="1" rend="floriate">N</emph>e demura <choice><orig>kun</orig><reg>k'un</reg></choice> petitet<lb/></l>
+                    <l> ke la grant feste ne veneit  .<lb/></l> <!-- LL: There is a manicule (mostly trimmed off) in the outer margin pointing to this section -->
+                    <l> Li haut jurs <choice><orig>del invencion</orig><reg>de l'invencion</reg></choice><lb/></l>
+                    <l> Lores vient la procession  .<lb/></l>
                     <l> Des pelerins de utre mer<lb/></l>
-                    <l> ki uont au temple purvrer .<lb/></l>
-                    <l> Al temple uont par bon corage<lb/></l>
-                    <l> Come pdome e come sage .<lb/></l>
-                    <l> k tant les aparceut marie<lb/></l>
-                    <l> Tost se iont a la compaignie  .<lb/></l>
+                    <l> ki vont au temple purvrer .<lb/></l>
+                    <l> Al temple vont par bon corage<lb/></l>
+                    <l> Come <choice><abbr><orig>pdome</orig></abbr><expan><reg>prodome</reg></expan></choice> e come sage .<lb/></l>
+                    <l> k tant les aparceut <name type="saint">Marie</name><lb/></l>
+                    <l> Tost se jont a la compaignie  .<lb/></l>
                     <l> Tut dedenz la procession<lb/></l>
-                    <l> Nunpas par bone entencion  .<lb/></l>
-                    <l> Lui pelerin ki la uoient<lb/></l>
-                    <l> Sa uolente point ne sauoiet .<lb/></l>
-                    <l> k sil seussent la soue vie<lb/></l>
-                    <l> Ja od eus neust compaignie  .<lb/></l>
-                    <l> Sur les degrez sut ia mutez<lb/></l>
+                    <l> <choice><orig>Nunpas</orig><reg>Nun pas</reg></choice> par bone entencion  .<lb/></l>
+                    <l> Lui pelerin ki la voient<lb/></l>
+                    <l> Sa volente point ne <choice><abbr><orig>savoiet</orig></abbr><expan><reg>savoient</reg></expan></choice> .<lb/></l>
+                    <l> <choice><abbr><orig>k</orig></abbr><expan><reg>kar</reg></expan></choice> <choice><orig>sil</orig><reg>s'il</reg></choice> seussent la soue vie<lb/></l>
+                    <l> Ja od eus <choice><orig>neust</orig><reg>n'eust</reg></choice> compaignie  .<lb/></l>
+                    <l> Sur les degrez <choice><abbr><orig>sut</orig></abbr><expan><reg>sunt</reg></expan></choice> ja <choice><abbr><orig>mutez</orig></abbr><expan><reg>muntez</reg></expan></choice><lb/></l>
                     <l> Dedenz le temple sunt entrez .<lb/></l>
                     
                 <pb n="42v"/>
                     <l> Dedenz entrat la compaignie<lb/></l>
-                    <l> mes vnc ni pout entrer marie  .<lb/></l>
-                    <l> kant ele uoleit auant aler<lb/></l>
-                    <l> Ariere lestuuoit reuerser  .<lb/></l>
+                    <l> mes unc <choice><orig>ni</orig><reg>n'i</reg></choice> pout entrer <name type="saint">Marie</name>  .<lb/></l>
+                    <l> kant ele voleit avant aler<lb/></l>
+                    <l> Ariere <choice><orig>lestuvoit</orig><reg>l'estuvoit</reg></choice> reverser  .<lb/></l>
                     <l> Dedenz la presse se meteit<lb/></l>
-                    <l> mes nule rien ne lui ualeit .<lb/></l>
-                    <l> Ce lui ert uis son escient<lb/></l>
-                    <l> Que ele veust une gnt gent  .<lb/></l>
-                    <l> ki sembloient chiualers<lb/></l>
-                    <l> mut auoient les uis fiers .<lb/></l>
-                    <l> Chescun tedoit us lui sespee<lb/></l>
-                    <l> emanacout la del entree  .<lb/></l>
-                    <l> kant ele uoleit auant aler<lb/></l>
+                    <l> mes nule rien ne lui valeit .<lb/></l>
+                    <l> Ce lui ert vis son escient<lb/></l>
+                    <l> Que ele veust une <choice><abbr><orig>gnt</orig></abbr><expan><reg>grant</reg></expan></choice> gent  .<lb/></l>
+                    <l> ki sembloient chivalers<lb/></l>
+                    <l> mut avoient les vis fiers .<lb/></l>
+                    <l> Chescun <choice><abbr><orig>tedoit</orig></abbr><expan><reg>tendoit</reg></expan></choice> <choice><abbr><orig>vs</orig></abbr><expan><reg>vers</reg></expan></choice> lui <choice><orig>sespee</orig><reg>s'espee</reg></choice><lb/></l>
+                    <l> e manacout la <choice><orig>del entree</orig><reg>de l'entree</reg></choice>  .<lb/></l>
+                    <l> kant ele voleit avant aler<lb/></l>
                     <l> Les branz la firent returner .<lb/></l>
-                    <l> kant uoit que niet nest del ente<lb/></l>
-                    <l> en vn angle sest reuersee .<lb/></l>
+                    <l> kant voit que <choice><abbr><orig>niet</orig></abbr><expan><reg>nient</reg></expan></choice> <choice><orig>nest</orig><reg>n'est</reg></choice> <choice><abbr><orig>del ente</orig></abbr><expan><reg>de l'entree</reg></expan></choice><lb/></l>
+                    <l> en un angle <choice><orig>sest</orig><reg>s'est</reg></choice> reversee .<lb/></l>
                     <l> Lors se prent a purpenser<lb/></l>
-                    <l> ke deit kele ni peut entrer  .<lb/></l>
-                    <l> Au paraler uoit e entent<lb/></l>
+                    <l> ke deit <choice><orig>kele</orig><reg>k'ele</reg></choice> <choice><orig>ni</orig><reg>n'i</reg></choice> peut entrer  .<lb/></l>
+                    <l> Au paraler voit e entent<lb/></l>
                     <l> ke son pechie le lui defent .<lb/></l>
                     <l> De quor comence a suspirer<lb/></l>
                     <l> e des euls forment plorer  .<lb/></l>
                     <l> A dou mains deront sa crine<lb/></l>
-                    <l> Gran cops se fiert en la peitne  .<lb/></l>
-                    <l> Bien set deus uer lui marri<lb/></l>
+                    <l> Gran cops se fiert en la <choice><abbr><orig>peitne</orig></abbr><expan><reg>peitrine</reg></expan></choice>  .<lb/></l>
+                    <l> Bien set deus ver lui marri<lb/></l>
                     <l> Ne lui osa crier merci .<lb/></l>
                     
                 <pb n="43r"/>
-                    <l> Hay: dist ele peccheriz<lb/></l>
-                    <l> Tantmar estoie metriz .<lb/></l>
-                    <l> Tantmar fesei les orz pechez<lb/></l>
-                    <l> Par vnt deus est uer moi irez  .<lb/></l>
+                    <l> Hay: dist ele <name type="saint">peccheriz</name><lb/></l> <!-- LL: This is the sort of descriptor word that would be good to tag if not as name then as something more specific. -->
+                    <l> <choice><orig>Tantmar</orig><reg>Tant mar</reg></choice> estoie <choice><abbr><orig>metriz</orig></abbr><expan><reg>meretriz</reg></expan></choice> .<lb/></l>
+                    <l> <choice><orig>Tantmar</orig><reg>Tant mar</reg></choice> fesei les orz pechez<lb/></l>
+                    <l> Par unt <name type="god">Deus</name> est ver moi irez  .<lb/></l>
                     <l> mau conseil ai tut tens eu<lb/></l>
-                    <l> kant mo creatur ai perdu  .<lb/></l>
+                    <l> kant <choice><abbr><orig>mo</orig></abbr><expan><reg>mon</reg></expan></choice> <name type="god">Creatur</name> ai perdu  .<lb/></l>
                     <l> Tant sui plein de veil ordure<lb/></l>
-                    <l> De mauuestez e de luxuire  .<lb/></l>
+                    <l> De mauvestez e de luxuire  .<lb/></l>
                     <l> Que au temple ne pus entrer<lb/></l>
-                    <l> Ne dampnedeu pere apeler .<lb/></l>
-                    <l> ke ferai io lasse chaitiue<lb/></l>
-                    <l> Ce poise mi que io sui viue  .<lb/></l>
+                    <l> Ne <name type="god">Dampnedeu</name> pere apeler .<lb/></l>
+                    <l> ke ferai jo lasse chaitive<lb/></l>
+                    <l> Ce poise mi que jo sui vive  .<lb/></l>
                     <l> De quor li issent li suspir<lb/></l>
-                    <l> meins prise viure ke nuirir  .<lb/></l>
+                    <l> meins prise vivre ke murir  .<lb/></l>
                     <l> Regarda ver destre partie<lb/></l>
-                    <l> Vit lymage saincte marie .<lb/></l>
-                    <l> ken la meisiere ert figuree<lb/></l>
-                    <l> mut vmblement lad reclamee .<lb/></l>
-                    <l> Dame dist ele duce mere<lb/></l>
-                    <l> ken ton cors portal ton pere .<lb/></l>
-                    <l> Seint gabriel en fu message<lb/></l>
+                    <l> Vit <choice><orig>lymage</orig><reg>l'ymage</reg></choice> <name type="saint">saincte Marie</name> .<lb/></l>
+                    <l> <choice><orig>ken</orig><reg>k'en</reg></choice> la meisiere ert figuree<lb/></l>
+                    <l> mut umblement <choice><orig>lad</orig><reg>l'ad</reg></choice> reclamee .<lb/></l>
+                    <l> <name type="saint"><emph n="1" rend="floriate">Dame</emph></name> dist ele <name type="saint">duce Mere</name><lb/></l>
+                    <l> <choice><abbr><orig>k</orig></abbr><expan><reg>ki</reg></expan></choice> en ton cors portal ton <name type="god">Pere</name> .<lb/></l>
+                    <l> <name type="saint">Seint Gabriel</name> en fu message<lb/></l>
                     <l> e tu li respondis come sage .<lb/></l>
-                    <l> kant il te dist aue marie<lb/></l>
-                    <l> De la gce deu replenie .<lb/></l>
+                    <l> kant il te dist ave <name type="saint">Marie</name><lb/></l>
+                    <l> De la <choice><abbr><orig>gce</orig></abbr><expan><reg>grace</reg></expan></choice> <name type="god">Deu</name> replenie .<lb/></l>
                     <l> en toi prendrat humanite<lb/></l>
-                    <l> Le fiz au roi de mageste .<lb/></l>
-                    <l> kankil dise tu lottrias<lb/></l>
-                    <l> e sue ancele tapellas .<lb/></l>
-                    <l> pur ce es ore au ciel reine<lb/></l>
+                    <l> <name type="god">Le Fiz</name> au <name type="god">Roi de mageste</name> .<lb/></l>
+                
+                <pb n="43v"/>
+                    <l> <choice><orig>kankil</orig><reg>kank'il</reg></choice> dise tu <choice><orig>lottrias</orig><reg>l'ottrias</reg></choice><lb/></l>
+                    <l> e sue ancele <choice><orig>tapellas</orig><reg>t'apellas</reg></choice> .<lb/></l>
+                    <l> pur ce es ore au ciel <name type="saint">Reine</name><lb/></l>
                     <l> De toi sule quer medicine .<lb/></l>
-                    <l> A mes plaies quesut mortals<lb/></l>
+                    <l> A mes plaies que <choice><abbr><orig>sut</orig></abbr><expan><reg>sunt</reg></expan></choice> mortals<lb/></l>
                     <l> Ne quer autre medicinaus .<lb/></l>
-                    <l> Dame si od tun fiz mapaies<lb/></l>
-                    <l> Bieu erent sanees mes plaies .<lb/></l>
-                    <l> Ci guepi io la male vie<lb/></l>
-                    <l> James ni auerai gpaignie .<lb/></l>
-                    <l> en ton fiz met ma creance<lb/></l>
+                    <l> <name type="saint">Dame</name> si od tun <name type="god">Fiz</name> <choice><orig>mapaies</orig><reg>m'apaies</reg></choice><lb/></l>
+                    <l> Bien erent sanees mes plaies .<lb/></l>
+                    <l> Ci <choice><abbr><orig>guepi</orig></abbr><expan><reg>guerpi</reg></expan></choice> jo la male vie<lb/></l>
+                    <l> <choice><orig>James</orig><reg>Ja mes</reg></choice> <choice><orig>ni</orig><reg>n'i</reg></choice> averai <choice><abbr><orig>9paignie</orig></abbr><expan><reg>compaignie</reg></expan></choice> .<lb/></l>
+                    <l> en ton <name type="god">Fiz</name> met ma creance<lb/></l>
                     <l> Toi met en plege e en fiance .<lb/></l>
-                    <l> Que tut teus mes lui suirai<lb/></l>
-                    <l> Ne ia de lui ne partirai .<lb/></l>
-                    <l> Dutut guerpi io ceste vie<lb/></l>
-                    <l> e ma mauuoise lecherie .<lb/></l>
-                    <l> Ja niert iur neaie pesance <lb/></l>
+                    <l> Que tut tens mes lui <choice><abbr><orig>svirai</orig></abbr><expan><reg>servirai</reg></expan></choice><lb/></l>
+                    <l> Ne ja de lui ne partirai .<lb/></l>
+                    <l> Du tut guerpi jo ceste vie<lb/></l>
+                    <l> e ma mauvoise lecherie .<lb/></l>
+                    <l> Ja <choice><orig>niert</orig><reg>n'iert</reg></choice> jur <choice><abbr><orig>neaie</orig></abbr><expan><reg>n'en aie</reg></expan></choice> pesance <lb/></l>
                     <l> mut iert aspre ma penance .<lb/></l>
-                    <l> mere de pitie io crei bien<lb/></l>
+                    <l> <name><emph n="1" rend="floriate">M</emph>ere de pitie</name> jo crei bien<lb/></l>
                     <l> k unc ne feust si dure rien .<lb/></l>
                     <l> Ne si forte a pardoner<lb/></l>
-                    <l> Ke si tun fiz en ueus proer .<lb/></l>
-                    <l> semps ne nait pdon partoi<lb/></l>
-                    <l> Dame aiez vi merci de moi .<lb/></l>
-                    <l> vncore ai io ema creance<lb/></l>
-                    <l> ke tun fiz feut a ta nessance .<lb/></l>
+                    <l> Ke si tun <name type="god">Fiz</name> en veus proer .<lb/></l>
+                    <l> <choice><abbr><orig>semps</orig></abbr><expan><reg>sempres</reg></expan></choice> ne <choice><orig>nait</orig><reg>n'ait</reg></choice> <choice><abbr><orig>pdon</orig></abbr><expan><reg>pardon</reg></expan></choice> par toi<lb/></l>
+                    <l> <name type="saint">Dame</name> aiez ui merci de moi .<lb/></l>
+                    <l> uncore ai jo <choice><abbr><orig>ema</orig></abbr><expan><reg>en ma</reg></expan></choice> creance<lb/></l>
+                    <l> ke tun <name type="god">Fiz</name> feut a ta nessance .<lb/></l>
                     
                 <pb n="44r"/>
                     <l> Il mist en toi virgininte<lb/></l>
-                    <l> Apres imist sa deite .<lb/></l>
-                    <l> mut gnt mueille fu del pe<lb/></l>
-                    <l> ki de sa fille fist sa mere .<lb/></l>
+                    <l> Apres i mist sa deite .<lb/></l>
+                    <l> mut <choice><abbr><orig>gnt</orig></abbr><expan><reg>grant</reg></expan></choice> <choice><abbr><orig>mveille</orig></abbr><expan><reg>merveille</reg></expan></choice> fu del <name type="god"><choice><abbr><orig>pe</orig></abbr><expan><reg>Pere</reg></expan></choice></name><lb/></l>
+                    <l> ki de sa <name type="saint">Fille</name> fist sa <name type="sain">Mere</name> .<lb/></l>
                     <l> Il prist de toi humanite<lb/></l>
-                    <l> konc ne perdis virginite .<lb/></l>
-                    <l> Il est ton fiz si rest tun pe<lb/></l>
-                    <l> Tu es sa fille e res sa mere .<lb/></l>
-                    <l> mut fu co merueilluse chose<lb/></l>
-                    <l> kant del espine issit la rose .<lb/></l>
+                    <l> <choice><orig>konc</orig><reg>k'onc</reg></choice> ne perdis virginite .<lb/></l>
+                    <l> Il est ton <name type="god">Fiz</name> si rest tun <name type="god"><choice><abbr><orig>pe</orig></abbr><expan><reg>Pere</reg></expan></choice></name><lb/></l>
+                    <l> Tu es sa <name type="saint">Fille</name> e res sa <name type="saint">Mere</name> .<lb/></l>
+                    <l> mut fu co merveilluse chose<lb/></l>
+                    <l> kant <choice><orig>del espine</orig><reg>de l'espine</reg></choice> issit la rose .<lb/></l>
                     <l> e de la rose issit le fruit<lb/></l>
                     <l> Par ki diable fu destruit .<lb/></l>
-                    <l> vn nu auoms cest marie<lb/></l>
-                    <l> mes mut diuse est nre vie .<lb/></l>
-                    <l> Tu amas tuttens chastetez<lb/></l>
-                    <l> e io luxuire e maueistez .<lb/></l>
-                    <l> Diable auois a enemi<lb/></l>
-                    <l> e io lai tuttens serui .<lb/></l>
-                    <l> Dot de la toue humilitez<lb/></l>
-                    <l> Ne nasqui feme enul regnez .<lb/></l>
-                    <l> Jo sui poure e orguilluse<lb/></l>
+                    <l> un <choice><abbr><orig>nu</orig></abbr><expan><reg>nun</reg></expan></choice> avoms <choice><orig>cest</orig><reg>c'est</reg></choice> <name type="saint">Marie</name><lb/></l>
+                    <l> mes mut <choice><abbr><orig>divse</orig></abbr><expan><reg>diverse</reg></expan></choice> est <choice><abbr><orig>nre</orig></abbr><expan><reg>nostre</reg></expan></choice> vie .<lb/></l>
+                    <l> Tu amas tut tens chastetez<lb/></l>
+                    <l> e jo luxuire e maveistez .<lb/></l>
+                    <l> Diable avois a enemi<lb/></l>
+                    <l> e jo <choice><orig>lai</orig><reg>l'ai</reg></choice> tut tens servi .<lb/></l>
+                    <l> <choice><abbr><orig>Dot</orig></abbr><expan><reg>Dont</reg></expan></choice> de la toue humilitez<lb/></l>
+                    <l> Ne nasqui <choice><abbr><orig>feme</orig></abbr><expan><reg>femme</reg></expan></choice> <choice><abbr><orig>enul</orig></abbr><expan><reg>en nul</reg></expan></choice> regnez .<lb/></l>
+                    <l> Jo sui povre e orguilluse<lb/></l>
                     <l> e de mon cors Luxuriuse .<lb/></l>
-                    <l> Li nostre sire toi amad<lb/></l>
-                    <l> e moi chaitiue refusad .<lb/></l>
+                    <l> Li <name type="god">Nostre Sire</name> toi amad<lb/></l>
+                    <l> e moi chaitive refusad .<lb/></l>
                     <l> moi refusad e amad toi<lb/></l>
-                    <l> Dame eiez merci demoi .<lb/></l>
-                    <l> Dame tu portal le tresor<lb/></l>
-                    <l> ke meuz vaut karget ou or .<lb/></l>
-                    <l> De toi prist char le fiz al rei<lb/></l>
-                    <l> ki sant Johan mustt al dei .<lb/></l>
-                    <l> Veez dist il li aigneau de<lb/></l>
-                    <l> Par ki le mund sra salue .<lb/></l>
-                    <l> mes kant coit lui enemis<lb/></l>
+                    <l> <name type="saint">Dame</name> eiez merci de moi .<lb/></l>
+                
+                <pb n="44v"/>
+                    <l> <name type="saint">Dame</name> tu portas le tresor<lb/></l>
+                    <l> ke meuz vaut <choice><abbr><orig>karget</orig></abbr><expan><reg>ke argent</reg></expan></choice> ou or .<lb/></l>
+                    <l> De toi prist char <name type="god">le Fiz al Rei</name><lb/></l>
+                    <l> ki <name type="saint">sant Johan</name> <choice><abbr><orig>mustr</orig></abbr><expan><reg>mustras</reg></expan></choice> al dei .<lb/></l>
+                    <l> Veez dist il li <name type="god">aigneau De</name><lb/></l>
+                    <l> Par ki le mund <choice><abbr><orig>sra</orig></abbr><expan><reg>serra</reg></expan></choice> salve .<lb/></l>
+                    <l> mes kant coit lui <name type="devil">Enemis</name><lb/></l>
                     <l> ki nus getat de paradis .<lb/></l>
-                    <l> kil deuoit le mund sauuer<lb/></l>
-                    <l> Bien tost le quidout engina .<lb/></l>
-                    <l> Cume il fist le pmehome<lb/></l>
+                    <l> kil devoit le mund sauver<lb/></l>
+                    <l> Bien tost le quidout <choice><abbr><orig>enginn</orig></abbr><expan><reg>enginner</reg></expan></choice> .<lb/></l>
+                    <l> Cume il fist <name type="saint">le <choice><abbr><orig>pmehome</orig></abbr><expan><reg>premer homme</reg></expan></choice></name><lb/></l>
                     <l> kil deceut par la pome .<lb/></l>
                     <l> Par trois foiz le assaiad<lb/></l>
-                    <l> Li leres. riens ni espleitad .<lb/></l>
-                    <l> mes qnt le uit arme si fort<lb/></l>
+                    <l> Li leres. riens <choice><orig>ni</orig><reg>n'i</reg></choice> espleitad .<lb/></l>
+                    <l> mes <choice><abbr><orig>qnt</orig></abbr><expan><reg>quant</reg></expan></choice> le vit arme si fort<lb/></l>
                     <l> Par treison li basti la mort .<lb/></l>
                     <l> mut fu la mort boneuree<lb/></l>
-                    <l> Dout la uie feut recouree .<lb/></l>
-                    <l> Se li fiz deu ne fust occis<lb/></l>
-                    <l> Jahom nentst en paradis .<lb/></l>
-                    <l> Par la mort pst illa uertu<lb/></l>
-                    <l> Dont li diable estoit uencu .<lb/></l>
-                    <l> Lui occis uenquit lossceur<lb/></l>
-                    <l> Dutut le mist a deshonur .<lb/></l>
-                    <l> Denferu brisat la serure<lb/></l>
+                    <l> Dout la vie feut recovree .<lb/></l>
+                    <l> Se li <name type="god">Fiz Deu</name> ne fust occis<lb/></l>
+                    <l> Ja hom <choice><abbr><orig>nentst</orig></abbr><expan><reg>n'entrast</reg></expan></choice> en paradis .<lb/></l>
+                    <l> Par la mort <choice><abbr><orig>pst</orig></abbr><expan><reg>prist</reg></expan></choice> il la vertu<lb/></l>
+                    <l> Dont li diable estoit vencu .<lb/></l>
+                    <l> Lui occis venquit <choice><orig>lossceur</orig><reg>l'ossceur</reg></choice><lb/></l>
+                    <l> <choice><orig>Dutut</orig><reg>Du tut</reg></choice> le mist a deshonur .<lb/></l>
+                    <l> <choice><orig>Denfern</orig><reg>D'enfern</reg></choice> brisat la serure<lb/></l>
                     <l> e rumpit tute la closture .<lb/></l>
                     
                 <pb n="45r"/>
                     <l> fors engeta sa compaignie<lb/></l>
-                    <l> ki du diable estoit rauie .<lb/></l>
-                    <l> Jlles couduit a som pere<lb/></l>
+                    <l> ki du diable estoit ravie .<lb/></l>
+                    <l> Il les couduit a som <name type="god">Pere</name><lb/></l>
                     <l> A la gloire .ou il ere .<lb/></l>
-                    <l> Puis reuint par gnt utuz<lb/></l>
+                    <l> Puis revint par <choice><abbr><orig>gnt</orig></abbr><expan><reg>grant</reg></expan></choice> <choice><abbr><orig>vtuz</orig></abbr><expan><reg>vertuz</reg></expan></choice><lb/></l>
                     <l> A son cors dont esteit issuz .<lb/></l>
                     <l> A ses apostles apparut<lb/></l>
-                    <l> e qrante iurs od eus feut .<lb/></l>
-                    <l> mustra lur la nouele Ley<lb/></l>
-                    <l> e puis beisa chescun parsei .<lb/></l>
-                    <l> Comanda lur sa doce mere<lb/></l>
-                    <l> el ciel muta pus a son pere .<lb/></l>
+                    <l> e <choice><abbr><orig>qrante</orig></abbr><expan><reg>quarante</reg></expan></choice> jurs od eus feut .<lb/></l>
+                    <l> mustra lur la novele Ley<lb/></l>
+                    <l> e puis beisa chescun par sei .<lb/></l>
+                    <l> Comanda lur sa <name type="saint">doce Mere</name><lb/></l>
+                    <l> el ciel <choice><abbr><orig>muta</orig></abbr><expan><reg>munta</reg></expan></choice> pus a son <name type="god">Pere</name> .<lb/></l>
                     <l> Du ciel lur tramise ten confort<lb/></l>
-                    <l> Dut nuls ne dota pus la mort .<lb/></l>
+                    <l> <choice><abbr><orig>Dut</orig></abbr><expan><reg>Dunt</reg></expan></choice> nuls ne dota pus la mort .<lb/></l>
                     <l> Le seint espirit lur tramist<lb/></l>
                     <l> ki tuz languages lur aprist .<lb/></l>
-                    <l> Ore siet au destre sun pere<lb/></l>
-                    <l> e tu od lui sa duce mere .<lb/></l>
-                    <l> Quant il uendrad aliugemet<lb/></l>
-                    <l> Al sen secund auienement .<lb/></l>
+                    <l> Ore siet au destre sun <name type="god">Pere</name><lb/></l>
+                    <l> e tu od lui sa <name>duce Mere</name> .<lb/></l>
+                    <l> Quant il vendrad al <choice><abbr><orig>jugemet</orig></abbr><expan><reg>jugement</reg></expan></choice><lb/></l>
+                    <l> Al sen secund avienement .<lb/></l>
                     <l> Tu serras en sa compaignie<lb/></l>
                     <l> Cume la sue chiere amie .<lb/></l>
-                    <l> Tuz iugerad e morz e uifs<lb/></l>
+                    <l> Tuz jugerad e morz e vifs<lb/></l>
                     <l> Li bons irrunt en paradis<lb/></l>
                     <l> Li maus irrunt en fu durable<lb/></l>
                     <l> Illoc les penerunt diable .<lb/></l>
