@@ -15,6 +15,7 @@
     </teiHeader>
 
     <!-- LL: This MS has initial letter separation, and each initial letter is accentuated with some red shadow. Every second letter has an end line point (apparently indicating the end of each couplet). The line breaks respect the end of verses, and the text is written very neatly. -->
+    <!-- LL: Some of the letters mid-line in this manuscript are accentuated with red ink (in addition to the initial letters). I should tag this too somehow. -->
     <!-- LL: Rubrics: I should add the rubrics to each of these xml files -->
     <!-- LL: Tagging: Some name tags need to be made into apostrophe tags in all these T manuscripts. I want the unnamed parents to be tagged, and the ways Zozimas and Marie refer to each other to be tagged too. Another tag for words use to describe people would be good too (like "prodomme" and "peccheriz") -->
 
@@ -1325,228 +1326,228 @@
                     <l> Dont <choice><abbr><orig>serrut</orig></abbr><expan><reg>serrunt</reg></expan></choice> salve pecheur .<lb/></l>
                     
                 <pb n="58v"/>
-                    <l> zozimas le tient en sa main<lb/></l>
-                    <l> Dame dist il co semble pain .<lb/></l>
-                    <l> mes cest le cors ihesu crist<lb/></l>
-                    <l> ke li maueis poeple oscist .<lb/></l>
+                    <l> <name type="character">Zozimas</name> le tient en sa main<lb/></l>
+                    <l> <name type="saint">Dame</name> dist il co semble pain .<lb/></l>
+                    <l> mes cest le cors <name>Jhesu crist</name><lb/></l>
+                    <l> ke li maveis poeple oscist .<lb/></l>
                     <l> en la croiz feut mise octis<lb/></l>
-                    <l> Ja hom naua saint parais .<lb/></l>
+                    <l> Ja hom <choice><abbr><orig>nava</orig></abbr><expan><reg>n'avera</reg></expan></choice> saint parais .<lb/></l>
                     <l> Si co ne croit en sa vie<lb/></l>
-                    <l> Jo le croi bien respont marie .<lb/></l>
-                    <l> evncore aiien ma creance<lb/></l>
-                    <l> kil fu feru dune lance .<lb/></l>
+                    <l> Jo le croi bien respont <name type="saint">Marie</name> .<lb/></l>
+                    <l> e uncore <choice><orig>aiien</orig><reg>aii en</reg></choice> ma creance<lb/></l>
+                    <l> <choice><orig>kil</orig><reg>k'il</reg></choice> fu feru <choice><orig>dune</orig><reg>d'une</reg></choice> lance .<lb/></l>
                     <l> Od sun pere nus fist apaie<lb/></l>
-                    <l> Par le sanc kissi de la plaie .<lb/></l>
+                    <l> Par le sanc <choice><orig>kissi</orig><reg>k'issi</reg></choice> de la plaie .<lb/></l>
                     <l> Par co furent cil si ami<lb/></l>
                     <l> ki einz erent si enemi .<lb/></l>
-                    <l> Par le forfait del pmer home<lb/></l>
-                    <l> ki sor son nied maga la pome .<lb/></l>
-                    <l> Jcel seint sanc nus lessa il<lb/></l>
-                    <l> Mut est cil fons ki lad en nil .<lb/></l>
-                    <l> si tu las porte od toi<lb/></l>
-                    <l> Pur de te pri donez le moi .<lb/></l>
-                    <l> Li sanz hom lout si derainer<lb/></l>
-                    <l> Forment se prent a mueiller .<lb/></l>
+                    <l> Par le forfait del <choice><abbr><orig>pmer</orig></abbr><expan><reg>premer</reg></expan></choice> <choice><abbr><orig>home</orig></abbr><expan><reg>homme</reg></expan></choice><lb/></l>
+                    <l> ki sor son vied <choice><abbr><orig>maga</orig></abbr><expan><reg>manga</reg></expan></choice> la pome .<lb/></l>
+                    <l> Icel seint sanc nus lessa il<lb/></l>
+                    <l> Mut est cil fous ki <choice><orig>lad</orig><reg>l'ad</reg></choice> en vil .<lb/></l>
+                    <l> si tu <choice><orig>las</orig><reg>l'as</reg></choice> porte od toi<lb/></l>
+                    <l> Pur <name type="god">De</name> te pri donez le moi .<lb/></l>
+                    <l> Li sanz hom <choice><orig>lout</orig><reg>l'out</reg></choice> si derainer<lb/></l>
+                    <l> Forment se prent a <choice><abbr><orig>mveiller</orig></abbr><expan><reg>merveiller</reg></expan></choice> .<lb/></l>
                     <l> Le sacrifise lui mustrad<lb/></l>
-                    <l> La seinte dame la urad .<lb/></l>
-                    <l> Jl li donad. ele le receut<lb/></l>
-                    <l> Le cors mangad ele sanc beut .<lb/></l>
+                    <l> La seinte dame <choice><orig>la urad</orig><reg>l'aurad</reg></choice> .<lb/></l>
+                    <l> Il li donad. ele le receut<lb/></l>
+                    <l> Le cors mangad <choice><orig>ele</orig><reg>e le</reg></choice> sanc beut .<lb/></l>
                     
                 <pb n="59r"/>
                     <l> kant ele feut accuminee<lb/></l>
-                    <l> Vnke de rien nestoit si lee .<lb/></l>
-                    <l> Deus dist ele douz creatur<lb/></l>
-                    <l> Pere toi lou e si taur .<lb/></l>
-                    <l> Douz sire oez ma oreison<lb/></l>
+                    <l> Unke de rien <choice><orig>nestoit</orig><reg>n'estoit</reg></choice> si lee .<lb/></l>
+                    <l> <name type="god">Deus</name> dist ele <name type="god">Douz Creatur</name><lb/></l>
+                    <l> <name type="god">Pere</name> toi lou e si <choice><orig>taur</orig><reg>t'aur</reg></choice> .<lb/></l>
+                    <l> <name type="god">Douz Sire</name> oez ma oreison<lb/></l>
                     <l> e si me rend mon gueredon .<lb/></l>
-                    <l> Qrante sis anz tai serui<lb/></l>
-                    <l> Desore aiez de moi merci .<lb/></l>
-                    <l> Fai de ta fille ton pleisir<lb/></l>
-                    <l> Des ore norroie io murir .<lb/></l>
-                    <l> e si te plest ke uiue plus<lb/></l>
-                    <l> Beau chier pere pas nel refus .<lb/></l>
-                    <l> Ceste uie ne refus io pas<lb/></l>
-                    <l> Tant le uoil cu tu le uorras .<lb/></l>
-                    <l> Mes site feust sire a pleisir<lb/></l>
-                    <l> Des ore uorroie io murir .<lb/></l>
-                    <l> Des ore uorroie mes soudees<lb/></l>
-                    <l> ke tu mal sire aparillees .<lb/></l>
-                    <l> Pri ent ton fiz virgne marie<lb/></l>
-                    <l> kil me mete en sa compaignie .<lb/></l>
-                    <l> se vne forz feusse od tei<lb/></l>
-                    <l> Nen partire mes co crei .<lb/></l>
+                    <l> <choice><abbr><orig>Qrante</orig></abbr><expan><reg>Quarante</reg></expan></choice> sis anz <choice><orig>tai</orig><reg>t'ai</reg></choice> servi<lb/></l>
+                    <l> <name type="god">Des</name> ore aiez de moi merci .<lb/></l>
+                    <l> Fai de ta <name type="saint">fille</name> ton pleisir<lb/></l>
+                    <l> <name type="god">Des</name> ore vorroie jo murir .<lb/></l>
+                    <l> e si te plest ke vive plus<lb/></l>
+                    <l> <name type="god">Beau Chier Pere</name> pas nel refus .<lb/></l>
+                    <l> Ceste vie ne refus jo pas<lb/></l>
+                    <l> Tant le voil <choice><abbr><orig>cu</orig></abbr><expan><reg>cum</reg></expan></choice> tu le vorras .<lb/></l>
+                    <l> Mes <choice><orig>site</orig><reg>si te</reg></choice> feust <name type="god">Sire</name> a pleisir<lb/></l>
+                    <l> Des ore vorroie jo murir .<lb/></l>
+                    <l> Des ore vorroie mes soudees<lb/></l>
+                    <l> ke tu mal <name type="god">Sire</name> aparillees .<lb/></l>
+                    <l> Pri ent ton <name type="god">Fiz</name> <name type="saint">Virgne Marie</name><lb/></l>
+                    <l> <choice><orig>kil</orig><reg>k'il</reg></choice> me mete en sa compaignie .<lb/></l>
+                    <l> se une foiz feusse od tei<lb/></l>
+                    <l> <choice><orig>Nen</orig><reg>N'en</reg></choice> partire mes co crei .<lb/></l>
                     <l> La chanterai od tes anceles<lb/></l>
-                    <l> en tes chambres q tat sut beles .<lb/></l>
-                    <l> Le chant nouel od le donz son<lb/></l>
-                    <l> kele rei chantad salomun .<lb/></l>
+                    <l> en tes chambres <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> <choice><abbr><orig>tat</orig></abbr><expan><reg>tant</reg></expan></choice> <choice><abbr><orig>sut</orig></abbr><expan><reg>sunt</reg></expan></choice> beles .<lb/></l>
+                    <l> Le chant novel od le donz son<lb/></l>
+                    <l> ke le rei chantad <name type="saint">Salomun</name> .<lb/></l>
                     
                 <pb n="59v"/>
-                    <l> Jci nele puis io chanter<lb/></l>
-                    <l> kentendre mesteut a plurer .<lb/></l>
-                    <l> kar la ioie de ceste vie<lb/></l>
+                    <l> Ici <choice><orig>nele</orig><reg>ne le</reg></choice> puis jo chanter<lb/></l>
+                    <l> <choice><orig>kentendre</orig><reg>k'entendre</reg></choice> <choice><orig>mesteut</orig><reg>m'esteut</reg></choice> a plurer .<lb/></l>
+                    <l> kar la joie de ceste vie<lb/></l>
                     <l> Tute turnet a folie .<lb/></l>
-                    <l> kant loreison ot cheuie<lb/></l>
-                    <l> ver le seint home sumilie .<lb/></l>
-                    <l> Sire dist ele danz zozimas<lb/></l>
-                    <l> Beau doz pere ore ten irras .<lb/></l>
-                    <l> acompli mas mun desirer<lb/></l>
-                    <l> Repoire ten a tun muster .<lb/></l>
-                    <l> Al autran pas ne mubliez<lb/></l>
-                    <l> ka moi parler ne viegnez .<lb/></l>
-                    <l> Del flum Jorda passez la riue<lb/></l>
-                    <l> Si me troueras ou morte ou viue .<lb/></l>
-                    <l> La ou primes me trouas<lb/></l>
-                    <l> Si feroi io dist zozimas .<lb/></l>
+                    <l> kant <choice><orig>loreison</orig><reg>l'oreison</reg></choice> ot chevie<lb/></l>
+                    <l> ver le seint <choice><abbr><orig>home</orig></abbr><expan><reg>homme</reg></expan></choice> <choice><orig>sumilie</orig><reg>s'umilie</reg></choice> .<lb/></l>
+                    <l> <name type="character">Sire</name> dist ele <name type="character">danz Zozimas</name><lb/></l>
+                    <l> <name type="character">Beau doz pere</name> ore <choice><orig>ten</orig><reg>t'en</reg></choice> irras .<lb/></l>
+                    <l> acompli <choice><orig>mas</orig><reg>m'as</reg></choice> mun desirer<lb/></l>
+                    <l> Repoire <choice><orig>ten</orig><reg>t'en</reg></choice> a tun muster .<lb/></l>
+                    <l> <choice><orig>Al autran</orig><reg>A l'autr'an</reg></choice> pas ne <choice><orig>mubliez</orig><reg>m'ubliez</reg></choice><lb/></l>
+                    <l> <choice><orig>ka</orig><reg>k'a</reg></choice> moi parler ne viegnez .<lb/></l>
+                    <l> Del flum <choice><abbr><orig>Jorda</orig></abbr><expan><reg>Jordan</reg></expan></choice> passez la rive<lb/></l>
+                    <l> Si me troveras ou morte ou vive .<lb/></l>
+                    <l> La ou primes me trovas<lb/></l>
+                    <l> Si feroi jo dist <name type="character">Zozimas</name> .<lb/></l>
                     <l> mes si tu fais mon desirer<lb/></l>
-                    <l> De nostre fruit testeut mag .<lb/></l>
-                    <l> Lentilles tit de son sacun<lb/></l>
-                    <l> Ni auoit autre garison .<lb/></l>
-                    <l> Jlles tendit en ses dou mains<lb/></l>
-                    <l> e la dame manga trois gns .<lb/></l>
-                    <l> Trente anz erent ia passe<lb/></l>
-                    <l> kele nauoit ainz ces guste .<lb/></l>
-                    <l> Del ewe beut sanz nule soi<lb/></l>
+                    <l> De nostre fruit <choice><orig>testeut</orig><reg>t'esteut</reg></choice> <choice><abbr><orig>mag</orig></abbr><expan><reg>manger</reg></expan></choice> .<lb/></l> <!-- LL: Between this line and the next line by the initials, there is a long dash in the outer margin. Not sure how to include that.  -->
+                    <l> Lentilles <choice><abbr><orig>tst</orig></abbr><expan><reg>traist</reg></expan></choice> de son sacun<lb/></l>
+                    <l> <choice><orig>Ni</orig><reg>N'i</reg></choice> avoit autre garison .<lb/></l>
+                    <l> Il les tendit en ses dou mains<lb/></l>
+                    <l> e la dame manga trois <choice><abbr><orig>gins</orig></abbr><expan><reg>grains</reg></expan></choice> .<lb/></l>
+                    <l> Trente anz erent ja passe<lb/></l>
+                    <l> <choice><orig>kele</orig><reg>k'ele</reg></choice> <choice><orig>navoit</orig><reg>n'avoit</reg></choice> ainz ces guste .<lb/></l>
+                    <l> <choice><orig>Del ewe</orig><reg>De l'ewe</reg></choice> beut sanz nule soi<lb/></l>
                     <l> Puis li ad dit priez pur moi .<lb/></l>
                     
                 <pb n="60r"/>
-                    <l> A icel mot sen est turnee<lb/></l>
-                    <l> en vn urette ert reportee .<lb/></l>
-                    <l> en cel liu ki nuit fu chier<lb/></l>
-                    <l> Ou zozimas la uit premer .<lb/></l>
-                    <l> e si auoit meinte iurnee<lb/></l>
-                    <l> mes cum deu vot estoit mence .<lb/></l>
-                    <l> kant a cel liu ert paruenue<lb/></l>
-                    <l> Ou zozimas la troua nue .<lb/></l>
-                    <l> ke meuz oleit eplusfor met<lb/></l>
-                    <l> ke nefet baume ne piment .<lb/></l>
-                    <l> a la terre sest accutee<lb/></l>
-                    <l> A dampnedeu sest comadee .<lb/></l>
-                    <l> Auz sire dist ele ki me feis<lb/></l>
+                    <l> A icel mot <choice><orig>sen</orig><reg>s'en</reg></choice> est turnee<lb/></l>
+                    <l> en un urette ert reportee .<lb/></l>
+                    <l> en cel liu ki mut fu chier<lb/></l>
+                    <l> Ou <name type="character">Zozimas</name> la vit premer .<lb/></l>
+                    <l> e si avoit meinte jurnee<lb/></l>
+                    <l> mes cum <name type="god">Deu</name> vot estoit mence .<lb/></l>
+                    <l> kant a cel liu ert parvenue<lb/></l>
+                    <l> Ou <name type="character">Zozimas</name> la trova nue .<lb/></l>
+                    <l> ke meuz oleit <choice><abbr><orig>eplusfor met</orig></abbr><expan><reg>e plus forment</reg></expan></choice><lb/></l>
+                    <l> ke <choice><orig>nefet</orig><reg>ne fet</reg></choice> baume ne piment .<lb/></l>
+                    <l> a la terre <choice><orig>sest</orig><reg>s'est</reg></choice> accutee<lb/></l>
+                    <l> A <name type="god">Dampnedeu</name> <choice><orig>sest</orig><reg>s'est</reg></choice> <choice><abbr><orig>comadee</orig></abbr><expan><reg>comandee</reg></expan></choice> .<lb/></l>
+                    <l> <name type="god">Duz Sire</name> dist ele ki me feis<lb/></l>
                     <l> e denz mon cors alme meis .<lb/></l>
-                    <l> A toi me peusse io liurer<lb/></l>
+                    <l> A toi me peusse jo livrer<lb/></l>
                     <l> e otrier.e comannder .<lb/></l>
-                    <l> Ore sai bien ketu maschere<lb/></l>
-                    <l> kar oi auez ma preiere .<lb/></l>
-                    <l> seurer meuoil de ceste uie<lb/></l>
-                    <l> Ci uoi uenir ta compaignie .<lb/></l>
-                    <l> Jo croi kele me uient qrant<lb/></l>
-                    <l> malme e mun cors te comat .<lb/></l>
-                    <l> Dont sest a la tere estendue<lb/></l>
+                    <l> Ore sai bien ke tu <choice><orig>mas</orig><reg>m'as</reg></choice> chere<lb/></l>
+                    <l> kar oi avez ma preiere .<lb/></l>
+                    <l> sevrer me voil de ceste vie<lb/></l>
+                    <l> Ci voi venir ta compaignie .<lb/></l>
+                    <l> Jo croi <choice><orig>kele</orig><reg>k'ele</reg></choice> me vient <choice><abbr><orig>qrant</orig></abbr><expan><reg>querant</reg></expan></choice><lb/></l>
+                    <l> <choice><orig>malme</orig><reg>m'alme</reg></choice> e mun cors te <choice><abbr><orig>comat</orig></abbr><expan><reg>comant</reg></expan></choice> .<lb/></l>
+                    <l> Dont <choice><orig>sest</orig><reg>s'est</reg></choice> a la tere estendue<lb/></l>
                     <l> Si cume ele estoit tute nue .<lb/></l>
-                    <l> Ses mains croi sa sur sa peitne<lb/></l>
-                    <l> e sen uolupad en sa crine .<lb/></l>
+                    <l> Ses mains croisa sur sa <choice><abbr><orig>peitne</orig></abbr><expan><reg>peitrine</reg></expan></choice><lb/></l>
+                    <l> e <choice><orig>sen volupad</orig><reg>s'envolupad</reg></choice> en sa crine .<lb/></l>
                     
                 <pb n="60v"/>
-                    <l> e dost se oilz auenantmet<lb/></l>
+                    <l> e clost se oilz <choice><abbr><orig>avenantmet</orig></abbr><expan><reg>avenantment</reg></expan></choice><lb/></l>
                     <l> Son nes e sa buche ensement .<lb/></l>
-                    <l> Lalme sen uait el ciel durable<lb/></l>
-                    <l> Vnc ni osa uenir diable .<lb/></l>
-                    <l> en langeline compaignie<lb/></l>
-                    <l> sen alad lalme marie .<lb/></l>
+                    <l> <choice><orig>Lalme</orig><reg>L'alme</reg></choice> <choice><orig>sen</orig><reg>s'en</reg></choice> vait el ciel durable<lb/></l>
+                    <l> Unc <choice><orig>ni</orig><reg>n'i</reg></choice> osa venir diable .<lb/></l>
+                    <l> en <choice><orig>langeline</orig><reg>l'angeline</reg></choice> compaignie<lb/></l>
+                    <l> <choice><orig>sen</orig><reg>s'en</reg></choice> alad <choice><orig>lalme</orig><reg>l'alme</reg></choice> <name type="saint">Marie</name> .<lb/></l>
                     <l> Le cors de lui remist tut nuz<lb/></l>
-                    <l> for dun drapel kert tut rupuz .<lb/></l>
-                    <l> ki del cors conerit partie<lb/></l>
-                    <l> Pourement estoit finie .<lb/></l>
+                    <l> for <choice><orig>dun</orig><reg>d'un</reg></choice> drapel <choice><orig>kert</orig><reg>k'ert</reg></choice> tut <choice><abbr><orig>rupuz</orig></abbr><expan><reg>rumpuz</reg></expan></choice> .<lb/></l>
+                    <l> ki del cors coverit partie<lb/></l>
+                    <l> Povrement estoit finie .<lb/></l>
                     <l> ensample nus dona la dame<lb/></l>
                     <l> Ce sachent li puisant du reame .<lb/></l>
-                    <l> ki poure ne sunt a la mort<lb/></l>
-                    <l> ka nostre seignur fot gnt tort .<lb/></l>
-                    <l> Li poure serrunt bonure<lb/></l>
-                    <l> kar il aurunt le regne de .<lb/></l>
-                    <l> La ou li riche ni entrunt<lb/></l>
-                    <l> Si einces poure ne sunt .<lb/></l>
-                    <l> Sus terre iut le cors marie<lb/></l>
-                    <l> Trestut lan sanz copaignie .<lb/></l>
-                    <l> Nout el desert rien tant fier<lb/></l>
-                    <l> kunc i osast aprochier .<lb/></l>
-                    <l> Sur lui nosad oisel voler<lb/></l>
-                    <l> Tant la puot deus honorer .<lb/></l>
-                    <l> Si gnt miracle pur li fist<lb/></l>
-                    <l> kut sa char rien ne blemist .<lb/></l>
+                    <l> ki povre ne sunt a la mort<lb/></l>
+                    <l> <choice><orig>ka</orig><reg>k'a</reg></choice> <name type="god">Nostre Seignur</name> <choice><abbr><orig>fot</orig></abbr><expan><reg>font</reg></expan></choice> <choice><abbr><orig>gnt</orig></abbr><expan><reg>grant</reg></expan></choice> tort .<lb/></l>
+                    <l> Li povre serrunt bonure<lb/></l>
+                    <l> kar il avrunt le regne <name type="god">De</name> .<lb/></l>
+                    <l> La ou li riche <choice><orig>ni</orig><reg>n'i</reg></choice> entrunt<lb/></l>
+                    <l> Si einces povre ne sunt .<lb/></l>
+                    <l> Sus terre jut le cors <name type="saint">Marie</name><lb/></l>
+                    <l> Trestut <choice><orig>lan</orig><reg>l'an</reg></choice> sanz copaignie .<lb/></l>
+                    <l> <choice><orig>Nout</orig><reg>N'out</reg></choice> el desert rien tant fier<lb/></l>
+                    <l> <choice><orig>kunc</orig><reg>k'unc</reg></choice> i osast aprochier .<lb/></l>
+                    <l> Sur lui <choice><orig>nosad</orig><reg>n'osad</reg></choice> oisel voler<lb/></l>
+                    <l> Tant la <choice><abbr><orig>pvot</orig></abbr><expan><reg>par vot</reg></expan></choice> <name type="god">Deus</name> honorer .<lb/></l>
+                    <l> Si <choice><abbr><orig>gnt</orig></abbr><expan><reg>grant</reg></expan></choice> miracle pur li fist<lb/></l>
+                    <l> <choice><abbr><orig>kuc</orig></abbr><expan><reg>k'unc</reg></expan></choice> sa char rien ne blemist .<lb/></l>
                     
                 <pb n="61r"/>
-                    <l> vnke pur freit ne pur chalur<lb/></l>
-                    <l> Nen issi mauueise flaur .<lb/></l>
-                    <l> Tant feut le cors defentrez<lb/></l>
+                    <l> unke pur freit ne pur chalur<lb/></l>
+                    <l> <choice><orig>Nen</orig><reg>N'en</reg></choice> issi mauveise flaur .<lb/></l>
+                    <l> Tant feut le cors <choice><abbr><orig>desentrez</orig></abbr><expan><reg>desenterrez</reg></expan></choice><lb/></l>
                     <l> ke li ans ert tut passez .<lb/></l>
-                    <l> zozimas ne subblia mie<lb/></l>
-                    <l> Repairez est en sabbeie .<lb/></l>
-                    <l> mes dune rien fu mut irrez<lb/></l>
-                    <l> Li seniz ho qnt sest purpesez .<lb/></l>
-                    <l> k od la dame auoit parle<lb/></l>
-                    <l> e son nu nauoit pas demade .<lb/></l>
-                    <l> Ne q sun nu nauoit enquis<lb/></l>
-                    <l> Deltut se tint entrepris .<lb/></l>
-                    <l> mes qnt auint kil ot congie<lb/></l>
-                    <l> kil pout issir de sun sie .<lb/></l>
-                    <l> e passez ert tut i cel an<lb/></l>
-                    <l> mut tost passa leflu iordan .<lb/></l>
-                    <l> el desert uint pur la muiller<lb/></l>
-                    <l> Par merueillus desirer<lb/></l>
-                    <l> Tant lad quise par le desert<lb/></l>
-                    <l> kil vint la ou le cors ert .<lb/></l>
-                    <l> mes enceis kil leust trouez<lb/></l>
-                    <l> mut le ueisset esgarez .<lb/></l>
+                    <l> <name type="character">Zozimas</name> ne <choice><orig>subblia</orig><reg>s'ubblia</reg></choice> mie<lb/></l>
+                    <l> Repairez est en <choice><orig>sabbeie</orig><reg>s'abbeie</reg></choice> .<lb/></l>
+                    <l> mes <choice><orig>dune</orig><reg>d'une</reg></choice> rien fu mut irrez<lb/></l>
+                    <l> Li seinz <choice><abbr><orig>ho</orig></abbr><expan><reg>hom</reg></expan></choice> <choice><abbr><orig>qnt</orig></abbr><expan><reg>quant</reg></expan></choice> <choice><orig>sest</orig><reg>s'est</reg></choice> <choice><abbr><orig>purpesez</orig></abbr><expan><reg>purpensez</reg></expan></choice> .<lb/></l>
+                    <l> <choice><orig>k od</orig><reg>k'od</reg></choice> la dame avoit parle<lb/></l>
+                    <l> e son <choice><abbr><orig>nu</orig></abbr><expan><reg>nun</reg></expan></choice> <choice><orig>navoit</orig><reg>n'avoit</reg></choice> pas <choice><abbr><orig>demade</orig></abbr><expan><reg>demande</reg></expan></choice> .<lb/></l>
+                    <l> Ne <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> sun <choice><abbr><orig>nu</orig></abbr><expan><reg>nun</reg></expan></choice> <choice><orig>navoit</orig><reg>n'avoit</reg></choice> enquis<lb/></l>
+                    <l> Del tut se tint entrepris .<lb/></l>
+                    <l> mes <choice><abbr><orig>qnt</orig></abbr><expan><reg>quant</reg></expan></choice> avint <choice><orig>kil</orig><reg>k'il</reg></choice> ot congie<lb/></l>
+                    <l> <choice><orig>kil</orig><reg>k'il</reg></choice> pout issir de sun sie .<lb/></l>
+                    <l> e passez ert tut <choice><orig>i cel</orig><reg>icel</reg></choice> an<lb/></l>
+                    <l> mut tost passa <choice><abbr><orig>leflu</orig></abbr><expan><reg>le flum</reg></expan></choice> Jordan .<lb/></l>
+                    <l> el desert vint pur la muiller<lb/></l>
+                    <l> Par merveillus desirer<lb/></l>
+                    <l> Tant <choice><orig>lad</orig><reg>l'ad</reg></choice> quise par le desert<lb/></l>
+                    <l> <choice><orig>kil</orig><reg>k'il</reg></choice> vint la ou le cors ert .<lb/></l>
+                    <l> mes enceis <choice><orig>kil</orig><reg>k'il</reg></choice> <choice><orig>leust</orig><reg>l'eust</reg></choice> trovez<lb/></l>
+                    <l> mut le veisset esgarez .<lb/></l>
                     <l> Grant doel fet e plurt e crie<lb/></l>
-                    <l> Pres ert del cors si nel uit mie .<lb/></l>
-                    <l> Duz pere dist il ki me fesis<lb/></l>
-                    <l> mustrez moi co ke iai quis .<lb/></l>
+                    <l> Pres ert del cors si nel vit mie .<lb/></l>
+                    <l> <name type="god">Duz Pere</name> dist il ki me fesis<lb/></l>
+                    <l> mustrez moi co ke <choice><orig>jai</orig><reg>j'ai</reg></choice> quis .<lb/></l>
                     
                 <pb n="61v"/>
-                    <l> sachiez iames ne sloignerai<lb/></l>
-                    <l> De cest liu . ne me mouerai .<lb/></l>
-                    <l> Treske io ueie i cele femme<lb/></l>
-                    <l> Dunt nad sa per en tut cestreaume .<lb/></l>
+                    <l> sachiez <choice><orig>james</orig><reg>ja mes</reg></choice> <choice><orig>ne sloignerai</orig><reg>n'esloignerai</reg></choice><lb/></l>
+                    <l> De cest liu . ne me moverai .<lb/></l>
+                    <l> Treske jo veie <choice><orig>i cele</orig><reg>icele</reg></choice> femme<lb/></l>
+                    <l> Dunt <choice><orig>nad</orig><reg>n'ad</reg></choice> sa per en tut <choice><orig>cestreaume</orig><reg>cest reaume</reg></choice> .<lb/></l>
                     <l> Sire mustrez moi la muiller<lb/></l>
-                    <l> kar cest tut mun desirer .<lb/></l>
-                    <l> Plus ne uiurai si cum io croi<lb/></l>
-                    <l> se uiue ou morte ne la noi .<lb/></l>
-                    <l> Lai me uer le cors mamie<lb/></l>
-                    <l> k io croi kele soit finie .<lb/></l>
-                    <l> Sele uesqst si cum io croi<lb/></l>
-                    <l> ele feust ia uemie a moi .<lb/></l>
+                    <l> kar <choice><orig>cest</orig><reg>c'est</reg></choice> tut mun desirer .<lb/></l>
+                    <l> Plus ne vivrai si cum jo croi<lb/></l>
+                    <l> se vive ou morte ne la voi .<lb/></l>
+                    <l> Lai me ver le cors <choice><orig>mamie</orig><reg>m'amie</reg></choice><lb/></l>
+                    <l> <choice><abbr><orig>k</orig></abbr><expan><reg>kar</reg></expan></choice> jo croi <choice><orig>kele</orig><reg>k'ele</reg></choice> soit finie .<lb/></l>
+                    <l> <choice><orig>Sele</orig><reg>S'ele</reg></choice> <choice><abbr><orig>vesqst</orig></abbr><expan><reg>vesquist</reg></expan></choice> si cum jo croi<lb/></l>
+                    <l> ele feust ja venue a moi .<lb/></l>
                     <l> Ja esgarez ne me lessait<lb/></l>
-                    <l> sele me seust en cest guast .<lb/></l>
-                    <l> sire se tu de moi as cure<lb/></l>
+                    <l> <choice><orig>Sele</orig><reg>S'ele</reg></choice> me seust en cest guast .<lb/></l>
+                    <l> <name type="god">Sire</name> se tu de moi as cure<lb/></l>
                     <l> Lai me fere sa sepulture .<lb/></l>
-                    <l> Beau pere rei de magestez<lb/></l>
+                    <l> <name type="god">Beau Pere</name> <name type="god">Rei de magestez</name><lb/></l>
                     <l> Ne me lessez si esgarez .<lb/></l>
-                    <l> kant il out soreison finie<lb/></l>
-                    <l> Deus li mustt le cors marie .<lb/></l>
-                    <l> vers destre pt sest regardez<lb/></l>
-                    <l> Pres de lui uit vue dartez .<lb/></l>
-                    <l> vne darte uit en cel leu<lb/></l>
-                    <l> Lors quida ke cofeust feu .<lb/></l>
-                    <l> A la darte sest aprimez<lb/></l>
-                    <l> Le cors troua . mut en fu liez .<lb/></l>
+                    <l> kant il out <choice><orig>soreison</orig><reg>s'oreison</reg></choice> finie<lb/></l>
+                    <l> <name type="god">Deus</name> li <choice><abbr><orig>mustr</orig></abbr><expan><reg>mustras</reg></expan></choice> le cors <name type="saint">Marie</name> .<lb/></l>
+                    <l> vers destre <choice><abbr><orig>pt</orig></abbr><expan><reg>part</reg></expan></choice> <choice><orig>sest</orig><reg>s'est</reg></choice> regardez<lb/></l>
+                    <l> Pres de lui vit une clartez .<lb/></l>
+                    <l> une clarte vit en cel leu<lb/></l>
+                    <l> Lors quida ke co feust feu .<lb/></l>
+                    <l> A la clarte <choice><orig>sest</orig><reg>s'est</reg></choice> aprimez<lb/></l>
+                    <l> Le cors trova . mut en fu liez .<lb/></l>
                     
                 <pb n="62r"/>
                     <l> A la terre geut estenduz<lb/></l>
-                    <l> Poi sen faut kil nert tut uuz .<lb/></l>
-                    <l> Son uis auoit uers orient<lb/></l>
-                    <l> e les oiz dos auenantment .<lb/></l>
-                    <l> La crine auoit for son uiere<lb/></l>
-                    <l> ele nauoit autre sueire .<lb/></l>
-                    <l> Al cors saprima zozimas<lb/></l>
+                    <l> Poi <choice><orig>sen</orig><reg>s'en</reg></choice> faut <choice><orig>kil</orig><reg>k'il</reg></choice> <choice><orig>nert</orig><reg>n'ert</reg></choice> tut nuz .<lb/></l>
+                    <l> Son vis avoit vers orient<lb/></l>
+                    <l> e les oiz clos avenantment .<lb/></l>
+                    <l> La crine avoit for son viere<lb/></l>
+                    <l> ele <choice><orig>navoit</orig><reg>n'avoit</reg></choice> autre sueire .<lb/></l>
+                    <l> Al cors <choice><orig>saprima</orig><reg>s'aprima</reg></choice> <name type="character">Zozimas</name><lb/></l>
                     <l> Sur lui posad un de ses dras .<lb/></l>
-                    <l> Les piez sempres li uait beiser<lb/></l>
-                    <l> Al autre nosert apprimer .<lb/></l>
-                    <l> Jl regarde amunt au chief<lb/></l>
-                    <l> Lettres uit cum en vn bref .<lb/></l>
-                    <l> el lettres ke li sainz hom uit<lb/></l>
-                    <l> ert cest comandemet escrit .<lb/></l>
-                    <l> Zozimas pren le cors marie<lb/></l>
-                    <l> Silenseuelis od la deu aie .<lb/></l>
-                    <l> kant tu laueras enseueli<lb/></l>
-                    <l> priez pur lui uostre merci .<lb/></l>
+                    <l> Les piez sempres li vait beiser<lb/></l>
+                    <l> <choice><orig>Al autre</orig><reg>A l'autre</reg></choice> <choice><orig>noseit</orig><reg>n'oseit</reg></choice> apprimer .<lb/></l>
+                    <l> Il regarde amunt au chief<lb/></l>
+                    <l> Lettres vit cum en un bref .<lb/></l>
+                    <l> el lettres ke li sainz hom vit<lb/></l>
+                    <l> ert cest <choice><abbr><orig>comandemet</orig></abbr><expan><reg>comandement</reg></expan></choice> escrit .<lb/></l>
+                    <l> <name type="character">Zozimas</name> pren le cors <name type="saint">Marie</name><lb/></l>
+                    <l> <choice><orig>Silensevelis</orig><reg>Sil ensevelis</reg></choice> od la <name type="god">Deu</name> aie .<lb/></l>
+                    <l> kant tu <choice><orig>laueras</orig><reg>l'aueras</reg></choice> enseveli<lb/></l>
+                    <l> priez pur lui vostre merci .<lb/></l>
                     <l> Les lettres erent de teu tor<lb/></l>
-                    <l> Come feussent fetes icel iur .<lb/></l>
+                    <l> Come feussent fetes icel jur .<lb/></l>
                     <l> en la terre erent figurees<lb/></l>
-                    <l> Zozimas les ad recitees<lb/></l>
-                    <l> mes kant il ot le nun troue<lb/></l>
-                    <l> Deusen mcit sestoit mut le .<lb/></l>
+                    <l> <name type="character">Zozimas</name> les ad recitees<lb/></l>
+                    <l> mes kant il ot le nun trove<lb/></l>
+                    <l> Deus en <choice><abbr><orig>mcit</orig></abbr><expan><reg>mercit</reg></expan></choice> <choice><orig>sestoit</orig><reg>s'estoit</reg></choice> mut le .<lb/></l>
                     <l> Le beau nun durement prise<lb/></l>
-                    <l> Lors ad comence le seruise .<lb/></l>
+                    <l> Lors ad comence le servise .<lb/></l>
                     
                 <pb n="62v"/>
                     <l> mes kant il ot fet son mester<lb/></l>
