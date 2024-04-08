@@ -14,14 +14,14 @@
         </fileDesc>
     </teiHeader>
     
-    
+    <!-- LL: Columns: I need to go back through all the copies and add spaces for column breaks. It's especially needed in T-E because each page has so many lines. Spaces to show column breaks will make it just a bit more readable and easier to navigate in reference to the manuscript copies. -->
     
     <text>
         <body>
             <div>
                 
                 <pb n="113v"/>  
-                    <l> Seignor oies une raison<lb/></l>
+                    <l> <emph n="5" rend="floriate">S</emph>eignor oies une raison<lb/></l>
                     <l> ou il na <choice><orig>severite</orig><reg>se verite</reg></choice> non<lb/></l>
                     <l> tot est faite de verite<lb/></l>
                     <l> <choice><orig>Ni</orig><reg>N'i</reg></choice> a -i- mot <choice><orig>defausete</orig><reg>de fausete</reg></choice><lb/></l>
@@ -73,56 +73,57 @@
                     <l> Encore fesist il folie<lb/></l>
                     
                 <pb n="114r"/> 
-                    <l> Qnt lame enva cme caitive<lb/></l>
-                    <l> Qlifera donqs aide<lb/></l>
-                    <l> N hom soseies nelifera<lb/></l>
-                    <l> Se nest cil sires ql cria<lb/></l>
-                    <l> Celadame dt doi ct<lb/></l>
-                    <l> marie loi apeler<lb/></l>
-                    <l> Egiptiene est por ce dite<lb/></l>
-                    <l> Q ele fu nee de gipte<lb/></l>
+                    <l> <choice><abbr><orig>Qnt</orig></abbr><expan><reg>Quant</reg></expan></choice> <choice><orig>lame</orig><reg>l'ame</reg></choice> <choice><orig>enva</orig><reg>en va</reg></choice> <choice><abbr><orig>9me</orig></abbr><expan><reg>conme</reg></expan></choice> caitive<lb/></l>
+                    <l> <choice><abbr><orig>Qlifera</orig></abbr><expan><reg>Qui li fera</reg></expan></choice> <choice><abbr><orig>donqs</orig></abbr><expan><reg>donques</reg></expan></choice> aide<lb/></l>
+                    <l> <choice><abbr><orig>N</orig></abbr><expan><reg>Nus</reg></expan></choice> hom <choice><orig>soseies</orig><reg>sos eies</reg></choice> <choice><orig>nelifera</orig><reg>ne li fera</reg></choice><lb/></l>
+                    <l> Se <choice><orig>nest</orig><reg>n'est</reg></choice> cil sires <choice><abbr><orig>ql</orig></abbr><expan><reg>quil</reg></expan></choice> cria<lb/></l>
+                    <l> <choice><orig><emph n="2" rend="floriate">C</emph>eladame</orig><reg><emph n="2" rend="floriate">C</emph>ela dame</reg></choice> <choice><abbr><orig>dt</orig></abbr><expan><reg>dont</reg></expan></choice> doi <choice><abbr><orig>9t</orig></abbr><expan><reg>conter</reg></expan></choice><lb/></l>
+                    <l> <name type="saint">Marie</name> <choice><orig>loi</orig><reg>l'oi</reg></choice> apeler<lb/></l>
+                    <l> <name type="saint">Egiptiene</name> est por ce dite<lb/></l>
+                    <l> <choice><abbr><orig>Q</orig></abbr><expan><reg>Que</reg></expan></choice> ele fu nee <choice><orig>de gipte</orig><reg>d'egipte</reg></choice><lb/></l>
                     <l> Iluec fu nee &amp; baptisie<lb/></l>
-                    <l> Mais malemt fu enseignie<lb/></l>
-                    <l> Legiere devint desenfance<lb/></l>
-                    <l> honte pdi tote emeance<lb/></l>
-                    <l> tant ert espse de luxure<lb/></l>
-                    <l> de nule aut rien navoit ce<lb/></l>
-                    <l> P ce q el est tat bele &amp; gete<lb/></l>
-                    <l> Se fioit tant ensaiovente<lb/></l>
-                    <l> Ne limbroit pas demorir<lb/></l>
-                    <l> Sifaisoit tot ason plaisir<lb/></l>
-                    <l> de -ii- parens ne se gardoit<lb/></l>
-                    <l> Atos homes sabandonoit<lb/></l>
-                    <l> Nespoir q fust en ceste vie<lb/></l>
-                    <l> Feme de pl gnt legerie<lb/></l>
-                    <l> pe &amp; me qnt leveoient<lb/></l>
-                    <l> Apoi de duel ne socioient<lb/></l>
-                    <l> Il levoloient castoier<lb/></l>
-                    <l> Ele nes psoit -i- den<lb/></l>
-                    <l> Nepsoit casti deparent<lb/></l>
-                    <l> Nient pl q -i- trespas devet<lb/></l>
-                    <l> Fille ce lidisoit lamere<lb/></l>
-                    <l> Car croi le cseil detopre<lb/></l>
-                    <l> Solongemt tiens cest mest<lb/></l>
-                    <l> Mlt en arons gnt reprov<lb/></l>
-                    <l> P deu te proi fille marie<lb/></l>
+                    <l> Mais <choice><abbr><orig>malemt</orig></abbr><expan><reg>malement</reg></expan></choice> fu enseignie<lb/></l>
+                    <l> Legiere devint <choice><orig>desenfance</orig><reg>de s'enfance</reg></choice><lb/></l>
+                    <l> honte <choice><abbr><orig>pdi</orig></abbr><expan><reg>perdi</reg></expan></choice> tote emeance<lb/></l>
+                    <l> tant ert <choice><abbr><orig>espse</orig></abbr><expan><reg>esprise</reg></expan></choice> de luxure<lb/></l>
+                    <l> de nule <choice><abbr><orig>aut</orig></abbr><expan><reg>autre</reg></expan></choice> rien <choice><orig>navoit</orig><reg>n'avoit</reg></choice> <choice><abbr><orig>ce</orig></abbr><expan><reg>cure</reg></expan></choice><lb/></l>
+                    <l> <choice><abbr><orig>P</orig></abbr><expan><reg>Por</reg></expan></choice> ce <choice><abbr><orig>q el</orig></abbr><expan><reg>qu'el</reg></expan></choice> est <choice><abbr><orig>tat</orig></abbr><expan><reg>tant</reg></expan></choice> bele &amp; <choice><abbr><orig>gete</orig></abbr><expan><reg>gente</reg></expan></choice><lb/></l>
+                    <l> Se fioit tant <choice><orig>ensajovente</orig><reg>en sa jovente</reg></choice><lb/></l>
+                    <l> Ne <choice><abbr><orig>limbroit</orig></abbr><expan><reg>li membroit</reg></expan></choice> pas <choice><orig>demorir</orig><reg>de morir</reg></choice><lb/></l>
+                    <l> Si faisoit tot a son plaisir<lb/></l>
+                    <l> <name type="character">de -ii- parens</name> ne se gardoit<lb/></l> <!-- LL: I need to think about my name tags. I'd like to tag every mention of a character and not just proper names. But how best to do that...? -->
+                    <l> A tos homes <choice><orig>sabandonoit</orig><reg>s'abandonoit</reg></choice><lb/></l>
+                    <l> <choice><orig>Nespoir</orig><reg>N'espoir</reg></choice> <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> fust en ceste vie<lb/></l>
+                    <l> <name type="saint">Feme</name> de <choice><abbr><orig>pl</orig></abbr><expan><reg>plus</reg></expan></choice> <choice><abbr><orig>gnt</orig></abbr><expan><reg>grant</reg></expan></choice> legerie<lb/></l>
+                    <l> <name type="character"><choice><abbr><orig>pe</orig></abbr><expan><reg>pere</reg></expan></choice></name> &amp; <name type="character"><choice><abbr><orig>me</orig></abbr><expan><reg>mere</reg></expan></choice></name> <choice><abbr><orig>qnt</orig></abbr><expan><reg>quant</reg></expan></choice> <choice><orig>leveoient</orig><reg>le veoient</reg></choice><lb/></l>
+                    <l> A poi de duel ne <choice><orig>socioient</orig><reg>s'ocioient</reg></choice><lb/></l>
+                    <l> Il <choice><orig>levoloient</orig><reg>le voloient</reg></choice> castoier<lb/></l>
+                    <l> Ele nes <choice><abbr><orig>psoit</orig></abbr><expan><reg>prisoit</reg></expan></choice> -i- <choice><abbr><orig>den</orig></abbr><expan><reg>denier</reg></expan></choice><lb/></l>
+                    <l> <choice><abbr><orig>Nepsoit</orig></abbr><expan><reg>Ne prisoit</reg></expan></choice> casti <name type="character"><choice><orig>deparent</orig><reg>de parent</reg></choice></name><lb/></l>
+                    <l> Nient <choice><abbr><orig>pl</orig></abbr><expan><reg>plus</reg></expan></choice> <choice><abbr><orig>q -i-</orig></abbr><expan><reg>qu'un</reg></expan></choice> trespas <choice><abbr><orig>devet</orig></abbr><expan><reg>de vent</reg></expan></choice><lb/></l> <!-- LL: I'm choosing to leave all the roman numerals as they appear in the manuscript, but here I've changed the "-i-" to "un" to make the octosyllabic verse clearer. -->
+                    <l> <name type="saint">Fille</name> ce <choice><orig>lidisoit</orig><reg>li disoit</reg></choice> <name type="character"><choice><orig>lamere</orig><reg>la mere</reg></choice></name><lb/></l>
+                    <l> Car croi le <choice><abbr><orig>9seil</orig></abbr><expan><reg>conseil</reg></expan></choice> <choice><abbr><orig>detopre</orig></abbr><expan><reg>de ton <name type="character">pere</name></reg></expan></choice><lb/></l>
+                    <l> <choice><abbr><orig>Selongemt</orig></abbr><expan><reg>Selongement</reg></expan></choice> tiens cest <choice><abbr><orig>mest</orig></abbr><expan><reg>mestier</reg></expan></choice><lb/></l>
+                    <l> <choice><abbr><orig>Mlt</orig></abbr><expan><reg>Molt</reg></expan></choice> en arons <choice><abbr><orig>gnt</orig></abbr><expan><reg>grant</reg></expan></choice> <choice><abbr><orig>reprov</orig></abbr><expan><reg>reprovier</reg></expan></choice><lb/></l>
+                    <l> <choice><abbr><orig>P</orig></abbr><expan><reg>Por</reg></expan></choice> <name type="god">Deu</name> te proi <name type="saint">fille Marie</name><lb/></l>
                     <l> Guerpis mais ceste legerie<lb/></l>
-                    <l> Qnt cest mest aras gpi<lb/></l>
+                    <l> <choice><abbr><orig>Qnt</orig></abbr><expan><reg>Quant</reg></expan></choice> cest <choice><abbr><orig>mest</orig></abbr><expan><reg>mestier</reg></expan></choice> aras <choice><abbr><orig>gpi</orig></abbr><expan><reg>guerpi</reg></expan></choice><lb/></l>
                     <l> Nos te donrons riche mari<lb/></l>
-                    <l> Nest drois q tu soies perie<lb/></l>
-                    <l> Por sosfraite de nre aie<lb/></l>
-                    <l> Fille tues de haut parage<lb/></l>
-                    <l> Mlt est gnt duel &amp; gnt damage<lb/></l>
-                    <l> Q tu seras issi perie<lb/></l>
-                    <l> Porra malvaise legerie<lb/></l>
-                    <l> tes peres en est si iries<lb/></l>
-                    <l> Jamais anul ior neert lies<lb/></l>
-                    <l> &amp; maldist tote savente<lb/></l>
-                    <l> Qnt afait tele engenieure<lb/></l>
-                    <l> Qnt marie looit parler<lb/></l>
-                    <l> Nelevoloit nes escout<lb/></l>
-                    <l> tresqle avoit passe -xii- anz<lb/></l>
-                    <l> del tot volt faire ses cmas<lb/></l>
+                    <l> <choice><orig>Nest</orig><reg>N'est</reg></choice> drois <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> tu soies perie<lb/></l>
+                    <l> Por soffraite de <choice><abbr><orig>nre</orig></abbr><expan><reg>nostre</reg></expan></choice> aie<lb/></l>
+                    <l> <name type="saint">Fille</name> <choice><orig>tues</orig><reg>tu es</reg></choice> de haut parage<lb/></l>
+                    <l> <choice><abbr><orig>Mlt</orig></abbr><expan><reg>Molt</reg></expan></choice> est <choice><abbr><orig>gnt</orig></abbr><expan><reg>grant</reg></expan></choice> duel &amp; <choice><abbr><orig>gnt</orig></abbr><expan><reg>grant</reg></expan></choice> damage<lb/></l> <!-- LL: The final "ge" of this line is written in superscript above "dama". Should I encode this differently than the abbreviations?-->
+                    <l> <choice><abbr><orig>Q</orig></abbr><expan><reg>Que</reg></expan></choice> tu seras issi perie<lb/></l>
+                    <l> <choice><orig>porta</orig><reg>por ta</reg></choice> malvaise legerie<lb/></l>
+                    <l> tes <name type="character">peres</name> en est si iries<lb/></l>
+                    <l> <choice><orig>Jamais</orig><reg>Ja mais</reg></choice> <choice><orig>anul</orig><reg>a nul</reg></choice> jor <choice><abbr><orig>ne</orig></abbr><expan><reg>n'en</reg></expan></choice> ert lies<lb/></l>
+                    <l> &amp; maldist tote <choice><abbr><orig>savente</orig></abbr><expan><reg>s'aventure</reg></expan></choice><lb/></l>
+                    <l> <choice><abbr><orig>Qnt</orig></abbr><expan><reg>Quant</reg></expan></choice> <choice><orig>afait</orig><reg>a fait</reg></choice> tele engenieure<lb/></l>
+                    <l> <choice><abbr><orig>Qnt</orig></abbr><expan><reg>Quant</reg></expan></choice> <name type="saint">Marie</name> <choice><orig>looit</orig><reg>l'ooit</reg></choice> parler<lb/></l>
+                    <l> <choice><orig>Nelevoloit</orig><reg>Ne le voloit</reg></choice> nes <choice><abbr><orig>escout</orig></abbr><expan><reg>escouter</reg></expan></choice><lb/></l>
+                    <l> <choice><abbr><orig>tresqle</orig></abbr><expan><reg>tresqu'ele</reg></expan></choice> avoit passe -xii- anz<lb/></l>
+                    <l> del tot volt faire ses <choice><abbr><orig>9mas</orig></abbr><expan><reg>conmans</reg></expan></choice><lb/></l>
+                
                     <l> p bn faire savolente<lb/></l>
                     <l> Sen fui en autre regne<lb/></l>
                     <l> tot son parente degpi<lb/></l>
@@ -131,7 +132,7 @@
                     <l> Sans seu de pere &amp; de me<lb/></l>
                     <l> Elchemin sen entra marie<lb/></l>
                     <l> Ainc nidemanda cpaignie<lb/></l>
-                    <l> En alixandre en est venue<lb/></l>
+                    <l> <emph n="2" rend="floriate">E</emph>n alixandre en est venue<lb/></l>
                     <l> alun chief delamaistrecue<lb/></l>
                     <l> ot les meretrix pst ostal<lb/></l>
                     <l> Iluec fut de son cors venal<lb/></l>
@@ -173,6 +174,7 @@
                     <l> coles malades visiter<lb/></l>
                     <l> En alixandre estoit marie<lb/></l>
                     <l> Qnt demenoit iceste vie<lb/></l>
+                
                     <l> Iluec demena ses talans<lb/></l>
                     <l> Lachaitive -xvii- ans<lb/></l>
                     <l> Lavile en estoit enpirie<lb/></l>
@@ -223,6 +225,7 @@
                     <l> Alpiorior de lasemaine<lb/></l>
                     <l> vestoit bo bliaut ostori<lb/></l>
                     <l> Siafubloit mat dermi<lb/></l>
+                
                     <l> Solls bn pais de cordoan<lb/></l>
                     <l> chaucoit at les iors del an<lb/></l>
                     <l> liciteain de lacite<lb/></l>
@@ -239,7 +242,7 @@
                     <l> &amp; mlt ert debele facon<lb/></l>
                     <l> lifiex a -i- empereor<lb/></l>
                     <l> Le peust prendre phonor<lb/></l>
-                    <l> Cefu en mai el mois deste<lb/></l>
+                    <l> <emph n="2" rend="floriate">C</emph>efu en mai el mois deste<lb/></l>
                     <l> Qele issi de lacite<lb/></l>
                     <l> &amp; esgardoit aval al port<lb/></l>
                     <l> U soloit faire son deport<lb/></l>
@@ -291,7 +294,7 @@
                     <l> Q se nioient el gvier<lb/></l>
                     <l> a aeus envint isnelemt<lb/></l>
                     <l> &amp; ipla mlt simplemt<lb/></l>
-                    <l> Seign dist ele pelerin<lb/></l>
+                    <l> <emph n="2" rend="floriate">S</emph>eign dist ele pelerin<lb/></l>
                     <l> dex v mete en corage fin<lb/></l>
                     <l> &amp; v doinst icel volente<lb/></l>
                     <l> Q v me fa cies carite<lb/></l>
@@ -325,6 +328,7 @@
                     <l> Car marie les arguoit<lb/></l>
                     <l> pmes les pnt ataistoner<lb/></l>
                     <l> &amp; en apres aacoler<lb/></l>
+                
                     <l> dont les cmenca abaisier<lb/></l>
                     <l> &amp;entsens alosengier<lb/></l>
                     <l> Niot-i-seul tant fust lassez<lb/></l>
@@ -347,7 +351,7 @@
                     <l> Ala lanuit ptot les lis<lb/></l>
                     <l> Amlt gnt gres les recevoit<lb/></l>
                     <l> lor volentes aenplisoit<lb/></l>
-                    <l> Merveille fu cevoiremt<lb/></l>
+                    <l> <emph n="2" rend="floriate">M</emph>erveille fu cevoiremt<lb/></l>
                     <l> Q pot soffrir issi gnt get<lb/></l>
                     <l> de ce nestuet il dout mie<lb/></l>
                     <l> Qnait dyable a cpaignie<lb/></l>
@@ -375,13 +379,14 @@
                     <l> Q idevoit estre a oree<lb/></l>
                     <l> ot en pirie sitot le lieu<lb/></l>
                     <l> Miex li venist qFust enfu<lb/></l>
+                
                     <l> Car mlt decevoit saiovete<lb/></l>
                     <l> pco qele ert bele &amp; gete<lb/></l>
                     <l> liiovencel de lacite<lb/></l>
                     <l> Erent esps de sabiaute<lb/></l>
                     <l> Ne demora q mlt petit<lb/></l>
                     <l> Q li iors delafeste vint<lb/></l>
-                    <l> Li iors vint delacensio<lb/></l>
+                    <l> <emph n="2" rend="floriate">L</emph>i iors vint delacensio<lb/></l>
                     <l> Ester v la procession<lb/></l>
                     <l> des pelerins dout lemer<lb/></l>
                     <l> Q uont altemple p orer<lb/></l>
@@ -425,6 +430,7 @@
                     <l> gmar ifuster merets<lb/></l>
                     <l> p coi fesis les ors pechies<lb/></l>
                     <l> dt dex est issi corecies<lb/></l>
+                
                     <l> mal g seil ai tost ans eu<lb/></l>
                     <l> Qnt mo creator ai pdeu<lb/></l>
                     <l> tant p suj plais deuil orde<lb/></l>
@@ -527,6 +533,7 @@
                     <l> Q dyables auoit rauie<lb/></l>
                     <l> a son pre tos les mena<lb/></l>
                     <l> ensa glorie ou il esta<lb/></l>
+                
                     <l> puis uint el sepulcre ason cors<lb/></l>
                     <l> p gnt vertu en isci fors<lb/></l>
                     <l> as apostles puis aparut<lb/></l>
@@ -555,7 +562,7 @@
                     <l> Q tos limos nepot repndre<lb/></l>
                     <l> Sig io croi ce q io di<lb/></l>
                     <l> Si aies vos de moi mercj<lb/></l>
-                    <l> Qnt ot finee sorison<lb/></l>
+                    <l> <emph n="2" rend="floriate">Q</emph>nt ot finee sorison<lb/></l>
                     <l> &amp; dex hot fait son pdn<lb/></l>
                     <l> desorison leua marie<lb/></l>
                     <l> Enson nouel seign se fie<lb/></l>
@@ -577,6 +584,7 @@
                     <l> &amp; en ql tre sen ira<lb/></l>
                     <l> Vint vne vois q ele entent<lb/></l>
                     <l> Seli adit aptement<lb/></l>
+                
                     <l> vaten al most .s. iehan<lb/></l>
                     <l> lapasseras le flun iordan<lb/></l>
                     <l> puis ten iras en lagastine<lb/></l>
@@ -627,6 +635,7 @@
                     <l> orgmenca sapenitance<lb/></l>
                     <l> Napas talent derepetir<lb/></l>
                     <l> Ains se lai roit defai morir<lb/></l>
+                
                     <l> Nena q .ij. pains &amp; demj<lb/></l>
                     <l> Orait ihu deli merci<lb/></l>
                     <l> de ce ne viura ele mie<lb/></l>
@@ -729,9 +738,10 @@
                     <l> Ne uit garres beste saluage<lb/></l>
                     <l> Ne autre viue creature<lb/></l>
                     <l> p laforest vait tote nue<lb/></l>
+                
                     <l> Enplujsors lieus pst son ostal<lb/></l>
                     <l> Savie estoit esperital<lb/></l>
-                    <l> Orlairomes a demarie<lb/></l>
+                    <l> <emph n="2" rend="floriate">O</emph>rlairomes a demarie<lb/></l>
                     <l> Si v dirons dun abeie<lb/></l>
                     <l> Q ert al chief de la forest<lb/></l>
                     <l> Si g li liures nos fait cert<lb/></l>
@@ -779,6 +789,7 @@
                     <l> Fors seul .ij. qla remanoiet<lb/></l>
                     <l> No pas p pour de larron<lb/></l>
                     <l> Ql cremisset de lor maison<lb/></l>
+                
                     <l> mais p faire le deu mest<lb/></l>
                     <l> Remanoient cil el most<lb/></l>
                     <l> Car nest pas bode .s. eglise<lb/></l>
@@ -829,6 +840,7 @@
                     <l> Ne lor estouoit cremir leu<lb/></l>
                     <l> Qnt reuiet al ior deqresme<lb/></l>
                     <l> Q carg doit aler son esme<lb/></l>
+                
                     <l> liabes fist q il soloit<lb/></l>
                     <l> Ses oeilles mist fors del toit<lb/></l>
                     <l> Ancois les fist entre baisier<lb/></l>
@@ -931,6 +943,7 @@
                     <l> A ladame dc saproisma<lb/></l>
                     <l> A drapel vint corant marie<lb/></l>
                     <l> de son cors en couri ptie<lb/></l>
+                
                     <l> Qnt fu del drapel afublee<lb/></l>
                     <l> vers le s. home seit tornee<lb/></l>
                     <l> &amp; vait aluj p de sor londe<lb/></l>
@@ -981,6 +994,7 @@
                     <l> Enluj pues auoir gnt fiace<lb/></l>
                     <l> mlt en auras bo gredon<lb/></l>
                     <l> Or mefai tabeneicon<lb/></l>
+                
                     <l> dame ce respont Zosimas<lb/></l>
                     <l> jam a beneicon nauras<lb/></l>
                     <l> Setu pmes ne lemefais<lb/></l>
@@ -1031,6 +1045,7 @@
                     <l> A voit encre latre &amp; li<lb/></l>
                     <l> ouele faisoit saproiere<lb/></l>
                     <l> Nostre sires lauoit mlt chiere<lb/></l>
+                
                     <l> de la paor cot zosimas<lb/></l>
                     <l> gmca sent aler lepas<lb/></l>
                     <l> Qda fantosme auoir tue<lb/></l>
@@ -1063,7 +1078,7 @@
                     <l> Jama vie netiert celee<lb/></l>
                     <l> tote le te des couerrai<lb/></l>
                     <l> Ne ia de rien nen naturaj<lb/></l>
-                    <l> Dont gmce agt marie<lb/></l>
+                    <l> <emph n="2" rend="floriate">D</emph>ont 9mce agt marie<lb/></l>
                     <l> Rien ne coile q tot nedie<lb/></l>
                     <l> tote sauie a agtee<lb/></l>
                     <l> des icele eure q fu nee<lb/></l>
@@ -1133,6 +1148,7 @@
                     <l> En q ai tote ma douaor<lb/></l>
                     <l> Ne puis ne vi home fors toi<lb/></l>
                     <l> aler men uoil proie p moi<lb/></l>
+                
                     <l> lors sen est ladame tnee<lb/></l>
                     <l> El gnt de sert en est ente<lb/></l>
                     <l> Qnt lisains hom levuit al<lb/></l>
@@ -1157,7 +1173,7 @@
                     <l> de qnt q il auoit veu<lb/></l>
                     <l> Nus ni voloit pas nouelier<lb/></l>
                     <l> Ne soi -i- poit glorifier<lb/></l>
-                    <l> Aps qnt ce vit alqreme<lb/></l>
+                    <l> <emph n="2" rend="floriate">A</emph>ps qnt ce vit alqreme<lb/></l>
                     <l> Q casg doit al son esme<lb/></l>
                     <l> Enson lit jut danszosima<lb/></l>
                     <l> mal ades fu ni ala pas<lb/></l>
@@ -1183,6 +1199,7 @@
                     <l> mais en cor ne iauoit mie<lb/></l>
                     <l> Co ert larie qpl doutoit<lb/></l>
                     <l> Q pechies ne liait toloit<lb/></l>
+                
                     <l> onq le iait ia este<lb/></l>
                     <l> &amp; q il ait tp de more<lb/></l>
                     <l> delatendre fu anuies<lb/></l>
@@ -1233,6 +1250,7 @@
                     <l> de leue q siert pfonde<lb/></l>
                     <l> Qnt de la tre ladreca<lb/></l>
                     <l> pvraie amistie le baisa<lb/></l>
+                
                     <l> li sains hom le uolt amer<lb/></l>
                     <l> gmenca le aacoler<lb/></l>
                     <l> Credo ni denm li roua<lb/></l>
@@ -1335,6 +1353,7 @@
                     <l> &amp; en mon coes arme mesis<lb/></l>
                     <l> atoi lepuisse io liurer<lb/></l>
                     <l> &amp; otroier &amp; gmand<lb/></l>
+                
                     <l> <lb/></l>
                     <l> <lb/></l>
                     <l> <lb/></l>
@@ -1385,6 +1404,7 @@
                     <l> de ce setint aentrepris<lb/></l>
                     <l> ancois eust ps le g giet<lb/></l>
                     <l> Q peust issir de son siet<lb/></l>
+                
                     <l> Qnt fu tres passes icel an<lb/></l>
                     <l> mlt tost passa le Flu iorda<lb/></l>
                     <l> Eldesert vint por lamoils<lb/></l>
@@ -1435,6 +1455,7 @@
                     <l> a lautre cors nose atouch<lb/></l>
                     <l> Jl regarda amot al chief<lb/></l>
                     <l> le tres ivit g en -i- brief<lb/></l>
+                
                     <l> En ces letres qlisainsvit<lb/></l>
                     <l> Ert cis gmandemt escrit<lb/></l>
                     <l> Zosimas prent le cors marie<lb/></l>
@@ -1538,6 +1559,7 @@
                     <l> mlt p est gnde tavertu<lb/></l>
                     <l> bn mas de mostre p marie<lb/></l>
                     <l> Q mlt pest Fols qtoblie<lb/></l>
+                
                     <l> Oruoi &amp; croi bn sansdoutace<lb/></l>
                     <l> Q Fort cose a enpenitace<lb/></l>
                     <l> Ne iamais tresqs almorir<lb/></l>
