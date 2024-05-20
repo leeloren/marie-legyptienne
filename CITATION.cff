@@ -3,7 +3,7 @@ message: "If you use this repository, please cite it as below."
 authors:
 - family-names: "Lee"
   given-names: "Loren"
-  ORCiD: 0009-0001-2153-9991
+  orcid: "https://orcid.org/0009-0001-2153-9991"
 
 title: "marie-legyptienne"
 version: 1.0.0
