@@ -1,11 +1,12 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this repository, please cite it as below."
 authors:
 - family-names: "Lee"
   given-names: "Loren"
+  ORCiD: 0009-0001-2153-9991
 
 title: "marie-legyptienne"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
+doi: 
 date-released: 2024-05-09
 url: "https://github.com/leeloren/marie-legyptienne"
