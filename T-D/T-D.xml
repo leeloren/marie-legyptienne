@@ -897,7 +897,7 @@
                     <l> Un umbre vit sun encient<lb/></l>
                     <l> Qui esteit de home. ou de femme<lb/></l>
                     <l> mes ceo esteit <name type="saint">la Egiptiene</name><lb/></l>
-                    <l> <name type="god">Deu</name> laveit iloc amenee<lb/></l>
+                    <l> <name type="god">Deu</name> <choice><orig>laveit</orig><reg>l'aveit</reg></choice> iloc amenee<lb/></l>
                     <l> Ne voloit mes <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> fust celee<lb/></l>
                     <l> descovrir voloir le tresor<lb/></l>
                     <l> ke miex valut <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> nul or<lb/></l>
