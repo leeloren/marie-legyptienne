@@ -7,7 +7,7 @@
         <fileDesc>
             <titleStmt>
                 <title></title>
-                <respStmt><name>Loren Lee</name><resp><date>2023-10-25</date>scribe</resp></respStmt>
+                <respStmt><name>Loren Lee</name><resp><date>2024-11-13</date>scribe</resp></respStmt>
             </titleStmt>
             <publicationStmt><p></p></publicationStmt>
             <sourceDesc><p></p></sourceDesc>
@@ -139,7 +139,7 @@
                 <l><choice><abbr><orig>psue</orig></abbr><expan><reg>por sue</reg></expan></choice> amor li jovencel<lb/></l>
                 <l>ele les <choice><orig>recoit</orig><reg>reçoit</reg></choice> volentiers.</l>
                 <l><choice><abbr><orig>niet</orig></abbr><expan><reg>nient</reg></expan></choice> <choice><abbr><orig>solemet</orig></abbr><expan><reg>solement</reg></expan></choice> <choice><abbr><orig>plor</orig></abbr><expan><reg>par lor</reg></expan></choice> doniers<lb/></l>
-                <l>Mais <choice><abbr><orig>pfaire</orig></abbr><expan><reg>por faire</reg></expan></choice> <choice><abbr><orig>lesien</orig></abbr><expan><reg>le sien</reg></expan></choice> delit.</l>
+                <l>Mais <choice><abbr><orig>pfaire</orig></abbr><expan><reg>por faire</reg></expan></choice> <choice><orig>lesien</orig><reg>le sien</reg></choice> delit.</l>
                 <l>les avoit tote nuit <choice><orig>ellit</orig><reg>el lit</reg></choice><lb/></l>
                 <cb/>
                 
@@ -214,7 +214,7 @@
                 <l><choice><orig>Jalebeate</orig><reg>Ja le beaté</reg></choice> <choice><orig>deceste</orig><reg>de ceste</reg></choice> toise.</l>
                 <l><choice><orig>Niert</orig><reg>N'iert</reg></choice> descrite se <choice><orig>ni</orig><reg>n'i</reg></choice> at proise<lb/></l>
                 <l>a plendre fait tel creature.</l>
-                <l><choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> <choice><abbr><orig>deseCreator</orig></abbr><expan><reg>de se <name type="god">Creator</name></reg></expan></choice> <choice><orig>nat</orig><reg>n'at</reg></choice> cure<lb/></l>
+                <l><choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> <choice><orig>deseCreator</orig><reg>de se <name type="god">Creator</name></reg></choice> <choice><orig>nat</orig><reg>n'at</reg></choice> cure<lb/></l>
                 <l>ele recivoit <choice><abbr><orig>gns</orig></abbr><expan><reg>grans</reg></expan></choice> <choice><abbr><orig>psenz</orig></abbr><expan><reg>presenz</reg></expan></choice>.</l>
                 <l><choice><orig>sen</orig><reg>s'en</reg></choice> achatoit chier garnimenz<lb/></l>
                 <l>bons dras avoit &amp; <choice><abbr><orig>avenaz</orig></abbr><expan><reg>avenanz</reg></expan></choice>.</l>
@@ -641,7 +641,7 @@
                 <l>se vos <choice><orig>enveissiez</orig><reg>en veissiez</reg></choice> <choice><orig>lorelhe</orig><reg>l'orelhe</reg></choice>.</l>
                 <l>mut vos venist <choice><abbr><orig>agnt</orig></abbr><expan><reg>a grant</reg></expan></choice> <choice><abbr><orig>mvelhe</orig></abbr><expan><reg>mervelhe</reg></expan></choice><lb/></l>
                 <l>car maigre ert mut &amp; degregue.</l>
-                <l>&amp;<choice><abbr><orig>deblac</orig></abbr><expan><reg>de blanc</reg></expan></choice> poilh tote mossue<lb/></l>
+                <l><choice><abbr><orig>&amp;deblac</orig></abbr><expan><reg>&amp; de blanc</reg></expan></choice> poilh tote mossue<lb/></l>
                 <l>Noire &amp; polhue ert la <choice><abbr><orig>poitne</orig></abbr><expan><reg>poitrine</reg></expan></choice>.</l>
                 <l><choice><abbr><orig>sebloit</orig></abbr><expan><reg>sembloit</reg></expan></choice> scorce de noire spine<lb/></l>
                 <l><choice><abbr><orig>Livetres</orig></abbr><expan><reg>Li ventres</reg></expan></choice> <choice><orig>liert</orig><reg>li ert</reg></choice> toz caoiz.</l>
@@ -853,7 +853,7 @@
                 <l>mut <choice><abbr><orig>sovet</orig></abbr><expan><reg>sovent</reg></expan></choice> <choice><orig>levat</orig><reg>le vat</reg></choice> apelant<lb/></l>
                 <l><name type="saint">Dame</name> dist il parole <choice><orig>amoi</orig><reg>a moi</reg></choice>.</l>
                 <l><choice><orig>setu</orig><reg>se tu</reg></choice> <choice><orig>enDeu</orig><reg>en <name type="god">Deu</name></reg></choice> as nule foi<lb/></l>
-                <l><choice><orig>Jete</orig><reg>Je te</reg></choice> <choice><abbr><orig>cojur</orig></abbr><expan><reg>conjur</reg></expan></choice> <choice><abbr><orig>pDelegrat</orig></abbr><expan><reg>par <name type="god"><choice><orig>De</orig><reg>Dé</reg></choice></name> le grant</reg></expan></choice>.</l>
+                <l><choice><orig>Jete</orig><reg>Je te</reg></choice> <choice><abbr><orig>cojur</orig></abbr><expan><reg>conjur</reg></expan></choice> <choice><abbr><orig>pDelegrat</orig></abbr><expan><reg>par <name type="god">Dé</name> le grant</reg></expan></choice>.</l>
                 <l><choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> tu ne voises en avant<lb/></l>
                 <l><choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> <choice><orig>ladame</orig><reg>la dame</reg></choice> ot <choice><orig>deDeu</orig><reg>de <name type="god">Deu</name></reg></choice> <choice><abbr><orig>pler</orig></abbr><expan><reg>parler</reg></expan></choice>.</l>
                 <l><choice><orig>depitiet</orig><reg>de pitiet</reg></choice> <choice><abbr><orig>comce</orig></abbr><expan><reg>comence</reg></expan></choice> <choice><orig>aplorer</orig><reg>a plorer</reg></choice><lb/></l>
@@ -903,7 +903,7 @@
                 <l><name type="character">Zozimas</name> gist <choice><orig>alaplace</orig><reg>a la place</reg></choice>.</l>
                 <l><choice><orig>laige</orig><reg>l'aige</reg></choice> li cort aval la face<lb/></l>
                 <l><choice><abbr><orig>tat</orig></abbr><expan><reg>tant</reg></expan></choice> angoissat <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> toz tresue.</l>
-                <l><choice><abbr><orig>plebarbe</orig></abbr><expan><reg>par le barbe</reg></expan></choice> <choice><abbr><orig>q</orig></abbr><expan><reg>qu'</reg></expan></choice> <choice><abbr><orig>÷</orig></abbr><expan><reg>est</reg></expan></choice> chenue<lb/></l>
+                <l><choice><abbr><orig>plebarbe</orig></abbr><expan><reg>par le barbe</reg></expan></choice> <choice><abbr><orig>q</orig></abbr><expan><reg>qu'</reg></expan></choice><choice><abbr><orig>÷</orig></abbr><expan><reg>est</reg></expan></choice> chenue<lb/></l>
                 <l><choice><orig>siencort</orig><reg>si encort</reg></choice> <choice><orig>avallasuors</orig><reg>aval la suors</reg></choice>.</l>
                 <l><choice><orig>ladame</orig><reg>la dame</reg></choice> <choice><abbr><orig>pe</orig></abbr><expan><reg>prie</reg></expan></choice> <choice><abbr><orig>p</orig></abbr><expan><reg>par</reg></expan></choice> <choice><abbr><orig>grat</orig></abbr><expan><reg>grant</reg></expan></choice> amors<lb/></l>
                 <l><choice><abbr><orig>plepople</orig></abbr><expan><reg>par le pople</reg></expan></choice> face orison.</l>
@@ -1102,7 +1102,7 @@
                 <l><choice><orig>Labes</orig><reg>L'abes</reg></choice> <name type="saint"><choice><abbr><orig>Joha</orig></abbr><expan><reg>Johan</reg></expan></choice></name> <choice><orig>ifut</orig><reg>i fut</reg></choice>  mut liez.</l>
                 <l><choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> <choice><orig>illes</orig><reg>il les</reg></choice> vit toz repaiciez<lb/></l>
                 <l>Mais <choice><abbr><orig>chascus</orig></abbr><expan><reg>chascuns</reg></expan></choice> des <choice><abbr><orig>÷</orig></abbr><expan><reg>est</reg></expan></choice> ben tenu.</l>
-                <l><choice><orig>dece</orig><reg>de ce</reg></choice> <choice><abbr><orig>q ilorent</orig></abbr><expan><reg>qu'il orent</reg></expan></choice> veu<lb/></l>
+                <l><choice><orig>dece</orig><reg>de ce</reg></choice> <choice><abbr><orig>qilorent</orig></abbr><expan><reg>qu'il orent</reg></expan></choice> veu<lb/></l>
                 <l><choice><abbr><orig>bie</orig></abbr><expan><reg>bien</reg></expan></choice> les gardoit <choice><orig>labes</orig><reg>l'abes</reg></choice> <name type="saint">Johan</name>.</l>
                 <l>Mais <choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> <choice><abbr><orig>oret</orig></abbr><expan><reg>orent</reg></expan></choice> <choice><orig>passe</orig><reg>passé</reg></choice> <choice><orig>celan</orig><reg>ce l'an</reg></choice><lb/></l>
                 <l><choice><abbr><orig>Lipmier</orig></abbr><expan><reg>Li premier</reg></expan></choice> jor <choice><abbr><orig>vit</orig></abbr><expan><reg>vint</reg></expan></choice> <choice><abbr><orig>deqreme</orig></abbr><expan><reg>de quareme</reg></expan></choice>.</l>
@@ -1110,7 +1110,7 @@
                 <l><choice><abbr><orig>enselit</orig></abbr><expan><reg>en sen lit</reg></expan></choice> gist <name type="character">Zozimas</name>.</l>
                 <l>malades fut <choice><orig>ni</orig><reg>n'i</reg></choice> alat pas<lb/></l>
                 <l>sot <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> <choice><orig>voireert</orig><reg>voire ert</reg></choice> <choice><abbr><orig>lapphetie</orig></abbr><expan><reg>la prophetie</reg></expan></choice>.</l>
-                <l><choice><abbr><orig>ql oit</orig></abbr><expan><reg>que l'oit</reg></expan></choice> dire <name type="saint">Marie</name><lb/></l>
+                <l><choice><abbr><orig>qloit</orig></abbr><expan><reg>que l'oit</reg></expan></choice> dire <name type="saint">Marie</name><lb/></l>
                 <l>tote passe la <choice><abbr><orig>karataine</orig></abbr><expan><reg>karantaine</reg></expan></choice>.</l>
                 <l><choice><abbr><orig>tat</orig></abbr><expan><reg>tant</reg></expan></choice> ke <choice><abbr><orig>vit</orig></abbr><expan><reg>vint</reg></expan></choice> li jors <choice><orig>dele</orig><reg>de le</reg></choice> <choice><orig>caine</orig><reg>çaine</reg></choice><lb/></l>
                 <l><name type="character">Zozimas</name> <choice><orig>sesenti</orig><reg>se senti</reg></choice> guari.</l>
@@ -1181,7 +1181,7 @@
                 <cb/>
                 
             <pb n="118v"/>
-                <l><choice><abbr><orig>Nosesor</orig></abbr><expan><reg>N'ose sor</reg></expan></choice> li faire signacle.</l>
+                <l><choice><orig>Nosesor</orig><reg>N'ose sor</reg></choice> li faire signacle.</l>
                 <l><choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> <name type="god"><choice><abbr><orig>Ds</orig></abbr><expan><reg>Deus</reg></expan></choice></name> fait <choice><abbr><orig>pli</orig></abbr><expan><reg>por li</reg></expan></choice> tel miracle<lb/></l>
                 <l><choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> lat fait aler <choice><orig>sorlunde</orig><reg>sor l'unde</reg></choice>.</l>
                 <l><choice><orig>delaige</orig><reg>de l'aige</reg></choice> <choice><abbr><orig>qmut</orig></abbr><expan><reg>qui mut</reg></expan></choice> <choice><abbr><orig>÷</orig></abbr><expan><reg>est</reg></expan></choice> <choice><abbr><orig>pfunde</orig></abbr><expan><reg>parfunde</reg></expan></choice><lb/></l>
@@ -1324,7 +1324,7 @@
                 <l>un fust <choice><abbr><orig>tvat</orig></abbr><expan><reg>trovat</reg></expan></choice> <choice><abbr><orig>paveture</orig></abbr><expan><reg>par aventure</reg></expan></choice>.</l>
                 <l>foir <choice><orig>envot</orig><reg>en vot</reg></choice> <choice><orig>laterre</orig><reg>la terre</reg></choice> dure<lb/></l>
                 <l>toz tresuoit <choice><abbr><orig>dedes</orig></abbr><expan><reg>dedens</reg></expan></choice> la haire.</l>
-                <l>&amp; <choice><abbr><orig>senipot</orig></abbr><expan><reg>se n'i pot</reg></expan></choice> nule <choice><abbr><orig>rie</orig></abbr><expan><reg>rien</reg></expan></choice> faire<lb/></l>
+                <l>&amp; <choice><orig>senipot</orig><reg>se n'i pot</reg></choice> nule <choice><abbr><orig>rie</orig></abbr><expan><reg>rien</reg></expan></choice> faire<lb/></l>
                 <l><name type="god"><choice><abbr><orig>Ds</orig></abbr><expan><reg>Deus</reg></expan></choice></name> li tremist bon <choice><abbr><orig>copagno</orig></abbr><expan><reg>compagnon</reg></expan></choice>.</l>
                 <l>nient atre mais un leon<lb/></l>
                 <l><choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> li sains <choice><abbr><orig>ho</orig></abbr><expan><reg>hom</reg></expan></choice> vit leon.</l>
