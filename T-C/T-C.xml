@@ -391,7 +391,7 @@
                     <l>e lur volentez acomplirent .<lb/></l>
                     <l>merveille ert <choice><orig>dune</orig><reg>d'une</reg></choice> <choice><abbr><orig>feme</orig></abbr><expan><reg>femme</reg></expan></choice> sule<lb/></l>
                     <l>ke pout servir si grant fule .<lb/></l>
-                    <l>mes de <choice><orig>co</orig><reg>ço</reg></choice> <choice><abbr><orig>nestot</orig></abbr><expan><reg>n'estot</reg></expan></choice> doter nulli<lb/></l>
+                    <l>mes de <choice><orig>co</orig><reg>ço</reg></choice> <choice><orig>nestot</orig><reg>n'estot</reg></choice> doter nulli<lb/></l>
                     <l>ke diable ne feust ove lui .<lb/></l>
                     <l>ki mut volentiers la neiast<lb/></l>
                     <l>se <name type="god">Nostre Sire</name> lui lessast .<lb/></l>
@@ -760,7 +760,7 @@
                     <l>Les ungles avoit ele mut <choice><orig>genz</orig><reg>grenz</reg></choice><lb/></l>
                     <l>Si les retaillot de ses denz .<lb/></l>
                     <l>Li ventre tut lui ert caeiz<lb/></l>
-                    <l>Guere ne <choice><abbr><orig>magot</orig></abbr><expan><reg>mangot</reg></expan></choice>.<choice><orig>co</orig><reg>ço</reg></choice> ert droiz .<lb/></l>
+                    <l>Guere ne <choice><abbr><orig>magot.co</orig></abbr><expan><reg>mangot ço</reg></expan></choice> ert droiz .<lb/></l>
                 <cb/>
                     
                 <pb n="48r"/>
@@ -956,7 +956,7 @@
                     <l>un umbre vit son escient .<lb/></l>
                     <l>ki <choice><abbr><orig>dome</orig></abbr><expan><reg>d'omme</reg></expan></choice> estoit u de <choice><abbr><orig>feme</orig></abbr><expan><reg>femme</reg></expan></choice><lb/></l>
                     <l>mes ele ert <choice><orig>del Egipciene</orig><reg>de l'Egipciene</reg></choice> .<lb/></l>
-                    <l><name type="god">Deus</name> <choice><orig>la voit</orig><reg>l'avoit</reg></choice> illoc menee<lb/></l>
+                    <l><name type="god">Deus</name> <choice><orig>lavoit</orig><reg>l'avoit</reg></choice> illoc menee<lb/></l>
                     <l>Ne vout mes <choice><orig>kele</orig><reg>k'ele</reg></choice> feust celee .<lb/></l>
                     <l><choice><abbr><orig>Descovir</orig></abbr><expan><reg>Descoverir</reg></expan></choice> voleit le tresor<lb/></l>
                     <l>ke plus ert precius ke or .<lb/></l>
@@ -1563,7 +1563,7 @@
                     <l><choice><orig>Sele</orig><reg>S'ele</reg></choice> me seust en cest guast .<lb/></l>
                     <l><name type="god">Sire</name> se tu de moi as cure<lb/></l>
                     <l>Lai me fere sa sepulture .<lb/></l>
-                    <l><name type="god">Beau Pere</name> <name type="god"> <name type="god">Rei de magestez</name></name><lb/></l>
+                    <l><name type="god">Beau Pere</name> <name type="god">Rei de magestez</name><lb/></l>
                     <l>Ne me lessez si esgarez .<lb/></l>
                     <l>kant il out <choice><orig>soreison</orig><reg>s'oreison</reg></choice> finie<lb/></l>
                     <l><name type="god">Deus</name> li <choice><abbr><orig>mustr</orig></abbr><expan><reg>mustras</reg></expan></choice> le cors <name type="saint">Marie</name> .<lb/></l>
