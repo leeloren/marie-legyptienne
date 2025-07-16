@@ -381,7 +381,7 @@
                     <l>Ains <choice><abbr><orig>&#xA76F;menca</orig></abbr><expan><reg>commenca</reg></expan></choice> <choice><orig>aen pirier</orig><reg>a enpirier</reg></choice><lb/></l>
                     <l><choice><orig>oies</orig><reg>oiés</reg></choice> <choice><abbr><orig>&#xA76F;</orig></abbr><expan><reg>com</reg></expan></choice> <choice><abbr><orig>gnt</orig></abbr><expan><reg>grant</reg></expan></choice> <choice><abbr><orig>pdicion</orig></abbr><expan><reg>pardicion</reg></expan></choice><lb/></l>
                     <l>Ains <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> venist <choice><orig>lAsention</orig><reg>l'Assention</reg></choice><lb/></l>
-                    <l>De la sainte<choice><abbr><orig></orig></abbr><expan><reg> crois</reg></expan></choice> onoree<lb/></l> <!-- LL: "crois" is written in superscript between "sainte" and "onoree". Should I encode this in XML or add it later with Markdown? -->
+                    <l>De la sainte<choice><orig></orig><reg> crois</reg></choice> onoree<lb/></l> <!-- LL: "crois" is written in superscript between "sainte" and "onoree". Should I encode this in XML or add it later with Markdown? -->
                     <l><choice><abbr><orig>Q</orig></abbr><expan><reg>Que</reg></expan></choice> <choice><orig>idevoit</orig><reg>i devoit</reg></choice> estre <choice><orig>a oree</orig><reg>aoree</reg></choice><lb/></l>
                     <l>ot <choice><orig>en pirie</orig><reg>enpirié</reg></choice> <choice><orig>sitot</orig><reg>si tot</reg></choice> le lieu<lb/></l>
                     <l>Miex li venist <choice><abbr><orig>q</orig></abbr><expan><reg>que</reg></expan></choice> Fust <choice><orig>enfu</orig><reg>en fu</reg></choice><lb/></l>
@@ -1033,7 +1033,7 @@
                     <l>de nos pechies nos fai <choice><abbr><orig>pdo</orig></abbr><expan><reg>pardon</reg></expan></choice><lb/></l>
                     <l>puis amis sa <choice><orig>beneicon</orig><reg>beneiçon</reg></choice><lb/></l>
                     <l>des or se lieve <name type="character">Zosimas</name><lb/></l>
-                    <l><choice><abbr><orig>Gnt</orig></abbr><expan><reg>Grant</reg></expan></choice> plains jete car <choice><abbr><orig>mlt</orig></abbr><expan><reg>molt</reg></expan></choice> fu <choice><abbr><orig></orig></abbr><expan><reg>las</reg></expan></choice><lb/></l> <!-- LL: "las" is written in superscript above "fu" -->
+                    <l><choice><abbr><orig>Gnt</orig></abbr><expan><reg>Grant</reg></expan></choice> plains jete car <choice><abbr><orig>mlt</orig></abbr><expan><reg>molt</reg></expan></choice> fu <choice><orig></orig><reg>las</reg></choice><lb/></l> <!-- LL: "las" is written in superscript above "fu" -->
                     <l>dont li <choice><abbr><orig>&#xA76F;mence</orig></abbr><expan><reg>commence</reg></expan></choice> <choice><orig>ademander</orig><reg>a demander</reg></choice><lb/></l>
                     <l>Car volentiers <choice><orig>lovolt</orig><reg>lo volt</reg></choice> saver<lb/></l>
                     <l>des rois des <choice><abbr><orig>&#xA76F;tes</orig></abbr><expan><reg>contes</reg></expan></choice> de <choice><abbr><orig>latre</orig></abbr><expan><reg>la terre</reg></expan></choice><lb/></l>
