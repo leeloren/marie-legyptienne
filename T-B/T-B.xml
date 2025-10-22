@@ -543,7 +543,7 @@
                 <l>A mut <choice><abbr><orig>mvilhose</orig></abbr><expan><reg>mervilhose</reg></expan></choice> paor.</l>
                 <l>Aorat <choice><orig>lacrois</orig><reg>la crois</reg></choice> se <name>Sagnorr</name><lb/></l> <!-- LL: The second "r" at the end of the line is scribal error. -->
                 <l>&amp; <choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> ele <choice><orig>lot</orig><reg>l'ot</reg></choice> aoree.</l>
-                <l>del Saint Espir fut enspiree<lb/></l>
+                <l>del Saint <choice><orig>Espir</orig><reg>Esprit</reg></choice> fut enspiree<lb/></l>
                 <l><choice><orig>deses</orig><reg>de ses</reg></choice> pechiez <choice><abbr><orig>÷</orig></abbr><expan><reg>est</reg></expan></choice> aligie.</l>
                 <l>droit <choice><orig>alimage</orig><reg>a l'image</reg></choice> <choice><abbr><orig>÷</orig></abbr><expan><reg>est</reg></expan></choice> repairie<lb/></l>
                 <l><choice><orig>enli</orig><reg>en li</reg></choice> at tote sa fiance.</l>
@@ -777,7 +777,7 @@
                 <l><choice><abbr><orig>p</orig></abbr><expan><reg>por</reg></expan></choice> escaper <choice><abbr><orig>legrat</orig></abbr><expan><reg>le grant</reg></expan></choice> <choice><abbr><orig>pil</orig></abbr><expan><reg>peril</reg></expan></choice>.</l>
                 <l>astoient il tuit <choice><orig>enexil</orig><reg>en exil</reg></choice><lb/></l>
                 <l><choice><abbr><orig>cat</orig></abbr><expan><reg>cant</reg></expan></choice> passee ert <choice><abbr><orig>laQrantaine</orig></abbr><expan><reg>la Quarantaine</reg></expan></choice>.</l>
-                <l>&amp; venoit al jor <choice><orig>delacaine</orig><reg>de la Çaine</reg></choice><lb/></l>
+                <l>&amp; venoit al jor <choice><orig>delaCaine</orig><reg>de la Çaine</reg></choice><lb/></l>
                 <l><choice><orig>Lejor</orig><reg>Le jor</reg></choice> <choice><abbr><orig>deramispalmaru</orig></abbr><expan><reg>de ramis palmarum</reg></expan></choice>.</l>
                 <l><choice><abbr><orig>repairoiet</orig></abbr><expan><reg>repairoient</reg></expan></choice> tuit en maisun<lb/></l>
                 <l>Li sains <choice><orig>abes</orig><reg>abés</reg></choice> en ert mut liez.</l>
