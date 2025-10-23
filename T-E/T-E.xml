@@ -61,7 +61,7 @@
                     <l>tant <choice><abbr><orig>q il</orig></abbr><expan><reg>qu'il</reg></expan></choice> sent al cuer <choice><orig>lamort</orig><reg>la mort</reg></choice><lb/></l>
                     <l><choice><abbr><orig>Qnt</orig></abbr><expan><reg>Quant</reg></expan></choice> il se muert &amp; il se sent<lb/></l>
                     <l>a dont il ja me repent<lb/></l>
-                    <l>Selonc le dit <name type="saint"><choice><abbr><orig>Sait Agustin</orig></abbr><expan><reg>Saint Agustin</reg></expan></choice></name><lb/></l>
+                    <l>Selonc le dit <name type="saint"><choice><abbr><orig>sait Agustin</orig></abbr><expan><reg>saint Agustin</reg></expan></choice></name><lb/></l>
                     <l><choice><orig>Nest</orig><reg>N'est</reg></choice> mie bone iceste fin<lb/></l>
                     <l><choice><abbr><orig>Q</orig></abbr><expan><reg>Qui</reg></expan></choice> tart est <choice><abbr><orig>ps</orig></abbr><expan><reg>pris</reg></expan></choice> ______ al repentir<lb/></l> <!-- LL: Not sure why, but this and the next line each have a big empty space in the middle of the line for no discernable reason. The parchment doesn't seem to have any flaws, nothing scratched off, no decoration. -->
                     <l><choice><abbr><orig>Qnt</orig></abbr><expan><reg>Quant</reg></expan></choice> on est ______ <choice><abbr><orig>ven</orig></abbr><expan><reg>venus</reg></expan></choice> al morir<lb/></l>
@@ -1280,7 +1280,7 @@
                     <l>Credo in <name type="god">Deum</name> li rova<lb/></l>
                     <l>por <name type="god">Deu</name> li desist si <choice><orig>lorra</orig><reg>l'orra</reg></choice><lb/></l>
                     <l>adont <choice><orig>lidist</orig><reg>li dist</reg></choice> <choice><abbr><orig>mlt</orig></abbr><expan><reg>molt</reg></expan></choice> <choice><abbr><orig>belemt</orig></abbr><expan><reg>belement</reg></expan></choice><lb/></l>
-                    <l>&amp; <name type="god"><choice><orig>laPatre</orig><reg>la Patre</reg></choice>nostre</name> <choice><abbr><orig>ensemt</orig></abbr><expan><reg>ensement</reg></expan></choice><lb/></l>
+                    <l>&amp; <name type="god"><choice><orig>laPatre nostre</orig><reg>la Patrenostre</reg></choice></name> <choice><abbr><orig>ensemt</orig></abbr><expan><reg>ensement</reg></expan></choice><lb/></l>
                     <l><name type="saint"><choice><orig>ladame</orig><reg>la dame</reg></choice></name> respont <choice><abbr><orig>aps</orig></abbr><expan><reg>aprés</reg></expan></choice> lui<lb/></l>
                     <l><choice><abbr><orig>mlt</orig></abbr><expan><reg>molt</reg></expan></choice> <choice><orig>sentre gardent</orig><reg>s'entregardent</reg></choice> anbedui<lb/></l>
                     <l><choice><abbr><orig>Qnt</orig></abbr><expan><reg>Quant</reg></expan></choice> orent fait lor <choice><abbr><orig>p lemt</orig></abbr><expan><reg>parlement</reg></expan></choice><lb/></l>
@@ -1289,7 +1289,7 @@
                     <l><choice><abbr><orig>p</orig></abbr><expan><reg>par</reg></expan></choice> <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> seront sauf pecheor<lb/></l>
                     <l><name type="character">Zosimas</name> le tint <choice><abbr><orig>ensamai</orig></abbr><expan><reg>en sa main</reg></expan></choice><lb/></l>
                     <l><name type="saint">dame</name> dist il ce samble <choice><abbr><orig>pai</orig></abbr><expan><reg>pain</reg></expan></choice><lb/></l>
-                    <l>mais <choice><orig>co</orig><reg>ço</reg></choice> est <choice><orig>lecors</orig><reg>le cors</reg></choice> <name type="god"><choice><abbr><orig>Jhu</orig></abbr><expan><reg>Jhesu</reg></expan></choice>crist</name><lb/></l>
+                    <l>mais <choice><orig>co</orig><reg>ço</reg></choice> est <choice><orig>lecors</orig><reg>le cors</reg></choice> <name type="god"><choice><abbr><orig>Jhu crist</orig></abbr><expan><reg>Jhesucrist</reg></expan></choice></name><lb/></l>
                     <l><choice><abbr><orig>Q</orig></abbr><expan><reg>Que</reg></expan></choice> li malvais pueples acist<lb/></l>
                     <l><choice><orig>Enlacrois</orig><reg>En la crois</reg></choice> fu mis &amp; ocis<lb/></l>
                     <l><choice><abbr><orig>Jan</orig></abbr><expan><reg>Ja nus</reg></expan></choice> <choice><orig>navera</orig><reg>n'avera</reg></choice> paradis<lb/></l>
@@ -1633,7 +1633,7 @@
                     <l>&amp; les novels &amp; tos les <choice><orig>vies</orig><reg>viés</reg></choice><lb/></l>
                     <l><choice><abbr><orig>Q</orig></abbr><expan><reg>Que</reg></expan></choice> lui puissons faire <choice><abbr><orig>pset</orig></abbr><expan><reg>present</reg></expan></choice><lb/></l>
                     <l><choice><orig>denos</orig><reg>de nos</reg></choice> armes al <choice><abbr><orig>Juge mt</orig></abbr><expan><reg>Jugement</reg></expan></choice><lb/></l>
-                    <l>amen amen &amp; <name type="god"><choice><abbr><orig>Jhu</orig></abbr><expan><reg>Jhesu</reg></expan></choice>crist</name><lb/></l>
+                    <l>amen amen &amp; <name type="god"><choice><abbr><orig>Jhu crist</orig></abbr><expan><reg>Jhesucrist</reg></expan></choice></name><lb/></l>
                     <l><choice><abbr><orig>&#xA76F; saut</orig></abbr><expan><reg>consaut</reg></expan></choice> <choice><abbr><orig>q</orig></abbr><expan><reg>qui</reg></expan></choice> cest romans <choice><abbr><orig>escst</orig></abbr><expan><reg>escrist</reg></expan></choice><lb/></l>
                     <l>&amp; <name type="saint">madame sainte Marie</name><lb/></l>
                     <l>Nos <choice><abbr><orig>doist</orig></abbr><expan><reg>doinst</reg></expan></choice> la <choice><abbr><orig>pmenable</orig></abbr><expan><reg>parmenable</reg></expan></choice> vie<lb/></l>
